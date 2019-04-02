@@ -1,5 +1,31 @@
 {
 "commit" : "f4e56c65d61efa65dd63fd44515a6e4b855bdd9e",
+"build" : 72643,
+"version" : 116,
+"fonts" : [
+"Roboto-Italic",
+"Roboto-Medium",
+"Roboto-Bold",
+"Roboto-Light",
+"Roboto-Regular"
+],
+"compatibilityVersion" : 99,
+"app" : "com.bohemiancoding.sketch3",
+"autosaved" : 0,
+"variant" : "NONAPPSTORE",
+"created" : {
+"build" : 72643,
+"appVersion" : "53.2",
+"commit" : "f4e56c65d61efa65dd63fd44515a6e4b855bdd9e",
+"app" : "com.bohemiancoding.sketch3",
+"compatibilityVersion" : 99,
+"version" : 116,
+"variant" : "NONAPPSTORE"
+},
+"saveHistory" : [
+"NONAPPSTORE.72643"
+],
+"appVersion" : "53.2",
 "pagesAndArtboards" : {
 "38e7cec0-4c19-11e9-a0fd-5dd9c7e33d2f" : {
 "name" : "Page 1",
@@ -353,31 +379,5 @@
 }
 }
 }
-},
-"version" : 116,
-"fonts" : [
-"Roboto-Italic",
-"Roboto-Medium",
-"Roboto-Bold",
-"Roboto-Light",
-"Roboto-Regular"
-],
-"compatibilityVersion" : 99,
-"app" : "com.bohemiancoding.sketch3",
-"autosaved" : 0,
-"variant" : "NONAPPSTORE",
-"created" : {
-"build" : 72643,
-"appVersion" : "53.2",
-"commit" : "f4e56c65d61efa65dd63fd44515a6e4b855bdd9e",
-"app" : "com.bohemiancoding.sketch3",
-"compatibilityVersion" : 99,
-"version" : 116,
-"variant" : "NONAPPSTORE"
-},
-"saveHistory" : [
-"NONAPPSTORE.72643"
-],
-"appVersion" : "53.2",
-"build" : 72643
+}
 }

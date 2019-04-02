@@ -67282,7 +67282,7 @@
 "y" : -617
 },
 "do_objectID" : "DDDE63AB-D056-41EF-A984-CD388BA2E890",
-"hasClickThrough" : false,
+"hasClickThrough" : true,
 "exportOptions" : {
 "shouldTrim" : false,
 "do_objectID" : "1DBE4878-8853-44BF-BD2D-43CA6ED4B0AC",
@@ -72261,7 +72261,12 @@
 "_class" : "symbolInstance",
 "booleanOperation" : -1,
 "overrideValues" : [
-
+{
+"do_objectID" : "FA135050-6A7D-40C0-A0EA-1A309FA3F633",
+"overrideName" : "3CE0A5A5-7914-47EC-8395-701C0823375A_stringValue",
+"_class" : "overrideValue",
+"value" : "Email address(@endava.com)"
+}
 ],
 "resizingConstraint" : 63
 }
@@ -74310,7 +74315,7 @@
 },
 "symbolID" : "D7664466-DDCF-4A52-9285-8C206EC192B9",
 "isFlippedVertical" : false,
-"clippingMaskMode" : 0,
+  "clippingMaskMode" : 0,
 "name" : "Book Cover Copy 2",
 "isVisible" : true,
 "hasClippingMask" : false,
