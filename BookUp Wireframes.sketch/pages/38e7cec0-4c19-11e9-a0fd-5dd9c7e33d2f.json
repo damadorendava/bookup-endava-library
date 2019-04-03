@@ -7656,7 +7656,7 @@
 "y" : -617
 },
 "do_objectID" : "83CAA184-68DA-4455-8353-B9EEF7ACBDD8",
-"hasClickThrough" : false,
+"hasClickThrough" : true,
 "exportOptions" : {
 "shouldTrim" : false,
 "do_objectID" : "F9E022BB-1652-4366-B51E-AE0CF8079E2B",
@@ -12050,26 +12050,7 @@
 "resizingType" : 0,
 "horizontalSpacing" : 0,
 "userInfo" : {
-"com.invision.prototype" : {
-"closeOnClickOutside" : 1,
-"maintainScrollPositionAfterRedirect" : 0,
-"stayOnTargetScreen" : 0,
-"openURLInNewWindow" : 0,
-"reverseTransitionOnClose" : 1,
-"gesture" : 0,
-"overlayPosition" : 0,
-"redirectAfter" : 0,
-"componentType" : "SRLink",
-"maintainScrollPositionAfterGesture" : 0,
-"overlayTransition" : 0,
-"scrollToPosition" : 0,
-"smoothScrolling" : 0,
-"backgroundOpacity" : 0,
-"linkType" : 0,
-"targetArtboardID" : "0D3F0EA8-C86E-4182-9CF7-5A91F254D992",
-"transition" : 0,
-"fixOverlayPosition" : 1
-}
+
 },
 "isLocked" : false,
 "scale" : 1,
@@ -12735,7 +12716,7 @@
 "y" : -617
 },
 "do_objectID" : "852D48B2-EE8A-48AB-867B-B9278A56E3A6",
-"hasClickThrough" : false,
+"hasClickThrough" : true,
 "exportOptions" : {
 "shouldTrim" : false,
 "do_objectID" : "968473C4-D36D-4B4B-8C39-FE6EAA78649E",
@@ -17129,26 +17110,7 @@
 "resizingType" : 0,
 "horizontalSpacing" : 0,
 "userInfo" : {
-"com.invision.prototype" : {
-"closeOnClickOutside" : 1,
-"maintainScrollPositionAfterRedirect" : 0,
-"stayOnTargetScreen" : 0,
-"openURLInNewWindow" : 0,
-"reverseTransitionOnClose" : 1,
-"gesture" : 0,
-"overlayPosition" : 0,
-"redirectAfter" : 0,
-"componentType" : "SRLink",
-"maintainScrollPositionAfterGesture" : 0,
-"overlayTransition" : 0,
-"scrollToPosition" : 0,
-"smoothScrolling" : 0,
-"backgroundOpacity" : 0,
-"linkType" : 0,
-"targetArtboardID" : "0D3F0EA8-C86E-4182-9CF7-5A91F254D992",
-"transition" : 0,
-"fixOverlayPosition" : 1
-}
+
 },
 "isLocked" : false,
 "scale" : 1,
@@ -37320,7 +37282,7 @@
 "do_objectID" : "6D32A929-11D6-41CC-986D-1302BEA1D38B",
 "layerListExpandedType" : 0,
 "exportOptions" : {
-"shouldTrim" : false,
+    "shouldTrim" : false,
 "do_objectID" : "558501CC-C1B8-422C-9D07-9B9016829B6B",
 "includedLayerIds" : [
 
@@ -46346,7 +46308,7 @@
 "y" : -3877
 },
 "do_objectID" : "DE1EBDBC-1F39-4A57-9ED1-0FD874F5E2DE",
-"hasClickThrough" : false,
+"hasClickThrough" : true,
 "exportOptions" : {
 "shouldTrim" : false,
 "do_objectID" : "131E8821-FB60-4A58-9C95-70E36BC06E9A",
@@ -48379,7 +48341,7 @@
 "y" : 541
 },
 "do_objectID" : "759012CE-8EA5-4975-B00D-C1F18A1C95AD",
-"hasClickThrough" : false,
+"hasClickThrough" : true,
 "exportOptions" : {
 "shouldTrim" : false,
 "do_objectID" : "AA47E404-0198-467E-824A-1A3BBC725D72",
@@ -51112,7 +51074,7 @@
 "y" : -4962
 },
 "do_objectID" : "EEC85CF5-EABE-41E3-9123-27D45DDEC680",
-"hasClickThrough" : false,
+"hasClickThrough" : true,
 "exportOptions" : {
 "shouldTrim" : false,
 "do_objectID" : "D89974F8-0F71-4CA9-976C-B96B892009CC",
@@ -56246,6 +56208,28 @@
 "hasClippingMask" : false,
 "nameIsFixed" : false,
 "resizingType" : 0,
+"userInfo" : {
+"com.invision.prototype" : {
+"closeOnClickOutside" : 1,
+"maintainScrollPositionAfterRedirect" : 0,
+"stayOnTargetScreen" : 0,
+"openURLInNewWindow" : 0,
+"reverseTransitionOnClose" : 1,
+"gesture" : 0,
+"overlayPosition" : 0,
+"redirectAfter" : 0,
+"componentType" : "SRLink",
+"maintainScrollPositionAfterGesture" : 0,
+"overlayTransition" : 0,
+"scrollToPosition" : 0,
+"smoothScrolling" : 0,
+"backgroundOpacity" : 0,
+"linkType" : 0,
+"targetArtboardID" : "DDDE63AB-D056-41EF-A984-CD388BA2E890",
+"transition" : 0,
+"fixOverlayPosition" : 1
+}
+},
 "isLocked" : false,
 "attributedString" : {
 "attributes" : [
@@ -72254,6 +72238,28 @@
 "nameIsFixed" : false,
 "resizingType" : 0,
 "horizontalSpacing" : 0,
+"userInfo" : {
+"com.invision.prototype" : {
+"closeOnClickOutside" : 1,
+"maintainScrollPositionAfterRedirect" : 0,
+"stayOnTargetScreen" : 0,
+"openURLInNewWindow" : 0,
+"reverseTransitionOnClose" : 1,
+"gesture" : 0,
+"overlayPosition" : 0,
+"redirectAfter" : 0,
+"componentType" : "SRLink",
+"maintainScrollPositionAfterGesture" : 0,
+"overlayTransition" : 0,
+"scrollToPosition" : 0,
+"smoothScrolling" : 0,
+"backgroundOpacity" : 0,
+"linkType" : 0,
+"targetArtboardID" : "8CFF96E9-620A-4809-BF02-7536F54FFACD",
+"transition" : 0,
+"fixOverlayPosition" : 1
+}
+},
 "isLocked" : false,
 "scale" : 1,
 "shouldBreakMaskChain" : false,
@@ -72412,7 +72418,7 @@
 "y" : -617
 },
 "do_objectID" : "8CFF96E9-620A-4809-BF02-7536F54FFACD",
-"hasClickThrough" : false,
+"hasClickThrough" : true,
 "exportOptions" : {
 "shouldTrim" : false,
 "do_objectID" : "34A05795-52FE-4C2D-B53E-40192C2FFD85",
@@ -74309,13 +74315,13 @@
 ],
 "_class" : "exportOptions",
 "layerOptions" : 0,
-"exportFormats" : [
+  "exportFormats" : [
 
 ]
 },
 "symbolID" : "D7664466-DDCF-4A52-9285-8C206EC192B9",
 "isFlippedVertical" : false,
-  "clippingMaskMode" : 0,
+"clippingMaskMode" : 0,
 "name" : "Book Cover Copy 2",
 "isVisible" : true,
 "hasClippingMask" : false,
@@ -77397,6 +77403,28 @@
 "nameIsFixed" : false,
 "resizingType" : 0,
 "horizontalSpacing" : 0,
+"userInfo" : {
+"com.invision.prototype" : {
+"closeOnClickOutside" : 1,
+"maintainScrollPositionAfterRedirect" : 0,
+"stayOnTargetScreen" : 0,
+"openURLInNewWindow" : 0,
+"reverseTransitionOnClose" : 1,
+"gesture" : 0,
+"overlayPosition" : 0,
+"redirectAfter" : 0,
+"componentType" : "SRLink",
+"maintainScrollPositionAfterGesture" : 0,
+"overlayTransition" : 0,
+"scrollToPosition" : 0,
+"smoothScrolling" : 0,
+"backgroundOpacity" : 0,
+"linkType" : 0,
+"targetArtboardID" : "FDE9AB7B-DD0E-4329-99D8-12AADBD2D09D",
+"transition" : 0,
+"fixOverlayPosition" : 1
+}
+},
 "isLocked" : false,
 "scale" : 1,
 "shouldBreakMaskChain" : false,
@@ -82496,7 +82524,7 @@
 "y" : 2330
 },
 "do_objectID" : "84BC9594-0897-4B41-8995-2D8B6F029569",
-"hasClickThrough" : false,
+"hasClickThrough" : true,
 "exportOptions" : {
 "shouldTrim" : false,
 "do_objectID" : "713E43F1-BB07-40B9-90C3-54C8751E4ABC",
@@ -82511,7 +82539,7 @@
 },
 "hasBackgroundColor" : true,
 "includeInCloudUpload" : true,
-"layerListExpandedType" : 0,
+"layerListExpandedType" : 2,
 "backgroundColor" : {
 "do_objectID" : "F678A163-190A-4E0C-9754-34AD36A8A3B9",
 "red" : 1,
@@ -82647,7 +82675,7 @@
 
 ]
 },
-"layerListExpandedType" : 0,
+"layerListExpandedType" : 2,
 "isFlippedVertical" : false,
 "clippingMaskMode" : 0,
 "name" : "Group",
@@ -82766,83 +82794,6 @@
 
 ],
 "resizingConstraint" : 63
-},
-{
-"isFlippedHorizontal" : false,
-"verticalSpacing" : 0,
-"style" : {
-"windingRule" : 1,
-"do_objectID" : "E67A0DFB-ED5E-47B8-A60D-07867F9D2FF7",
-"_class" : "style",
-"miterLimit" : 10,
-"startMarkerType" : 0,
-"endMarkerType" : 0
-},
-"rotation" : 0,
-"frame" : {
-"_class" : "rect",
-"height" : 38,
-"constrainProportions" : false,
-"do_objectID" : "2D92FE2D-05B6-4BC3-937C-AD045F3F24DF",
-"x" : 681,
-"width" : 47,
-"y" : 30
-},
-"do_objectID" : "909F4634-7C1B-4040-85A4-BD262F5061B2",
-"layerListExpandedType" : 0,
-"exportOptions" : {
-"shouldTrim" : false,
-"do_objectID" : "15353E46-0B5D-4E4B-BF7A-DF69855F39D0",
-"includedLayerIds" : [
-
-],
-"_class" : "exportOptions",
-"layerOptions" : 0,
-"exportFormats" : [
-
-]
-},
-"symbolID" : "CD6A4241-A4A3-476A-891B-682B4B3DA2F5",
-"isFlippedVertical" : false,
-"clippingMaskMode" : 0,
-"name" : "Search and camera",
-"isVisible" : true,
-"hasClippingMask" : false,
-"nameIsFixed" : false,
-"resizingType" : 0,
-"horizontalSpacing" : 0,
-"userInfo" : {
-"com.invision.prototype" : {
-"closeOnClickOutside" : 1,
-"maintainScrollPositionAfterRedirect" : 0,
-"stayOnTargetScreen" : 0,
-"openURLInNewWindow" : 0,
-"reverseTransitionOnClose" : 1,
-"gesture" : 0,
-"overlayPosition" : 0,
-"redirectAfter" : 0,
-"componentType" : "SRLink",
-"maintainScrollPositionAfterGesture" : 0,
-"overlayTransition" : 0,
-"scrollToPosition" : 0,
-"smoothScrolling" : 0,
-"backgroundOpacity" : 0,
-"linkType" : 0,
-"targetArtboardID" : "722B17E8-7A23-4AEB-9098-FFB9A9AC40B0",
-"transition" : 0,
-"fixOverlayPosition" : 1
-}
-},
-"isLocked" : false,
-"scale" : 1,
-"shouldBreakMaskChain" : false,
-"isFixedToViewport" : false,
-"_class" : "symbolInstance",
-"booleanOperation" : -1,
-"overrideValues" : [
-
-],
-"resizingConstraint" : 63
 }
 ],
 "nameIsFixed" : false,
@@ -82909,7 +82860,7 @@
 "y" : 2330
 },
 "do_objectID" : "D866CB2F-917A-464E-AB25-0782E4D93378",
-"hasClickThrough" : false,
+"hasClickThrough" : true,
 "exportOptions" : {
 "shouldTrim" : false,
 "do_objectID" : "6E770545-B9D5-4B69-BB4F-C88097027CDB",
@@ -82924,7 +82875,7 @@
 },
 "hasBackgroundColor" : true,
 "includeInCloudUpload" : true,
-"layerListExpandedType" : 0,
+"layerListExpandedType" : 2,
 "backgroundColor" : {
 "do_objectID" : "202CC6C1-2292-41C4-BE72-F5FFA95FCFDB",
 "red" : 1,
@@ -83060,7 +83011,7 @@
 
 ]
 },
-"layerListExpandedType" : 0,
+"layerListExpandedType" : 2,
 "isFlippedVertical" : false,
 "clippingMaskMode" : 0,
 "name" : "Group",
@@ -83179,83 +83130,6 @@
 
 ],
 "resizingConstraint" : 63
-},
-{
-"isFlippedHorizontal" : false,
-"verticalSpacing" : 0,
-"style" : {
-"windingRule" : 1,
-"do_objectID" : "4B1B5B3C-6A46-4B7A-8E53-02E70DF196C5",
-"_class" : "style",
-"miterLimit" : 10,
-"startMarkerType" : 0,
-"endMarkerType" : 0
-},
-"rotation" : 0,
-"frame" : {
-"_class" : "rect",
-"height" : 38,
-"constrainProportions" : false,
-"do_objectID" : "740B88A7-6263-4E8D-8FF4-3C30E14DD6FA",
-"x" : 682,
-"width" : 47,
-"y" : 30
-},
-"do_objectID" : "434F1CA4-1F8F-40EB-8D66-6176F75C3A5A",
-"layerListExpandedType" : 0,
-"exportOptions" : {
-"shouldTrim" : false,
-"do_objectID" : "43A15A06-02A1-4D5B-81C9-B4CF87F4C190",
-"includedLayerIds" : [
-
-],
-"_class" : "exportOptions",
-"layerOptions" : 0,
-"exportFormats" : [
-
-]
-},
-"symbolID" : "CD6A4241-A4A3-476A-891B-682B4B3DA2F5",
-"isFlippedVertical" : false,
-"clippingMaskMode" : 0,
-"name" : "Search and camera",
-"isVisible" : true,
-"hasClippingMask" : false,
-"nameIsFixed" : false,
-"resizingType" : 0,
-"horizontalSpacing" : 0,
-"userInfo" : {
-"com.invision.prototype" : {
-"closeOnClickOutside" : 1,
-"maintainScrollPositionAfterRedirect" : 0,
-"stayOnTargetScreen" : 0,
-"openURLInNewWindow" : 0,
-"reverseTransitionOnClose" : 1,
-"gesture" : 0,
-"overlayPosition" : 0,
-"redirectAfter" : 0,
-"componentType" : "SRLink",
-"maintainScrollPositionAfterGesture" : 0,
-"overlayTransition" : 0,
-"scrollToPosition" : 0,
-"smoothScrolling" : 0,
-"backgroundOpacity" : 0,
-"linkType" : 0,
-"targetArtboardID" : "84BC9594-0897-4B41-8995-2D8B6F029569",
-"transition" : 0,
-"fixOverlayPosition" : 1
-}
-},
-"isLocked" : false,
-"scale" : 1,
-"shouldBreakMaskChain" : false,
-"isFixedToViewport" : false,
-"_class" : "symbolInstance",
-"booleanOperation" : -1,
-"overrideValues" : [
-
-],
-"resizingConstraint" : 63
 }
 ],
 "nameIsFixed" : false,
@@ -83277,375 +83151,6 @@
 "isLocked" : false,
 "groupLayout" : {
 "do_objectID" : "CABABE8D-AA26-4819-A10C-81DFD5684CFD",
-"_class" : "MSImmutableFreeformGroupLayout"
-},
-"isFlowHome" : false,
-"shouldBreakMaskChain" : true,
-"isFixedToViewport" : false,
-"presetDictionary" : {
-"width" : 768,
-"offersLandscapeVariant" : 1,
-"height" : 1024,
-"allowResizedMatching" : 0,
-"name" : "iPad"
-},
-"_class" : "artboard",
-"booleanOperation" : -1,
-"includeBackgroundColorInExport" : true,
-"resizingConstraint" : 63
-},
-{
-"isFlippedHorizontal" : false,
-"style" : {
-"windingRule" : 1,
-"do_objectID" : "4064A98A-3632-4424-8126-EEB81F880DDB",
-"_class" : "style",
-"miterLimit" : 10,
-"startMarkerType" : 0,
-"endMarkerType" : 0
-},
-"horizontalRulerData" : {
-"do_objectID" : "D421205C-3CA6-43A5-88AE-BC16F434C235",
-"_class" : "rulerData",
-"base" : 0,
-"guides" : [
-
-]
-},
-"frame" : {
-"_class" : "rect",
-"height" : 1024,
-"constrainProportions" : false,
-"do_objectID" : "31C1C442-1198-48D9-8796-E77A1D6BE9EB",
-"x" : -2638,
-"width" : 768,
-"y" : 6297
-},
-"do_objectID" : "702E4C92-14BE-4318-81B4-E5C4D5CD46AA",
-"hasClickThrough" : false,
-"exportOptions" : {
-"shouldTrim" : false,
-"do_objectID" : "DE30AF52-7841-44FA-ACFD-C18DDC266004",
-"includedLayerIds" : [
-
-],
-"_class" : "exportOptions",
-"layerOptions" : 0,
-"exportFormats" : [
-
-]
-},
-"hasBackgroundColor" : true,
-"includeInCloudUpload" : true,
-"layerListExpandedType" : 2,
-"backgroundColor" : {
-"do_objectID" : "781DDDA7-7341-4887-B796-BBBE4ED90CCA",
-"red" : 1,
-"_class" : "color",
-"alpha" : 1,
-"blue" : 1,
-"green" : 1
-},
-"resizesContent" : false,
-"rotation" : 0,
-"verticalRulerData" : {
-"do_objectID" : "BBD66616-4093-49C9-88D7-7FD4EFACD059",
-"_class" : "rulerData",
-"base" : 0,
-"guides" : [
-
-]
-},
-"isFlippedVertical" : false,
-"clippingMaskMode" : 0,
-"name" : "Searching book QR error",
-"isVisible" : true,
-"hasClippingMask" : false,
-"layers" : [
-{
-"isFlippedHorizontal" : false,
-"verticalSpacing" : 0,
-"style" : {
-"windingRule" : 1,
-"do_objectID" : "B65FC11A-2A6C-408D-BF15-91C9421F7967",
-"_class" : "style",
-"miterLimit" : 10,
-"startMarkerType" : 0,
-"endMarkerType" : 0
-},
-"rotation" : 0,
-"frame" : {
-"_class" : "rect",
-"height" : 371,
-"constrainProportions" : false,
-"do_objectID" : "91C76E3F-70B8-4825-B2B8-2D10A88EBE95",
-"x" : 219,
-"width" : 358,
-"y" : 338
-},
-"do_objectID" : "7E7E1D3D-4B16-45F1-990F-421E0057536A",
-"layerListExpandedType" : 0,
-"exportOptions" : {
-"shouldTrim" : false,
-"do_objectID" : "DFEA93A6-7CBF-4432-8D33-E6F83D27D30F",
-"includedLayerIds" : [
-
-],
-"_class" : "exportOptions",
-"layerOptions" : 0,
-"exportFormats" : [
-
-]
-},
-"symbolID" : "66848D35-7678-4635-96AB-832B2AE0DD94",
-"isFlippedVertical" : false,
-"clippingMaskMode" : 0,
-"name" : "Loading QR",
-"isVisible" : true,
-"hasClippingMask" : false,
-"nameIsFixed" : false,
-"resizingType" : 0,
-"horizontalSpacing" : 0,
-"isLocked" : false,
-"scale" : 1,
-"shouldBreakMaskChain" : false,
-"isFixedToViewport" : false,
-"_class" : "symbolInstance",
-"booleanOperation" : -1,
-"overrideValues" : [
-
-],
-"resizingConstraint" : 63
-},
-{
-"isFlippedHorizontal" : false,
-"style" : {
-"windingRule" : 1,
-"do_objectID" : "B454BB50-E023-4884-AFC9-D451052D9D2A",
-"_class" : "style",
-"miterLimit" : 10,
-"startMarkerType" : 0,
-"endMarkerType" : 0
-},
-"rotation" : 0,
-"frame" : {
-"_class" : "rect",
-"height" : 104,
-"constrainProportions" : false,
-"do_objectID" : "478721AA-FFF3-47D5-AD12-87947DAFE889",
-"x" : 0,
-"width" : 768,
-"y" : 0
-},
-"do_objectID" : "959E30C2-1AF2-4524-8297-40B01F8A5CCF",
-"hasClickThrough" : false,
-"exportOptions" : {
-"shouldTrim" : false,
-"do_objectID" : "8761150B-5D1D-46EF-8A93-4E51934E9986",
-"includedLayerIds" : [
-
-],
-"_class" : "exportOptions",
-"layerOptions" : 0,
-"exportFormats" : [
-
-]
-},
-"layerListExpandedType" : 2,
-"isFlippedVertical" : false,
-"clippingMaskMode" : 0,
-"name" : "Group",
-"isVisible" : true,
-"hasClippingMask" : false,
-"layers" : [
-{
-"isFlippedHorizontal" : false,
-"verticalSpacing" : 0,
-"style" : {
-"windingRule" : 1,
-"do_objectID" : "345A077C-2979-456F-8639-47908EAA7DCD",
-"_class" : "style",
-"miterLimit" : 10,
-"startMarkerType" : 0,
-"endMarkerType" : 0
-},
-"rotation" : 0,
-"frame" : {
-"_class" : "rect",
-"height" : 104,
-"constrainProportions" : false,
-"do_objectID" : "71E62E35-8D6E-4749-824F-7E74DD8B09E4",
-"x" : 0,
-"width" : 768,
-"y" : 0
-},
-"do_objectID" : "91F32AD9-DBB7-4597-A511-33B50C817FE3",
-"layerListExpandedType" : 0,
-"exportOptions" : {
-"shouldTrim" : false,
-"do_objectID" : "DB099D0A-C5B5-42FB-A593-BD9E0467AB54",
-"includedLayerIds" : [
-
-],
-"_class" : "exportOptions",
-"layerOptions" : 0,
-"exportFormats" : [
-
-]
-},
-"symbolID" : "8B612934-24F7-4AED-89D3-65C537680BED",
-"isFlippedVertical" : false,
-"clippingMaskMode" : 0,
-"name" : "Top bar",
-"isVisible" : true,
-"hasClippingMask" : false,
-"nameIsFixed" : false,
-"resizingType" : 0,
-"horizontalSpacing" : 0,
-"userInfo" : {
-
-},
-"isLocked" : false,
-"scale" : 1,
-"shouldBreakMaskChain" : false,
-"isFixedToViewport" : false,
-"_class" : "symbolInstance",
-"booleanOperation" : -1,
-"overrideValues" : [
-
-],
-"resizingConstraint" : 63
-},
-{
-"isFlippedHorizontal" : false,
-"verticalSpacing" : 0,
-"style" : {
-"windingRule" : 1,
-"do_objectID" : "892F7B98-2EAD-49C8-815E-1DBEA9592968",
-"_class" : "style",
-"miterLimit" : 10,
-"startMarkerType" : 0,
-"endMarkerType" : 0
-},
-"rotation" : 0,
-"frame" : {
-"_class" : "rect",
-"height" : 48,
-"constrainProportions" : false,
-"do_objectID" : "B3A2C6AC-0EB2-4CCE-A943-B0276BFF0EB2",
-"x" : 89,
-"width" : 129,
-"y" : 30
-},
-"do_objectID" : "C6EE1749-F7DC-4BA4-8E70-D65B4DFC9FC8",
-"layerListExpandedType" : 0,
-"exportOptions" : {
-"shouldTrim" : false,
-"do_objectID" : "A693DB9C-1705-4F87-849E-A5EF9A0318FB",
-"includedLayerIds" : [
-
-],
-"_class" : "exportOptions",
-"layerOptions" : 0,
-"exportFormats" : [
-
-]
-},
-"symbolID" : "9303FCC7-9CA9-43F4-A3A8-7B5D9A274B8C",
-"isFlippedVertical" : false,
-"clippingMaskMode" : 0,
-"name" : "Logo",
-"isVisible" : true,
-"hasClippingMask" : false,
-"nameIsFixed" : true,
-"resizingType" : 0,
-"horizontalSpacing" : 0,
-"isLocked" : false,
-"scale" : 1,
-"shouldBreakMaskChain" : false,
-"isFixedToViewport" : false,
-"_class" : "symbolInstance",
-"booleanOperation" : -1,
-"overrideValues" : [
-
-],
-"resizingConstraint" : 63
-}
-],
-"nameIsFixed" : false,
-"resizingType" : 0,
-"isLocked" : false,
-"groupLayout" : {
-"do_objectID" : "EDAB1F77-1C91-4233-BF82-80A9A6B6FC90",
-"_class" : "MSImmutableFreeformGroupLayout"
-},
-"shouldBreakMaskChain" : false,
-"isFixedToViewport" : false,
-"_class" : "group",
-"booleanOperation" : -1,
-"resizingConstraint" : 63
-},
-{
-"isFlippedHorizontal" : false,
-"verticalSpacing" : 0,
-"style" : {
-"windingRule" : 1,
-"do_objectID" : "DF16B6D0-D6C2-4309-B404-BE2992D35ADF",
-"_class" : "style",
-"miterLimit" : 10,
-"startMarkerType" : 0,
-"endMarkerType" : 0
-},
-"rotation" : 0,
-"frame" : {
-"_class" : "rect",
-"height" : 82,
-"constrainProportions" : false,
-"do_objectID" : "14B9791A-AC49-4720-B16D-72FAEA9D009D",
-"x" : -20,
-"width" : 788,
-"y" : 104
-},
-"do_objectID" : "F0B3E703-AB5F-44FF-9A20-A587EC1E5F17",
-"layerListExpandedType" : 0,
-"exportOptions" : {
-"shouldTrim" : false,
-"do_objectID" : "3F89142B-D485-4CA7-A137-F8FCB6188422",
-"includedLayerIds" : [
-
-],
-"_class" : "exportOptions",
-"layerOptions" : 0,
-"exportFormats" : [
-
-]
-},
-"symbolID" : "1B6A6851-CD51-4B73-ADB2-B4DAF3C37816",
-"isFlippedVertical" : false,
-"clippingMaskMode" : 0,
-"name" : "QR Warning ",
-"isVisible" : true,
-"hasClippingMask" : false,
-"nameIsFixed" : false,
-"resizingType" : 0,
-"horizontalSpacing" : 0,
-"isLocked" : false,
-"scale" : 1,
-"shouldBreakMaskChain" : false,
-"isFixedToViewport" : false,
-"_class" : "symbolInstance",
-"booleanOperation" : -1,
-"overrideValues" : [
-
-],
-"resizingConstraint" : 63
-}
-],
-"nameIsFixed" : true,
-"resizingType" : 0,
-"isLocked" : false,
-"groupLayout" : {
-"do_objectID" : "254A7454-4209-4419-910A-37A9E510B9BE",
 "_class" : "MSImmutableFreeformGroupLayout"
 },
 "isFlowHome" : false,
@@ -83691,7 +83196,7 @@
 "y" : 6297
 },
 "do_objectID" : "9E17E1E2-B81A-46E7-B725-F5DE10249259",
-"hasClickThrough" : false,
+"hasClickThrough" : true,
 "exportOptions" : {
 "shouldTrim" : false,
 "do_objectID" : "A5968D00-8F4F-4B5D-83D1-FC03E552BB03",
@@ -83971,7 +83476,7 @@
 "height" : 82,
 "constrainProportions" : false,
 "do_objectID" : "AE8686F0-80FC-49C1-8D2D-5F93782FF810",
-"x" : 0,
+"x" : -4,
 "width" : 788,
 "y" : 104
 },
@@ -84009,7 +83514,7 @@
 "do_objectID" : "4E340CB8-64AB-4C6C-848B-DDDCFA87E88C",
 "overrideName" : "4E8C2F31-7204-4564-BFA9-F99B50DF4AEA_stringValue",
 "_class" : "overrideValue",
-"value" : "Couldn't find ID associated with QR"
+"value" : "Couldn't find QR"
 }
 ],
 "resizingConstraint" : 63
@@ -84065,7 +83570,7 @@
 "y" : 2330
 },
 "do_objectID" : "146B21D9-665F-40D7-A36F-1CAA08F67F4C",
-"hasClickThrough" : false,
+"hasClickThrough" : true,
 "exportOptions" : {
 "shouldTrim" : false,
 "do_objectID" : "F0CF14D6-1AFF-438A-A9D2-51FBE035CE3E",
@@ -84401,7 +83906,7 @@
 "y" : 2330
 },
 "do_objectID" : "D04D920E-4759-402F-AAF1-78135B01F8B2",
-"hasClickThrough" : false,
+"hasClickThrough" : true,
 "exportOptions" : {
 "shouldTrim" : false,
 "do_objectID" : "FA599F79-5152-4E48-B74D-24393E243568",
@@ -84416,7 +83921,7 @@
 },
 "hasBackgroundColor" : true,
 "includeInCloudUpload" : true,
-"layerListExpandedType" : 1,
+"layerListExpandedType" : 0,
 "backgroundColor" : {
 "do_objectID" : "6E88DC57-5051-4D58-89E8-AD841E326122",
 "red" : 1,
@@ -91096,7 +90601,7 @@
 "y" : 3417
 },
 "do_objectID" : "1A8B8F0B-A470-4DDE-92E3-C8D16C55C95D",
-"hasClickThrough" : false,
+"hasClickThrough" : true,
 "exportOptions" : {
 "shouldTrim" : false,
 "do_objectID" : "60FD3A30-1C69-4AF5-9F15-39EA46CFA6BE",
@@ -99113,7 +98618,7 @@
 "y" : 3417
 },
 "do_objectID" : "B3CC452E-008D-4217-8302-C71AB3D2B538",
-"hasClickThrough" : false,
+"hasClickThrough" : true,
 "exportOptions" : {
 "shouldTrim" : false,
 "do_objectID" : "D9263FE7-9F06-40F2-9F6D-51FFABA1FCB9",
@@ -100033,7 +99538,7 @@
 "y" : 3417
 },
 "do_objectID" : "787FA400-DED0-48F9-BD66-B9BF1500EAEA",
-"hasClickThrough" : false,
+"hasClickThrough" : true,
 "exportOptions" : {
 "shouldTrim" : false,
 "do_objectID" : "10D70217-A90B-4E61-8D27-E7CA914BB458",
@@ -103775,6 +103280,11 @@
 ],
 "nameIsFixed" : false,
 "resizingType" : 0,
+"userInfo" : {
+"com.invision.prototype" : {
+"lastUsedGestureID" : 0
+}
+},
 "isLocked" : false,
 "groupLayout" : {
 "_class" : "MSImmutableFreeformGroupLayout"

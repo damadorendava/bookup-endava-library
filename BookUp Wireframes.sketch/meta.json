@@ -1,31 +1,5 @@
 {
 "commit" : "f4e56c65d61efa65dd63fd44515a6e4b855bdd9e",
-"build" : 72643,
-"version" : 116,
-"fonts" : [
-"Roboto-Italic",
-"Roboto-Medium",
-"Roboto-Bold",
-"Roboto-Light",
-"Roboto-Regular"
-],
-"compatibilityVersion" : 99,
-"app" : "com.bohemiancoding.sketch3",
-"autosaved" : 0,
-"variant" : "NONAPPSTORE",
-"created" : {
-"build" : 72643,
-"appVersion" : "53.2",
-"commit" : "f4e56c65d61efa65dd63fd44515a6e4b855bdd9e",
-"app" : "com.bohemiancoding.sketch3",
-"compatibilityVersion" : 99,
-"version" : 116,
-"variant" : "NONAPPSTORE"
-},
-"saveHistory" : [
-"NONAPPSTORE.72643"
-],
-"appVersion" : "53.2",
 "pagesAndArtboards" : {
 "38e7cec0-4c19-11e9-a0fd-5dd9c7e33d2f" : {
 "name" : "Page 1",
@@ -81,9 +55,6 @@
 "6F837A76-9F0A-4876-BC3C-A312B8E2396B" : {
 "name" : "Home login "
 },
-"702E4C92-14BE-4318-81B4-E5C4D5CD46AA" : {
-"name" : "Searching book QR error"
-},
 "84BC9594-0897-4B41-8995-2D8B6F029569" : {
 "name" : "Home app"
 },
@@ -95,6 +66,9 @@
 },
 "B269786E-9790-4A92-96FD-A16954F27E82" : {
 "name" : "Change of wireframe"
+},
+"EEC85CF5-EABE-41E3-9123-27D45DDEC680" : {
+"name" : "Log in"
 },
 "41EE26FE-EBC0-41AE-8B81-571526A070E1" : {
 "name" : "Loading book QR"
@@ -122,9 +96,6 @@
 },
 "759012CE-8EA5-4975-B00D-C1F18A1C95AD" : {
 "name" : "Add review Copy"
-},
-"EEC85CF5-EABE-41E3-9123-27D45DDEC680" : {
-"name" : "Log in"
 },
 "5497ED80-8F80-4543-A234-29EDE8248F3B" : {
 "name" : "Home "
@@ -379,5 +350,31 @@
 }
 }
 }
-}
+},
+"version" : 116,
+"fonts" : [
+"Roboto-Italic",
+"Roboto-Medium",
+"Roboto-Bold",
+"Roboto-Light",
+"Roboto-Regular"
+],
+"compatibilityVersion" : 99,
+"app" : "com.bohemiancoding.sketch3",
+"autosaved" : 1,
+"variant" : "NONAPPSTORE",
+"created" : {
+"build" : 72643,
+"appVersion" : "53.2",
+"commit" : "f4e56c65d61efa65dd63fd44515a6e4b855bdd9e",
+"app" : "com.bohemiancoding.sketch3",
+"compatibilityVersion" : 99,
+"version" : 116,
+"variant" : "NONAPPSTORE"
+},
+"saveHistory" : [
+"NONAPPSTORE.72643"
+],
+"appVersion" : "53.2",
+"build" : 72643
 }
