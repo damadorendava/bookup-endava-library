@@ -1,42 +1,37 @@
 {
 "commit" : "f4e56c65d61efa65dd63fd44515a6e4b855bdd9e",
-"build" : 72643,
-"version" : 116,
-"fonts" : [
-"Roboto-Regular",
-"Helvetica-LightOblique",
-"HelveticaNeue",
-"Helvetica-Bold",
-"Helvetica",
-"Montserrat-Medium",
-"Roboto-Medium",
-"Roboto-Bold",
-"TradeGothicLTStd",
-"Montserrat-Regular"
-],
-"compatibilityVersion" : 99,
-"app" : "com.bohemiancoding.sketch3",
-"autosaved" : 1,
-"variant" : "NONAPPSTORE",
-"created" : {
-"commit" : "f4e56c65d61efa65dd63fd44515a6e4b855bdd9e",
-"appVersion" : "53.2",
-"build" : 72643,
-"app" : "com.bohemiancoding.sketch3",
-"compatibilityVersion" : 99,
-"version" : 116,
-"variant" : "NONAPPSTORE"
-},
-"saveHistory" : [
-"NONAPPSTORE.72643"
-],
-"appVersion" : "53.2",
 "pagesAndArtboards" : {
+"17E18574-2922-47AD-8B66-56DF4B3B0AC8" : {
+"name" : "StyleGuide",
+"artboards" : {
+"B216E575-DE75-4AE2-9B31-E49FCAC388FE" : {
+"name" : "Desktop"
+},
+"88506E04-EDE9-4FCB-8779-6FC3CE25B18B" : {
+"name" : "Desktop Copy"
+},
+"4E0D4C49-931C-41C6-B052-57CFA42374F3" : {
+"name" : "Desktop Copy 3"
+},
+"927F1E6A-468E-406D-9C8D-C188A3FC047C" : {
+"name" : "Desktop Copy 2"
+}
+}
+},
 "B89EBF63-05D9-451D-BD64-6D1FA3ED6DA1" : {
 "name" : "Symbols",
 "artboards" : {
+"444BB7CD-53A1-49E6-BE4F-9833F395A652" : {
+"name" : "text field"
+},
 "562CEA38-89E5-4CAF-843E-DA8129781D5B" : {
 "name" : "button\/hover\/sigup\/orange "
+},
+"24AFECDF-9922-477A-9043-7ACCF227E398" : {
+"name" : "molecule\/popUp\/newpassword"
+},
+"BD5701A4-0F50-4561-9E3E-3C00406C49E1" : {
+"name" : "button\/enable\/send"
 },
 "235EF04C-31F1-492F-9F10-4B907D34AAB3" : {
 "name" : "Desktop Typo"
@@ -44,26 +39,47 @@
 "54C62B75-AD32-4C72-9624-A5DA0C917B48" : {
 "name" : "Icon\/24\/nextL\/graylight  "
 },
+"ED19E757-FE19-4120-9F0D-7D1F27D83909" : {
+"name" : "button\/enable\/gohomepage"
+},
+"7E1DDDBD-300E-4BBC-8629-336500B5DE6E" : {
+"name" : "Icon\/16\/search\/graylight "
+},
 "2234BC59-4C10-4C03-81F4-7C5E2AB431E6" : {
 "name" : "button\/enable\/checkbox"
 },
-"99C5CDC0-4CC8-4916-BFD5-2654E04AF7E4" : {
-"name" : "button\/disable\/text\/blue&orange"
-},
-"DF4AB121-46D4-463E-AC4F-03B507F19A02" : {
-"name" : "molecule\/popUp\/signup\/validation"
+"5CADB285-6752-4F40-A40A-782E664E74B3" : {
+"name" : "Artboard Copy"
 },
 "06E96837-834C-457F-882F-3607590A20DF" : {
 "name" : "text field \/email\/validation"
 },
+"1D394488-C645-4762-AA4B-10603E58CD60" : {
+"name" : "atom\/icon\/available"
+},
 "8DC32F95-4599-4047-A873-B57550DEB630" : {
 "name" : "Desktop Typo Copy"
+},
+"99C5CDC0-4CC8-4916-BFD5-2654E04AF7E4" : {
+"name" : "button\/disable\/text\/blue&orange"
+},
+"DE30B9E1-EEB7-4099-A94C-0F2C499F21D8" : {
+"name" : "molecule\/popUp\/signup\/validationpw"
 },
 "884A0E4A-8E1C-4F4A-A2CD-12ACEB64F323" : {
 "name" : "Icon\/16\/star "
 },
+"A8E5A4F4-A3F0-4BB9-BACB-00C25FA33C05" : {
+"name" : "button\/enable\/text\/blue copy"
+},
+"DC236668-DB8F-41BC-9A86-5B449A0BCDF4" : {
+"name" : "molecule\/popUp\/signup\/validation2"
+},
 "89AE499E-A246-47D8-934F-A577904745E0" : {
 "name" : "molecule\/popUp\/login "
+},
+"DF4AB121-46D4-463E-AC4F-03B507F19A02" : {
+"name" : "molecule\/popUp\/signup\/validation"
 },
 "2B1DC14A-2872-4C1F-BF71-771BE2856B51" : {
 "name" : "atom\/stars"
@@ -83,20 +99,26 @@
 "77646D7B-B840-4425-A279-54A127CC2FC8" : {
 "name" : "text field\/password\/validation"
 },
+"8F11CADF-2EDF-424F-8C31-34CAAA60A842" : {
+"name" : "Icon\/24\/check"
+},
 "2A5F449D-86CE-453A-8DA9-38A116463A9F" : {
 "name" : "text field\/password\/enable"
 },
-"A0CFBEB5-D84E-4516-A4FB-0D6661609DC3" : {
-"name" : "button\/enable\/login\/blue"
+"C179BAF4-9FC5-4B99-B6E9-369E532C04A2" : {
+"name" : "Artboard"
 },
 "2C386D8D-F3BC-45A8-8D49-A3A80C08F32F" : {
 "name" : "icon\/20\/search\/graylight"
 },
-"D3D24494-987B-4DB1-A9B0-B19C324096C6" : {
-"name" : "text field\/confirmpassword\/enable "
+"A0CFBEB5-D84E-4516-A4FB-0D6661609DC3" : {
+"name" : "button\/enable\/login\/blue"
 },
 "798B6FCB-0017-4DF1-BBA8-47DE21C0D039" : {
 "name" : "text field\/email\/enable"
+},
+"D3D24494-987B-4DB1-A9B0-B19C324096C6" : {
+"name" : "text field\/confirmpassword\/enable "
 },
 "4A4C6A6D-FE0B-4E49-ADF5-05ED8091EBDB" : {
 "name" : "view more"
@@ -104,14 +126,32 @@
 "8DBB63CA-CDE6-4ADA-999D-387DD016938B" : {
 "name" : "button\/enable\/login\/orange"
 },
+"1AD5BCB3-3C42-4D8E-99DF-805F4FFD2008" : {
+"name" : "molecule\/popUp\/forgotpassword"
+},
+"B7498F90-0CAF-4290-94C4-30990DCE9D06" : {
+"name" : "atom\/icon\/available"
+},
 "E3021180-A15C-473B-8FD8-CE6965C8FD1C" : {
 "name" : "text field icon"
+},
+"FC5813BC-2E30-4274-AB0F-7E3C45325C6F" : {
+"name" : "atom\/icon\/borrow"
 },
 "34FAD419-1E8F-45C8-B16F-DF35609CDDDF" : {
 "name" : "Icon\/24\/arrowright\/graylight "
 },
+"1DAA6440-9D9B-462B-B1A1-BEE756C691BF" : {
+"name" : "atom\/icon\/available"
+},
+"030B7C15-2CA2-4130-A523-44CB4D8186CB" : {
+"name" : "button\/enable\/resetpassword"
+},
 "AA9A778E-798F-458E-9E44-9CBC92DFAFD9" : {
 "name" : "molecule\/popUp\/signup"
+},
+"23B2D505-0C0B-4D63-BA84-2B93CD141599" : {
+"name" : "molecule\/popUp\/validationcode"
 },
 "8CB8F3A2-FCCB-474B-B31C-B317B11FAC51" : {
 "name" : "button\/hover\/login\/orange"
@@ -152,6 +192,9 @@
 "346B87F8-EC70-4F2C-8509-1CAF8D1BEA08" : {
 "name" : "button\/enable\/signup"
 },
+"B2C79E30-FB87-4BCE-9AA7-266E78445DA4" : {
+"name" : "atom\/user"
+},
 "FF09B177-9043-4FE0-85EC-BBD8CCD1F0B9" : {
 "name" : "view more copy 2"
 },
@@ -167,8 +210,8 @@
 "70CEC20A-05E6-4EB5-926F-5A4143832F01" : {
 "name" : "button\/enable\/signup\/orange "
 },
-"DD367EF0-E8C9-472E-BF99-75F738E26601" : {
-"name" : "button\/enable\/view"
+"754A4F6C-B2BC-41BD-97D4-BF0DA4ED144E" : {
+"name" : "text field\/confirmpassword\/validation"
 },
 "73E32747-53B2-4B5D-9F0B-A4B33D5FBCF3" : {
 "name" : "text field \/email\/selected"
@@ -176,11 +219,11 @@
 "486460FE-ED13-4412-9426-F3F62089835C" : {
 "name" : "button\/hover\/text\/blue&orange"
 },
-"D6D4BF62-5651-47F8-A81D-F61DC7EC9949" : {
-"name" : "Icon\/24\/search\/graylight"
-},
 "D2DE57EF-6A34-46F4-A818-F4931D35D2DF" : {
 "name" : "button\/disable\/login "
+},
+"182B2219-96D3-40B3-BEE2-2D1935147A3D" : {
+"name" : "text field\/password\/selected"
 },
 "49FC345F-DDE9-48C6-A2A9-BDB133B789B2" : {
 "name" : "button\/selected\/text\/blue "
@@ -188,60 +231,67 @@
 "5A3DE1D4-AEF0-4171-8175-EDAE070694B5" : {
 "name" : "text field\/type"
 },
-"182B2219-96D3-40B3-BEE2-2D1935147A3D" : {
-"name" : "text field\/password\/selected"
+"D6D4BF62-5651-47F8-A81D-F61DC7EC9949" : {
+"name" : "Icon\/24\/search\/graylight"
 },
-"754A4F6C-B2BC-41BD-97D4-BF0DA4ED144E" : {
-"name" : "text field\/confirmpassword\/validation"
-}
-}
-},
-"17E18574-2922-47AD-8B66-56DF4B3B0AC8" : {
-"name" : "StyleGuide",
-"artboards" : {
-"B216E575-DE75-4AE2-9B31-E49FCAC388FE" : {
-"name" : "Desktop"
-},
-"88506E04-EDE9-4FCB-8779-6FC3CE25B18B" : {
-"name" : "Desktop Copy"
-},
-"4E0D4C49-931C-41C6-B052-57CFA42374F3" : {
-"name" : "Desktop Copy 3"
-},
-"927F1E6A-468E-406D-9C8D-C188A3FC047C" : {
-"name" : "Desktop Copy 2"
+"DD367EF0-E8C9-472E-BF99-75F738E26601" : {
+"name" : "button\/enable\/view"
 }
 }
 },
 "D7699A0D-654E-4FBB-83DA-BD4C8CA8E26F" : {
 "name" : "Design Web Wireframes",
 "artboards" : {
+"8320AF0D-75E3-480E-8AC3-3108671606A2" : {
+"name" : "Desktop 1440\/Signup\/Validation code"
+},
+"DBBFA46D-4E62-4D39-B8BB-E85943C068B5" : {
+"name" : "Desktop 1440\/error404"
+},
+"928E5941-AE38-47D0-A7A1-64D709F6558D" : {
+"name" : "Desktop 1440\/resetpassword"
+},
 "92C0C8BF-2180-4521-A41A-6B337A8FAFDF" : {
 "name" : "Desktop 1440px754px\/Search"
 },
-"8E41603D-BA04-477C-828C-6A75E0306E63" : {
-"name" : "Desktop 1440px754px Copy"
-},
-"A506B795-2993-4ED0-B9EF-85AE9809F656" : {
-"name" : "Desktop 1440 "
-},
-"AE5990C3-7CCE-43D3-A3CF-BDBA767A3A03" : {
-"name" : "button\/hover\/login\/blue"
-},
-"F55401D4-B6E1-4A64-9850-ACC67CA2CED3" : {
-"name" : "Desktop 1440\/Login\/validation"
-},
-"384F4FB8-344C-4891-85D5-D0952D879656" : {
-"name" : "Desktop 1440\/Signup"
+"09FB19E6-63A7-4D25-9BAC-BEAA3A9F673D" : {
+"name" : "Desktop 1440\/resetpassword\/validation"
 },
 "43CE2530-266D-4253-85A7-548D99C081D2" : {
 "name" : "Desktop 1440\/Signup\/validation"
 },
-"3D96AFB5-FCD2-463C-AB93-E7A187B8AEC3" : {
-"name" : "Desktop 1440\/Login"
+"2C2ACBF4-4F56-450D-A016-EA0F079F861B" : {
+"name" : "Desktop 1440px\/user\/hover"
+},
+"F55401D4-B6E1-4A64-9850-ACC67CA2CED3" : {
+"name" : "Desktop 1440\/Login\/validation"
+},
+"F18B7288-071A-4BAD-B081-0D767EC4704C" : {
+"name" : "Desktop 1440\/Signup\/validation2"
+},
+"F0EC7827-DF2C-4FC4-AED2-FA41D114BDFB" : {
+"name" : "Desktop 1440\/Signup\/validationpw"
+},
+"16E7874F-308A-43F3-A840-1C6B23FF95F0" : {
+"name" : "Desktop 1440px\/newarrivals"
+},
+"18DF360B-1616-49AB-834D-EDD5351DC85B" : {
+"name" : "Desktop 1440px\/Book"
+},
+"384F4FB8-344C-4891-85D5-D0952D879656" : {
+"name" : "Desktop 1440\/Signup"
+},
+"3D0F28E3-8EAB-4949-BAB8-B63DB6B65E79" : {
+"name" : "Desktop 1440\/forgotpassword"
+},
+"7D573708-D4F4-4E5D-996C-B511B1B9197D" : {
+"name" : "Desktop 1440px\/user"
 },
 "50AC0530-86C5-48F8-9D4E-92D677C52A11" : {
 "name" : "Desktop 1440px754px"
+},
+"3D96AFB5-FCD2-463C-AB93-E7A187B8AEC3" : {
+"name" : "Desktop 1440\/Login"
 }
 }
 },
@@ -261,6 +311,45 @@
 "name" : "Mobile 375px"
 }
 }
+},
+"9BB2D30B-EC4D-4DBB-A516-A0E812DF4838" : {
+"name" : "Design Mobile",
+"artboards" : {
+"7F8BEC8F-2BA9-489A-AB7C-D48FBDAEF796" : {
+"name" : "Mobile 375px"
 }
 }
+}
+},
+"version" : 116,
+"fonts" : [
+"Roboto-Regular",
+"Helvetica-LightOblique",
+"HelveticaNeue",
+"Helvetica-Bold",
+"Helvetica",
+"Montserrat-Medium",
+"Roboto-Medium",
+"Roboto-Bold",
+"TradeGothicLTStd",
+"Montserrat-Regular"
+],
+"compatibilityVersion" : 99,
+"app" : "com.bohemiancoding.sketch3",
+"autosaved" : 0,
+"variant" : "NONAPPSTORE",
+"created" : {
+"build" : 72643,
+"appVersion" : "53.2",
+"commit" : "f4e56c65d61efa65dd63fd44515a6e4b855bdd9e",
+"app" : "com.bohemiancoding.sketch3",
+"compatibilityVersion" : 99,
+"version" : 116,
+"variant" : "NONAPPSTORE"
+},
+"saveHistory" : [
+"NONAPPSTORE.72643"
+],
+"appVersion" : "53.2",
+"build" : 72643
 }

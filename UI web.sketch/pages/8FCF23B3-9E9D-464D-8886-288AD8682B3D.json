@@ -1,33 +1,33 @@
 {
 "isFlippedHorizontal" : false,
 "style" : {
+"endMarkerType" : 0,
 "windingRule" : 1,
 "_class" : "style",
 "miterLimit" : 10,
-"startMarkerType" : 0,
-"endMarkerType" : 0
+"startMarkerType" : 0
 },
 "rotation" : 0,
 "frame" : {
-"x" : 0,
 "y" : 0,
+"width" : 0,
 "_class" : "rect",
+"x" : 0,
 "constrainProportions" : false,
-"height" : 0,
-"width" : 0
+"height" : 0
 },
 "do_objectID" : "8FCF23B3-9E9D-464D-8886-288AD8682B3D",
 "layerListExpandedType" : 0,
 "exportOptions" : {
-"shouldTrim" : false,
+"exportFormats" : [
+
+],
 "includedLayerIds" : [
 
 ],
 "layerOptions" : 0,
 "_class" : "exportOptions",
-"exportFormats" : [
-
-]
+"shouldTrim" : false
 },
 "hasClickThrough" : true,
 "horizontalRulerData" : {
@@ -86,11 +86,11 @@
 },
 "isFlowHome" : false,
 "presetDictionary" : {
-"allowResizedMatching" : 0,
+"height" : 1024,
 "offersLandscapeVariant" : 0,
 "name" : "Desktop HD",
-"width" : 1440,
-"height" : 1024
+"allowResizedMatching" : 0,
+"width" : 1440
 },
 "isLocked" : false,
 "backgroundColor" : {
@@ -106,22 +106,22 @@
 "isVisible" : true,
 "hasClippingMask" : false,
 "style" : {
+"endMarkerType" : 0,
 "windingRule" : 1,
 "_class" : "style",
 "miterLimit" : 10,
-"startMarkerType" : 0,
-"endMarkerType" : 0
+"startMarkerType" : 0
 },
 "exportOptions" : {
-"shouldTrim" : false,
+"exportFormats" : [
+
+],
 "includedLayerIds" : [
 
 ],
 "layerOptions" : 0,
 "_class" : "exportOptions",
-"exportFormats" : [
-
-]
+"shouldTrim" : false
 },
 "name" : "Desktop 1440px",
 "resizingType" : 0,
@@ -134,12 +134,12 @@
 ]
 },
 "frame" : {
-"x" : -199,
 "y" : -160,
+"width" : 1440,
 "_class" : "rect",
+"x" : -199,
 "constrainProportions" : false,
-"height" : 1200,
-"width" : 1440
+"height" : 1200
 },
 "layout" : {
 "columnWidth" : 60,
@@ -192,11 +192,11 @@
 },
 "isFlowHome" : false,
 "presetDictionary" : {
-"allowResizedMatching" : 0,
+"height" : 768,
 "offersLandscapeVariant" : 1,
 "name" : "Tablet",
-"width" : 1024,
-"height" : 768
+"allowResizedMatching" : 0,
+"width" : 1024
 },
 "isLocked" : false,
 "backgroundColor" : {
@@ -212,22 +212,22 @@
 "isVisible" : true,
 "hasClippingMask" : false,
 "style" : {
+"endMarkerType" : 0,
 "windingRule" : 1,
 "_class" : "style",
 "miterLimit" : 10,
-"startMarkerType" : 0,
-"endMarkerType" : 0
+"startMarkerType" : 0
 },
 "exportOptions" : {
-"shouldTrim" : false,
+"exportFormats" : [
+
+],
 "includedLayerIds" : [
 
 ],
 "layerOptions" : 0,
 "_class" : "exportOptions",
-"exportFormats" : [
-
-]
+"shouldTrim" : false
 },
 "name" : "Tablet Landscape 1024PX",
 "resizingType" : 0,
@@ -241,12 +241,12 @@
 ]
 },
 "frame" : {
-"x" : 2100,
 "y" : -160,
+"width" : 1024,
 "_class" : "rect",
+"x" : 2100,
 "constrainProportions" : false,
-"height" : 768,
-"width" : 1024
+"height" : 768
 },
 "layout" : {
 "columnWidth" : 48,
@@ -299,11 +299,11 @@
 },
 "isFlowHome" : false,
 "presetDictionary" : {
-"allowResizedMatching" : 0,
+"height" : 1024,
 "offersLandscapeVariant" : 1,
 "name" : "Tablet",
-"width" : 768,
-"height" : 1024
+"allowResizedMatching" : 0,
+"width" : 768
 },
 "isLocked" : false,
 "backgroundColor" : {
@@ -319,19 +319,13 @@
 "isVisible" : true,
 "hasClippingMask" : false,
 "style" : {
+"endMarkerType" : 0,
 "windingRule" : 1,
 "_class" : "style",
 "miterLimit" : 10,
-"startMarkerType" : 0,
-"endMarkerType" : 0
+"startMarkerType" : 0
 },
 "exportOptions" : {
-"shouldTrim" : false,
-"includedLayerIds" : [
-
-],
-"layerOptions" : 0,
-"_class" : "exportOptions",
 "exportFormats" : [
 {
 "_class" : "exportFormat",
@@ -342,7 +336,13 @@
 "name" : "",
 "scale" : 0
 }
-]
+],
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"shouldTrim" : false
 },
 "name" : "Tablet Portrait 768PX",
 "resizingType" : 0,
@@ -356,12 +356,12 @@
 ]
 },
 "frame" : {
-"x" : 3436,
 "y" : -160,
+"width" : 768,
 "_class" : "rect",
+"x" : 3436,
 "constrainProportions" : false,
-"height" : 1024,
-"width" : 768
+"height" : 1024
 },
 "layout" : {
 "columnWidth" : 32,
@@ -414,11 +414,11 @@
 },
 "isFlowHome" : false,
 "presetDictionary" : {
-"allowResizedMatching" : 1,
+"height" : 667,
 "offersLandscapeVariant" : 1,
 "name" : "iPhone 8",
-"width" : 375,
-"height" : 667
+"allowResizedMatching" : 1,
+"width" : 375
 },
 "isLocked" : false,
 "backgroundColor" : {
@@ -434,22 +434,22 @@
 "isVisible" : true,
 "hasClippingMask" : false,
 "style" : {
+"endMarkerType" : 0,
 "windingRule" : 1,
 "_class" : "style",
 "miterLimit" : 10,
-"startMarkerType" : 0,
-"endMarkerType" : 0
+"startMarkerType" : 0
 },
 "exportOptions" : {
-"shouldTrim" : false,
+"exportFormats" : [
+
+],
 "includedLayerIds" : [
 
 ],
 "layerOptions" : 0,
 "_class" : "exportOptions",
-"exportFormats" : [
-
-]
+"shouldTrim" : false
 },
 "name" : "Mobile 375px",
 "resizingType" : 0,
@@ -465,12 +465,12 @@
 ]
 },
 "frame" : {
-"x" : 4412,
 "y" : -160,
+"width" : 375,
 "_class" : "rect",
+"x" : 4412,
 "constrainProportions" : false,
-"height" : 667,
-"width" : 375
+"height" : 667
 },
 "layout" : {
 "columnWidth" : 148,
