@@ -4,41 +4,38 @@
 "58C9658E-0742-4510-AB06-E8F8104160B4" : {
 "name" : "Design Ipad",
 "artboards" : {
-"FB0A0776-58AA-46F4-8243-5561964FCA22" : {
-"name" : "Book\/Review Copy 3"
-},
-"440B36B5-EC58-42A3-B882-72DDB9C58C19" : {
-"name" : "Home "
-},
 "F46C8AB4-5067-4B6E-8155-362AC71C7547" : {
 "name" : "Review\/scan ID"
+},
+"86929C2A-A834-46F0-98FC-4FEDB85C4979" : {
+"name" : "Review\/scan ID Copy 2"
+},
+"A657ACFE-761B-4F80-8776-A807259C3655" : {
+"name" : "Book\/Review\/popUp"
 },
 "E0CC9921-AA5D-4DD6-9DFF-AA75474FBC7B" : {
 "name" : "Home\/search\/type"
 },
-"19F6EDFD-CA7C-4B8F-833E-C29326DF1601" : {
-"name" : "Search all results "
-},
-"E81C08D6-BC69-431F-82E2-F0B267458A92" : {
-"name" : "Review\/scan ID Copy"
-},
-"8F5956C8-DE31-45A2-8C92-32588201E10A" : {
-"name" : "Scan Home"
-},
-"5763BAE9-C837-4044-A02F-1F4367807567" : {
-"name" : "Book\/Review"
-},
-"66BCE70F-3092-4D5B-B621-D38D6DC5C7AC" : {
-"name" : "Home \/scroll"
-},
-"A657ACFE-761B-4F80-8776-A807259C3655" : {
-"name" : "Book\/Review\/popUp"
+"440B36B5-EC58-42A3-B882-72DDB9C58C19" : {
+"name" : "Home "
 },
 "6A4656DE-5518-49A4-8BDC-38FD86FC5551" : {
 "name" : "Book\/available"
 },
 "6582345C-ECD8-479E-A25B-DA11078A1084" : {
 "name" : "Viewmore\/newarrivals"
+},
+"5763BAE9-C837-4044-A02F-1F4367807567" : {
+"name" : "Book\/Review"
+},
+"19F6EDFD-CA7C-4B8F-833E-C29326DF1601" : {
+"name" : "Search all results "
+},
+"66BCE70F-3092-4D5B-B621-D38D6DC5C7AC" : {
+"name" : "Home \/scroll"
+},
+"8F5956C8-DE31-45A2-8C92-32588201E10A" : {
+"name" : "Scan Home"
 }
 }
 },
@@ -57,6 +54,9 @@
 "0FB72CB5-446B-45CA-91E0-A93CC0E943CC" : {
 "name" : "atom\/stars\/tap"
 },
+"5D574C0E-D870-4D58-91A5-8F58F3FC58EF" : {
+"name" : "Icon\/24\/check\/orange"
+},
 "780B0031-8FD8-4658-8FB3-4B7EF4232B23" : {
 "name" : "textfield\/icon\/type"
 },
@@ -64,7 +64,7 @@
 "name" : "icon\/20\/erase"
 },
 "2F404A42-10AE-4EC9-9644-A51916A4903D" : {
-"name" : "Icon\/24\/check"
+"name" : "Icon\/24\/check\/blue"
 },
 "52210469-8C51-46B7-B7C3-2B57A5891890" : {
 "name" : "button\/enable\/text\/cancel"
@@ -125,6 +125,9 @@
 },
 "C11D3DE0-5BDE-4A87-A1A7-C5D3C430FC8C" : {
 "name" : "System \/ Keyboards \/ iPad \/ Light - Alphabetic"
+},
+"D4C42D46-278B-4602-8795-0E43B036C293" : {
+"name" : "icon\/20\/search"
 },
 "D61459F0-B9A7-4FC4-BC6B-FC6BE43A5275" : {
 "name" : "button\/icon\/search"

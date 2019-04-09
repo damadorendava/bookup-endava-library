@@ -9807,7 +9807,7 @@
 "MSAttributedStringFontAttribute" : {
 "attributes" : {
 "name" : "Roboto-Regular",
-"size" : 17
+"size" : 16
 },
 "_class" : "fontDescriptor"
 },
@@ -9818,7 +9818,7 @@
 "blue" : 0.2156862745098039,
 "green" : 0.19607843137254899
 },
-"kerning" : 0.1214286,
+"kerning" : 0.1142857,
 "ligature" : 0,
 "paragraphStyle" : {
 "minimumLineHeight" : 24,
@@ -9858,13 +9858,13 @@
 "blue" : 0.2156862745098039,
 "green" : 0.19607843137254899
 },
-"kerning" : 0.15937499999999999,
+"kerning" : 0.059999998658895493,
 "ligature" : 0,
 "paragraphStyle" : {
-"minimumLineHeight" : 24,
+"minimumLineHeight" : 19,
 "_class" : "paragraphStyle",
 "allowsDefaultTighteningForTruncation" : 0,
-"maximumLineHeight" : 24
+"maximumLineHeight" : 19
 }
 }
 },
@@ -10077,6 +10077,166 @@
 },
 "_class" : "sharedStyle",
 "name" : "iOs\/title1\/graydark\/center"
+},
+{
+"do_objectID" : "0D9746F4-C59A-47DE-A418-D5CB46E5A3EE",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Roboto-Regular",
+"size" : 12
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0.1372549019607843,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.2156862745098039,
+"green" : 0.19607843137254899
+},
+"kerning" : 0.23142860000000001,
+"ligature" : 0,
+"paragraphStyle" : {
+"minimumLineHeight" : 17,
+"_class" : "paragraphStyle",
+"allowsDefaultTighteningForTruncation" : 0,
+"maximumLineHeight" : 17
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "iOs\/caption1\/graydark\/left 2"
+},
+{
+"do_objectID" : "DD100890-F056-4CB0-99F0-668B1B2C4797",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Roboto-Regular",
+"size" : 15
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0.1372549019607843,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.2156862745098039,
+"green" : 0.19607843137254899
+},
+"kerning" : 0.26785710000000001,
+"ligature" : 0,
+"paragraphStyle" : {
+"minimumLineHeight" : 20,
+"_class" : "paragraphStyle",
+"allowsDefaultTighteningForTruncation" : 0,
+"maximumLineHeight" : 20
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "iOs\/subhead\/graydark\/left "
+},
+{
+"do_objectID" : "72673665-3A30-4B04-99DD-6F38385DFFCE",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Roboto-Medium",
+"size" : 17
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0.1372549019607843,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.2156862745098039,
+"green" : 0.19607843137254899
+},
+"kerning" : 0.15937499999999999,
+"ligature" : 0,
+"paragraphStyle" : {
+"minimumLineHeight" : 24,
+"_class" : "paragraphStyle",
+"allowsDefaultTighteningForTruncation" : 0,
+"maximumLineHeight" : 24
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "iOs\/headline\/graydark\/left "
+},
+{
+"do_objectID" : "9F54C4C4-ED7F-438B-8137-956ED1BC87EE",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Roboto-Medium",
+"size" : 17
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0.79607843137254897,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.87058823529411766,
+"green" : 0.85098039215686272
+},
+"kerning" : 0.15937499999999999,
+"ligature" : 0,
+"paragraphStyle" : {
+"minimumLineHeight" : 24,
+"_class" : "paragraphStyle",
+"allowsDefaultTighteningForTruncation" : 0,
+"maximumLineHeight" : 24
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "iOs\/headline\/graylight\/left  "
 }
 ],
 "_class" : "sharedTextStyleContainer"

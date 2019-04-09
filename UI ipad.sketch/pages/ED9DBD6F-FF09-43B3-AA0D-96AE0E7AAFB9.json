@@ -14247,12 +14247,12 @@
 "do_objectID" : "780B0031-8FD8-4658-8FB3-4B7EF4232B23",
 "overrideProperties" : [
 {
-"overrideName" : "F0D73297-CB98-4643-8CC6-38A60A419C75_symbolID",
+"overrideName" : "9A473264-8380-463E-9FB8-9AD7EB8ABD46_layerStyle",
 "_class" : "MSImmutableOverrideProperty",
 "canOverride" : true
 },
 {
-"overrideName" : "9A473264-8380-463E-9FB8-9AD7EB8ABD46_layerStyle",
+"overrideName" : "F0D73297-CB98-4643-8CC6-38A60A419C75_symbolID",
 "_class" : "MSImmutableOverrideProperty",
 "canOverride" : true
 }
@@ -14862,7 +14862,15 @@
 "_class" : "exportOptions",
 "layerOptions" : 0,
 "exportFormats" : [
-
+{
+"_class" : "exportFormat",
+"absoluteSize" : 800,
+"fileFormat" : "png",
+"namingScheme" : 0,
+"visibleScaleType" : 1,
+"name" : "",
+"scale" : 0
+}
 ]
 },
 "edited" : true,
@@ -14986,7 +14994,7 @@
 }
 ],
 "shouldBreakMaskChain" : true,
-"changeIdentifier" : 168,
+"changeIdentifier" : 169,
 "booleanOperation" : -1,
 "includeBackgroundColorInExport" : true,
 "groupLayout" : {
@@ -17991,6 +17999,597 @@
 "x" : 26,
 "width" : 20,
 "y" : 385
+},
+"includeBackgroundColorInInstance" : true,
+"isFlippedHorizontal" : false,
+"layerListExpandedType" : 2,
+"resizingConstraint" : 63
+},
+{
+"symbolID" : "420ADA52-4F4D-4CFD-B193-30F14700C7C1",
+"includeInCloudUpload" : true,
+"rotation" : 0,
+"verticalRulerData" : {
+"do_objectID" : "C3CA0973-F4A4-431D-A2B5-E30354AFB708",
+"_class" : "rulerData",
+"base" : 0,
+"guides" : [
+
+]
+},
+"resizesContent" : false,
+"isFlippedVertical" : false,
+"layers" : [
+{
+"isFlippedHorizontal" : false,
+"style" : {
+"_class" : "style",
+"borders" : [
+{
+"thickness" : 1,
+"fillType" : 0,
+"_class" : "border",
+"isEnabled" : true,
+"position" : 0,
+"color" : {
+"red" : 0.59199999999999997,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.59199999999999997,
+"green" : 0.59199999999999997
+}
+}
+],
+"do_objectID" : "2C5D4F18-E07F-4D9D-8C58-A0CB486B81BC",
+"miterLimit" : 10,
+"fills" : [
+{
+"_class" : "fill",
+"color" : {
+"red" : 0.84699999999999998,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.84699999999999998,
+"green" : 0.84699999999999998
+},
+"patternTileScale" : 1,
+"fillType" : 0,
+"noiseIntensity" : 0,
+"patternFillType" : 1,
+"noiseIndex" : 0,
+"isEnabled" : false
+}
+],
+"startMarkerType" : 0,
+"windingRule" : 1,
+"endMarkerType" : 0
+},
+"rotation" : 0,
+"frame" : {
+"_class" : "rect",
+"height" : 1,
+"constrainProportions" : false,
+"do_objectID" : "72E9534D-4D1D-4D23-A8AA-26E4175BA176",
+"x" : 19,
+"width" : 1,
+"y" : 23
+},
+"do_objectID" : "63D2E4CD-E0D1-4194-A97D-BB30851711FB",
+"layerListExpandedType" : 0,
+"exportOptions" : {
+"shouldTrim" : false,
+"do_objectID" : "E434CAC1-5DFF-45D5-B3B9-7C320DAC327A",
+"includedLayerIds" : [
+
+],
+"_class" : "exportOptions",
+"layerOptions" : 0,
+"exportFormats" : [
+
+]
+},
+"edited" : true,
+"isFlippedVertical" : false,
+"clippingMaskMode" : 0,
+"name" : "Path 2",
+"isVisible" : true,
+"hasClippingMask" : false,
+"nameIsFixed" : false,
+"resizingType" : 0,
+"isClosed" : false,
+"isLocked" : false,
+"points" : [
+{
+"_class" : "curvePoint",
+"curveMode" : 1,
+"hasCurveTo" : false,
+"curveFrom" : "{0.5, 0.5}",
+"point" : "{0.5, 0.5}",
+"cornerRadius" : 0,
+"curveTo" : "{0.5, 0.5}",
+"hasCurveFrom" : false
+}
+],
+"shouldBreakMaskChain" : false,
+"pointRadiusBehaviour" : 1,
+"isFixedToViewport" : false,
+"_class" : "shapePath",
+"booleanOperation" : 0,
+"resizingConstraint" : 63
+},
+{
+"isFlippedHorizontal" : false,
+"style" : {
+"_class" : "style",
+"miterLimit" : 10,
+"do_objectID" : "6A2B8775-497B-4105-A8AE-FF27D047E5E0",
+"fills" : [
+{
+"_class" : "fill",
+"color" : {
+"red" : 0.79607843137254897,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.87058823529411766,
+"green" : 0.85098039215686272
+},
+"patternTileScale" : 1,
+"fillType" : 0,
+"noiseIntensity" : 0,
+"patternFillType" : 1,
+"noiseIndex" : 0,
+"isEnabled" : true
+}
+],
+"blur" : {
+"_class" : "blur",
+"center" : "{0.5, 0.5}",
+"do_objectID" : "6DDDF712-8531-4DCE-A4CB-7594C6CDED0D",
+"radius" : 7.2000000000000002,
+"motionAngle" : 0,
+"saturation" : 1,
+"type" : 0,
+"isEnabled" : false
+},
+"startMarkerType" : 0,
+"windingRule" : 0,
+"endMarkerType" : 0
+},
+"rotation" : 0,
+"frame" : {
+"_class" : "rect",
+"height" : 20,
+"constrainProportions" : false,
+"do_objectID" : "C48E1605-FDF9-4B21-90DC-41A5131F5D94",
+"x" : 3,
+"width" : 20,
+"y" : 0
+},
+"do_objectID" : "41E27C88-E7A9-4C5B-902E-B8CCAFE4CF27",
+"hasClickThrough" : false,
+"exportOptions" : {
+"shouldTrim" : false,
+"do_objectID" : "D77EFA54-5B4E-478D-BA74-0C1081434091",
+"includedLayerIds" : [
+
+],
+"_class" : "exportOptions",
+"layerOptions" : 0,
+"exportFormats" : [
+{
+"_class" : "exportFormat",
+"absoluteSize" : 800,
+"fileFormat" : "png",
+"namingScheme" : 0,
+"visibleScaleType" : 1,
+"name" : "",
+"scale" : 0
+}
+]
+},
+"layerListExpandedType" : 1,
+"windingRule" : 0,
+"isFlippedVertical" : false,
+"clippingMaskMode" : 0,
+"name" : "Combined Shape",
+"isVisible" : true,
+"hasClippingMask" : false,
+"layers" : [
+{
+"isFlippedHorizontal" : false,
+"style" : {
+"_class" : "style",
+"miterLimit" : 10,
+"do_objectID" : "B576835A-BF0C-4725-98F2-0536D7228EE9",
+"fills" : [
+{
+"_class" : "fill",
+"color" : {
+"red" : 0,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0,
+"green" : 0
+},
+"patternTileScale" : 1,
+"fillType" : 0,
+"noiseIntensity" : 0,
+"patternFillType" : 1,
+"noiseIndex" : 0,
+"isEnabled" : true
+}
+],
+"blur" : {
+"_class" : "blur",
+"center" : "{0.5, 0.5}",
+"do_objectID" : "03F1B9BB-20C9-4AD0-AF51-A2C51B43BEAF",
+"radius" : 7.2000000000000002,
+"motionAngle" : 0,
+"saturation" : 1,
+"type" : 0,
+"isEnabled" : false
+},
+"startMarkerType" : 0,
+"windingRule" : 0,
+"endMarkerType" : 0
+},
+"rotation" : 0,
+"frame" : {
+"_class" : "rect",
+"height" : 20,
+"constrainProportions" : false,
+"do_objectID" : "76859F53-19FD-4B4D-BEE0-29F2B15B7ED0",
+"x" : 0,
+"width" : 20,
+"y" : 0
+},
+"do_objectID" : "E5B3DDC5-1C02-4807-8C23-9A61F3036444",
+"layerListExpandedType" : 0,
+"exportOptions" : {
+"shouldTrim" : false,
+"do_objectID" : "2FDCFB41-5B5A-4D81-BCBB-88853B361EED",
+"includedLayerIds" : [
+
+],
+"_class" : "exportOptions",
+"layerOptions" : 0,
+"exportFormats" : [
+
+]
+},
+"edited" : true,
+"isFlippedVertical" : false,
+"clippingMaskMode" : 0,
+"name" : "Path",
+"isVisible" : true,
+"hasClippingMask" : false,
+"nameIsFixed" : false,
+"resizingType" : 0,
+"isClosed" : true,
+"isLocked" : false,
+"points" : [
+{
+"_class" : "curvePoint",
+"curveMode" : 4,
+"hasCurveTo" : true,
+"curveFrom" : "{0.97552654287449259, 0.85734603215187444}",
+"point" : "{0.97552654287449259, 0.85734603215187444}",
+"cornerRadius" : 0,
+"curveTo" : "{1.0081578190418359, 0.88998130333343983}",
+"hasCurveFrom" : false
+},
+{
+"_class" : "curvePoint",
+"curveMode" : 4,
+"hasCurveTo" : false,
+"curveFrom" : "{0.75712710537249517, 0.63895058966409923}",
+"point" : "{0.7582816644827256, 0.64010514877432956}",
+"cornerRadius" : 0,
+"curveTo" : "{0.7582816644827256, 0.64010514877432956}",
+"hasCurveFrom" : true
+},
+{
+"_class" : "curvePoint",
+"curveMode" : 4,
+"hasCurveTo" : true,
+"curveFrom" : "{0.79731295343411424, 0.57222586212406923}",
+"point" : "{0.75456630125603252, 0.63706893796541919}",
+"cornerRadius" : 0,
+"curveTo" : "{0.75577279555115229, 0.63814359679120447}",
+"hasCurveFrom" : true
+},
+{
+"_class" : "curvePoint",
+"curveMode" : 3,
+"hasCurveTo" : true,
+"curveFrom" : "{0.82226181725206937, 0.18407028029019784}",
+"point" : "{0.82226181725206937, 0.41113490364025695}",
+"cornerRadius" : 0,
+"curveTo" : "{0.82226181725206937, 0.49460673079996165}",
+"hasCurveFrom" : true
+},
+{
+"_class" : "curvePoint",
+"curveMode" : 2,
+"hasCurveTo" : true,
+"curveFrom" : "{0.18407028029019779, 0}",
+"point" : "{0.41113090862603469, 0}",
+"cornerRadius" : 0,
+"curveTo" : "{0.63819153696187159, 0}",
+"hasCurveFrom" : true
+},
+{
+"_class" : "curvePoint",
+"curveMode" : 2,
+"hasCurveTo" : true,
+"curveFrom" : "{0, 0.63818754194764937}",
+"point" : "{0, 0.41113090862603469}",
+"cornerRadius" : 0,
+"curveTo" : "{0, 0.18407028029019784}",
+"hasCurveFrom" : true
+},
+{
+"_class" : "curvePoint",
+"curveMode" : 3,
+"hasCurveTo" : true,
+"curveFrom" : "{0.49460273578573932, 0.82226181725206937}",
+"point" : "{0.41112691361181242, 0.82226181725206937}",
+"cornerRadius" : 0,
+"curveTo" : "{0.18406628527597557, 0.82226181725206937}",
+"hasCurveFrom" : true
+},
+{
+"_class" : "curvePoint",
+"curveMode" : 4,
+"hasCurveTo" : true,
+"curveFrom" : "{0.63813560676276004, 0.75576880053692985}",
+"point" : "{0.63706094793697465, 0.75456630125603252}",
+"cornerRadius" : 0,
+"curveTo" : "{0.57221787209562469, 0.79731295343411424}",
+"hasCurveFrom" : true
+},
+{
+"_class" : "curvePoint",
+"curveMode" : 4,
+"hasCurveTo" : true,
+"curveFrom" : "{0.64009316373166281, 0.75827766946850328}",
+"point" : "{0.64009316373166281, 0.75827766946850328}",
+"cornerRadius" : 0,
+"curveTo" : "{0.63893860462143237, 0.75712311035827284}",
+"hasCurveFrom" : false
+},
+{
+"_class" : "curvePoint",
+"curveMode" : 4,
+"hasCurveTo" : false,
+"curveFrom" : "{0.88997730831921751, 1.0081578190418359}",
+"point" : "{0.85734203713765211, 0.97552654287449259}",
+"cornerRadius" : 0,
+"curveTo" : "{0.85734203713765211, 0.97552654287449259}",
+"hasCurveFrom" : true
+},
+{
+"_class" : "curvePoint",
+"curveMode" : 2,
+"hasCurveTo" : true,
+"curveFrom" : "{1.0081578190418359, 0.94289127169292719}",
+"point" : "{0.97552654287449247, 0.97552654287449259}",
+"cornerRadius" : 0,
+"curveTo" : "{0.94288727667870487, 1.0081578190418359}",
+"hasCurveFrom" : true
+}
+],
+"shouldBreakMaskChain" : false,
+"pointRadiusBehaviour" : 1,
+"isFixedToViewport" : false,
+"_class" : "shapePath",
+"booleanOperation" : 3,
+"resizingConstraint" : 63
+},
+{
+"isFlippedHorizontal" : false,
+"style" : {
+"_class" : "style",
+"miterLimit" : 10,
+"do_objectID" : "6AFD922D-0451-40DF-8BF8-02C6F2F17F09",
+"fills" : [
+{
+"_class" : "fill",
+"color" : {
+"red" : 0,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0,
+"green" : 0
+},
+"patternTileScale" : 1,
+"fillType" : 0,
+"noiseIntensity" : 0,
+"patternFillType" : 1,
+"noiseIndex" : 0,
+"isEnabled" : true
+}
+],
+"blur" : {
+"_class" : "blur",
+"center" : "{0.5, 0.5}",
+"do_objectID" : "DB8E7B8C-C2FC-43B4-9EE1-CDCCFF4A2AD6",
+"radius" : 7.2000000000000002,
+"motionAngle" : 0,
+"saturation" : 1,
+"type" : 0,
+"isEnabled" : false
+},
+"startMarkerType" : 0,
+"windingRule" : 0,
+"endMarkerType" : 0
+},
+"rotation" : 0,
+"frame" : {
+"_class" : "rect",
+"height" : 10.71428571428571,
+"constrainProportions" : false,
+"do_objectID" : "8003B704-1613-486B-8D39-E9401F54346A",
+"x" : 2.8571428571428581,
+"width" : 10.71428571428571,
+"y" : 2.8571428571428581
+},
+"do_objectID" : "37E3F4E2-D2E4-49DC-AE4B-86DAB3AA8A75",
+"layerListExpandedType" : 0,
+"exportOptions" : {
+"shouldTrim" : false,
+"do_objectID" : "3BD03147-64F2-4E5F-ADFC-9AB289C8AEC0",
+"includedLayerIds" : [
+
+],
+"_class" : "exportOptions",
+"layerOptions" : 0,
+"exportFormats" : [
+
+]
+},
+"edited" : true,
+"isFlippedVertical" : false,
+"clippingMaskMode" : 0,
+"name" : "Path",
+"isVisible" : true,
+"hasClippingMask" : false,
+"nameIsFixed" : false,
+"resizingType" : 0,
+"isClosed" : true,
+"isLocked" : false,
+"points" : [
+{
+"_class" : "curvePoint",
+"curveMode" : 2,
+"hasCurveTo" : true,
+"curveFrom" : "{0.22385495757449564, 1}",
+"point" : "{0.50000371827382861, 1}",
+"cornerRadius" : 0,
+"curveTo" : "{0.7761376058778473, 1}",
+"hasCurveFrom" : true
+},
+{
+"_class" : "curvePoint",
+"curveMode" : 2,
+"hasCurveTo" : true,
+"curveFrom" : "{0, 0.22385495757449564}",
+"point" : "{0, 0.50000371827382861}",
+"cornerRadius" : 0,
+"curveTo" : "{0, 0.77614504242550431}",
+"hasCurveFrom" : true
+},
+{
+"_class" : "curvePoint",
+"curveMode" : 2,
+"hasCurveTo" : true,
+"curveFrom" : "{0.7761376058778473, 0}",
+"point" : "{0.50000371827382861, 0}",
+"cornerRadius" : 0,
+"curveTo" : "{0.2238623941221527, 0}",
+"hasCurveFrom" : true
+},
+{
+"_class" : "curvePoint",
+"curveMode" : 2,
+"hasCurveTo" : true,
+"curveFrom" : "{1, 0.77614504242550453}",
+"point" : "{1, 0.50000371827382861}",
+"cornerRadius" : 0,
+"curveTo" : "{1, 0.22386239412215278}",
+"hasCurveFrom" : true
+}
+],
+"shouldBreakMaskChain" : false,
+"pointRadiusBehaviour" : 1,
+"isFixedToViewport" : false,
+"_class" : "shapePath",
+"booleanOperation" : 3,
+"resizingConstraint" : 63
+}
+],
+"nameIsFixed" : false,
+"resizingType" : 0,
+"isLocked" : false,
+"groupLayout" : {
+"do_objectID" : "C80158DC-0E70-49B2-A861-FDB39BB727DD",
+"_class" : "MSImmutableFreeformGroupLayout"
+},
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "shapeGroup",
+"booleanOperation" : -1,
+"resizingConstraint" : 63
+}
+],
+"shouldBreakMaskChain" : true,
+"changeIdentifier" : 3619,
+"booleanOperation" : -1,
+"includeBackgroundColorInExport" : true,
+"groupLayout" : {
+"do_objectID" : "B348FA36-8D72-4E83-AA05-74AD3FD2CE86",
+"_class" : "MSImmutableFreeformGroupLayout"
+},
+"_class" : "symbolMaster",
+"clippingMaskMode" : 0,
+"hasBackgroundColor" : false,
+"isFlowHome" : false,
+"isLocked" : false,
+"backgroundColor" : {
+"do_objectID" : "7FE7DCE7-BB4B-44F9-9FB7-9E7102B3EDD4",
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"hasClickThrough" : false,
+"isFixedToViewport" : false,
+"nameIsFixed" : true,
+"isVisible" : true,
+"hasClippingMask" : false,
+"style" : {
+"windingRule" : 1,
+"do_objectID" : "478F6413-D423-44CB-84B0-E9985898A564",
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"exportOptions" : {
+"shouldTrim" : false,
+"do_objectID" : "774A6162-812E-47FE-AF95-2768BE460BB2",
+"includedLayerIds" : [
+
+],
+"_class" : "exportOptions",
+"layerOptions" : 0,
+"exportFormats" : [
+
+]
+},
+"name" : "icon\/20\/search",
+"resizingType" : 0,
+"do_objectID" : "D4C42D46-278B-4602-8795-0E43B036C293",
+"overrideProperties" : [
+
+],
+"horizontalRulerData" : {
+"do_objectID" : "B3910B52-A1D1-452B-99A5-B9324E2F1FDE",
+"_class" : "rulerData",
+"base" : 0,
+"guides" : [
+
+]
+},
+"frame" : {
+"_class" : "rect",
+"height" : 20,
+"constrainProportions" : false,
+"do_objectID" : "8501B6D9-7052-4C51-824B-B0775637D661",
+"x" : 18,
+"width" : 23,
+"y" : 356
 },
 "includeBackgroundColorInInstance" : true,
 "isFlippedHorizontal" : false,
@@ -25403,12 +26002,12 @@
 "canOverride" : true
 },
 {
-"overrideName" : "F182148D-59B6-43C5-921D-9D112ED95864_symbolID",
+"overrideName" : "E1D42FC1-4B68-41F5-98B5-1A85ADC5163D_symbolID",
 "_class" : "MSImmutableOverrideProperty",
 "canOverride" : true
 },
 {
-"overrideName" : "E1D42FC1-4B68-41F5-98B5-1A85ADC5163D_symbolID",
+"overrideName" : "F182148D-59B6-43C5-921D-9D112ED95864_symbolID",
 "_class" : "MSImmutableOverrideProperty",
 "canOverride" : true
 },
@@ -26233,7 +26832,7 @@
 "do_objectID" : "47CA9C77-469F-4732-9DEE-1DB1CECEC24F",
 "overrideProperties" : [
 {
-"overrideName" : "1861F52C-90D5-468A-951B-58A5113443AC_symbolID",
+"overrideName" : "1F3830E4-2C16-45D1-873E-907F5238CEFD_symbolID",
 "_class" : "MSImmutableOverrideProperty",
 "canOverride" : true
 },
@@ -26243,7 +26842,7 @@
 "canOverride" : true
 },
 {
-"overrideName" : "1F3830E4-2C16-45D1-873E-907F5238CEFD_symbolID",
+"overrideName" : "1861F52C-90D5-468A-951B-58A5113443AC_symbolID",
 "_class" : "MSImmutableOverrideProperty",
 "canOverride" : true
 },
@@ -26749,17 +27348,17 @@
 "canOverride" : true
 },
 {
-"overrideName" : "6A465473-9CBE-4FD6-8F35-C6B3971E56FF_symbolID",
-"_class" : "MSImmutableOverrideProperty",
-"canOverride" : true
-},
-{
 "overrideName" : "AA9CA264-F42E-4693-A779-3092CB2D2E64_symbolID",
 "_class" : "MSImmutableOverrideProperty",
 "canOverride" : true
 },
 {
 "overrideName" : "D28878F2-4CE5-4CC3-933B-923F6B3CEF1B_symbolID",
+"_class" : "MSImmutableOverrideProperty",
+"canOverride" : true
+},
+{
+"overrideName" : "6A465473-9CBE-4FD6-8F35-C6B3971E56FF_symbolID",
 "_class" : "MSImmutableOverrideProperty",
 "canOverride" : true
 }
@@ -28280,7 +28879,7 @@
 "do_objectID" : "016C6F01-12A3-485D-B1D2-BD2D2884C1B2",
 "overrideProperties" : [
 {
-"overrideName" : "60C49FC5-700B-4941-B87D-88A83080803F_stringValue",
+"overrideName" : "60C49FC5-700B-4941-B87D-88A83080803F_textStyle",
 "_class" : "MSImmutableOverrideProperty",
 "canOverride" : true
 },
@@ -28290,7 +28889,7 @@
 "canOverride" : true
 },
 {
-"overrideName" : "60C49FC5-700B-4941-B87D-88A83080803F_textStyle",
+"overrideName" : "60C49FC5-700B-4941-B87D-88A83080803F_stringValue",
 "_class" : "MSImmutableOverrideProperty",
 "canOverride" : true
 },
@@ -33872,7 +34471,7 @@
 "alpha" : 1,
 "blue" : 0,
 "green" : 0
-},
+                     },
 "kerning" : -0.60000002384185791,
 "paragraphStyle" : {
 "allowsDefaultTighteningForTruncation" : 0,
@@ -34380,7 +34979,7 @@
 },
 "MSAttributedStringColorAttribute" : {
 "red" : 0.71372549019999998,
-                  "_class" : "color",
+"_class" : "color",
 "alpha" : 1,
 "blue" : 0.71372549019999998,
 "green" : 0.71372549019999998
@@ -57498,7 +58097,7 @@
 }
 ],
 "shouldBreakMaskChain" : true,
-"changeIdentifier" : 25115,
+"changeIdentifier" : 25116,
 "booleanOperation" : -1,
 "includeBackgroundColorInExport" : true,
 "groupLayout" : {
@@ -57518,7 +58117,7 @@
 "blue" : 1,
 "green" : 1
 },
-"hasClickThrough" : true,
+"hasClickThrough" : false,
 "isFixedToViewport" : false,
 "nameIsFixed" : true,
 "isVisible" : true,
@@ -57543,7 +58142,7 @@
 
 ]
 },
-"name" : "Icon\/24\/check",
+"name" : "Icon\/24\/check\/blue",
 "resizingType" : 0,
 "do_objectID" : "2F404A42-10AE-4EC9-9644-A51916A4903D",
 "overrideProperties" : [
@@ -57565,6 +58164,233 @@
 "x" : 9540,
 "width" : 52,
 "y" : -68
+},
+"includeBackgroundColorInInstance" : true,
+"isFlippedHorizontal" : false,
+"layerListExpandedType" : 2,
+"resizingConstraint" : 63
+},
+{
+"symbolID" : "91D99203-34FA-4E8E-AB41-1CE3BC6DD7E5",
+"includeInCloudUpload" : true,
+"rotation" : 0,
+"verticalRulerData" : {
+"do_objectID" : "7E8CF394-6818-4304-BBA2-A5051925047D",
+"_class" : "rulerData",
+"base" : 0,
+"guides" : [
+
+]
+},
+"resizesContent" : false,
+"isFlippedVertical" : false,
+"layers" : [
+{
+"isFlippedHorizontal" : false,
+"style" : {
+"_class" : "style",
+"borders" : [
+{
+"thickness" : 7.2000000000000002,
+"fillType" : 0,
+"_class" : "border",
+"isEnabled" : true,
+"position" : 0,
+"color" : {
+"red" : 0.87058823529411766,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.1058823529411765,
+"green" : 0.25490196078431371
+}
+}
+],
+"do_objectID" : "E68FBF4F-0948-4349-B18C-681103FA059D",
+"miterLimit" : 10,
+"borderOptions" : {
+"lineJoinStyle" : 1,
+"do_objectID" : "CD1FD188-888C-4107-9652-F890E087EBB3",
+"_class" : "borderOptions",
+"isEnabled" : false,
+"lineCapStyle" : 1,
+"dashPattern" : [
+
+]
+},
+"fills" : [
+{
+"_class" : "fill",
+"color" : {
+"red" : 0.84699999999999998,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.84699999999999998,
+"green" : 0.84699999999999998
+},
+"patternTileScale" : 1,
+"fillType" : 0,
+"noiseIntensity" : 0,
+"patternFillType" : 1,
+"noiseIndex" : 0,
+"isEnabled" : false
+}
+],
+"blur" : {
+"_class" : "blur",
+"center" : "{0.5, 0.5}",
+"do_objectID" : "1B79F01D-5B0C-4556-84D7-F1CD6C6CA921",
+"radius" : 18,
+"motionAngle" : 0,
+"saturation" : 1,
+"type" : 0,
+"isEnabled" : false
+},
+"startMarkerType" : 0,
+"windingRule" : 1,
+"endMarkerType" : 0
+},
+"rotation" : 0,
+"frame" : {
+"_class" : "rect",
+"height" : 34,
+"constrainProportions" : false,
+"do_objectID" : "9E550ED6-D054-4313-AE01-07AF6F86E138",
+"x" : 10,
+"width" : 33,
+"y" : 9
+},
+"do_objectID" : "9C0D90D7-EF95-44EA-B147-D533E6C21C28",
+"layerListExpandedType" : 0,
+"exportOptions" : {
+"shouldTrim" : false,
+"do_objectID" : "924574F4-D5F8-409B-A4AB-A50564879E00",
+"includedLayerIds" : [
+
+],
+"_class" : "exportOptions",
+"layerOptions" : 0,
+"exportFormats" : [
+
+]
+},
+"edited" : true,
+"isFlippedVertical" : false,
+"clippingMaskMode" : 0,
+"name" : "Path 2",
+"isVisible" : true,
+"hasClippingMask" : false,
+"nameIsFixed" : false,
+"resizingType" : 0,
+"isClosed" : false,
+"isLocked" : false,
+"points" : [
+{
+"_class" : "curvePoint",
+"curveMode" : 1,
+"hasCurveTo" : false,
+"curveFrom" : "{0, 0.73858555989721286}",
+"point" : "{0, 0.73858555989721286}",
+"cornerRadius" : 0,
+"curveTo" : "{0, 0.73858555989721286}",
+"hasCurveFrom" : false
+},
+{
+"_class" : "curvePoint",
+"curveMode" : 1,
+"hasCurveTo" : false,
+"curveFrom" : "{0.35218265010238137, 1}",
+"point" : "{0.35218265010238137, 1}",
+"cornerRadius" : 0,
+"curveTo" : "{0.35218265010238137, 1}",
+"hasCurveFrom" : false
+},
+{
+"_class" : "curvePoint",
+"curveMode" : 1,
+"hasCurveTo" : false,
+"curveFrom" : "{1, 0}",
+"point" : "{1, 0}",
+"cornerRadius" : 0,
+"curveTo" : "{1, 0}",
+"hasCurveFrom" : false
+}
+],
+"shouldBreakMaskChain" : false,
+"pointRadiusBehaviour" : 1,
+"isFixedToViewport" : false,
+"_class" : "shapePath",
+"booleanOperation" : 0,
+"resizingConstraint" : 63
+}
+],
+"shouldBreakMaskChain" : true,
+"changeIdentifier" : 25148,
+"booleanOperation" : -1,
+"includeBackgroundColorInExport" : true,
+"groupLayout" : {
+"do_objectID" : "A162A13E-A704-4A30-B4F9-1CDA90AAB17D",
+"_class" : "MSImmutableFreeformGroupLayout"
+},
+"_class" : "symbolMaster",
+"clippingMaskMode" : 0,
+"hasBackgroundColor" : false,
+"isFlowHome" : false,
+"isLocked" : false,
+"backgroundColor" : {
+"do_objectID" : "489B2310-475D-4649-93D0-5D1CEA15579E",
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"hasClickThrough" : true,
+"isFixedToViewport" : false,
+"nameIsFixed" : true,
+"isVisible" : true,
+"hasClippingMask" : false,
+"style" : {
+"windingRule" : 1,
+"do_objectID" : "35A4A643-B0D0-47AA-BFF5-1032FD4E5C64",
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"exportOptions" : {
+"shouldTrim" : false,
+"do_objectID" : "8F5D4662-0AD2-4388-8ECF-E23668459591",
+"includedLayerIds" : [
+
+],
+"_class" : "exportOptions",
+"layerOptions" : 0,
+"exportFormats" : [
+
+]
+},
+"name" : "Icon\/24\/check\/orange",
+"resizingType" : 0,
+"do_objectID" : "5D574C0E-D870-4D58-91A5-8F58F3FC58EF",
+"overrideProperties" : [
+
+],
+"horizontalRulerData" : {
+"do_objectID" : "1BA78827-2CFE-4CCF-96F1-FA37C00EBAF9",
+"_class" : "rulerData",
+"base" : 0,
+"guides" : [
+
+]
+},
+"frame" : {
+"_class" : "rect",
+"height" : 52,
+"constrainProportions" : false,
+"do_objectID" : "EEC73DAF-22F3-4A49-9941-62FA9BB7216E",
+"x" : 9540,
+"width" : 52,
+"y" : 6
 },
 "includeBackgroundColorInInstance" : true,
 "isFlippedHorizontal" : false,
@@ -57956,12 +58782,12 @@
 "canOverride" : true
 },
 {
-"overrideName" : "F9A12B1E-DA77-405E-A172-2A875A0171E9_stringValue",
+"overrideName" : "F9A12B1E-DA77-405E-A172-2A875A0171E9_textStyle",
 "_class" : "MSImmutableOverrideProperty",
 "canOverride" : true
 },
 {
-"overrideName" : "F9A12B1E-DA77-405E-A172-2A875A0171E9_textStyle",
+"overrideName" : "F9A12B1E-DA77-405E-A172-2A875A0171E9_stringValue",
 "_class" : "MSImmutableOverrideProperty",
 "canOverride" : true
 }
