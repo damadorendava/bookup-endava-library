@@ -1,166 +1,167 @@
 {
 "commit" : "f4e56c65d61efa65dd63fd44515a6e4b855bdd9e",
-"build" : 72643,
-"version" : 116,
-"fonts" : [
-"Roboto-Italic",
-"Roboto-Medium",
-"Roboto-Bold",
-"Roboto-Light",
-"Roboto-Regular"
-],
-"compatibilityVersion" : 99,
-"app" : "com.bohemiancoding.sketch3",
-"autosaved" : 0,
-"variant" : "NONAPPSTORE",
-"created" : {
-"build" : 72643,
-"appVersion" : "53.2",
-"commit" : "f4e56c65d61efa65dd63fd44515a6e4b855bdd9e",
-"app" : "com.bohemiancoding.sketch3",
-"compatibilityVersion" : 99,
-"version" : 116,
-"variant" : "NONAPPSTORE"
-},
-"saveHistory" : [
-"NONAPPSTORE.72643"
-],
-"appVersion" : "53.2",
 "pagesAndArtboards" : {
 "38e7cec0-4c19-11e9-a0fd-5dd9c7e33d2f" : {
 "name" : "Page 1",
 "artboards" : {
-"9405E17A-385C-4EFD-8A18-4FB8B2615406" : {
-"name" : "Confirm QR"
-},
-"ADB2C5DC-F3FD-482D-A176-7702376D2AE7" : {
-"name" : "No results found"
-},
-"AA16BB1C-167B-4D51-A7D7-6C5E70458D02" : {
-"name" : "Search page"
-},
-"755FA1B9-D256-4117-9EC2-4682AC398BC9" : {
-"name" : "Login Validation Copy"
-},
-"36A8CCF5-060D-4047-A239-D55778315F9B" : {
-"name" : "Home app"
-},
-"99F2C39F-EF76-4053-A4AB-A086D6E1D5F5" : {
-"name" : "Verification no results"
-},
-"10FE0275-E5BE-4FC6-B376-0E1590589220" : {
-"name" : "Sign up"
-},
-"44C8F9DA-3CA5-4FC0-A8AC-E555D46CB53D" : {
-"name" : "Book information"
-},
-"0FD79847-C8B3-46C2-902C-8FA9B0B83750" : {
-"name" : "Scan your book QR"
-},
-"313F55ED-0022-4C53-A3F7-1D52B078763C" : {
-"name" : "App review page"
-},
-"5D864705-D3CF-44E7-A02A-E05633B81F55" : {
-"name" : "Home login "
-},
-"0B5D4F43-BB61-4028-9979-B79F84941E84" : {
-"name" : "Reset password  enter email "
-},
-"57737C6A-315A-42F3-9CE8-00774283E6C5" : {
-"name" : "Login Validation"
-},
-"9EEF0D50-BC7F-48AB-BC54-D9BCF7C85C36" : {
-"name" : "Change of wireframe"
-},
-"B0D01137-4C11-41B1-9FAA-3553FA1E0367" : {
-"name" : "Borrowing error"
-},
-"69CBFE20-5749-47A0-991B-BE4F587F696A" : {
-"name" : "Add review Copy"
-},
-"2A16084F-E5AF-4FD4-A1D7-DF747CC9E326" : {
-"name" : "Validation Sign Up Copy"
-},
-"827E546D-CE00-41A4-8A14-FBA5497AC26A" : {
-"name" : "Verification code Copy"
-},
-"9E8B9F25-9EB9-437B-8E8A-C58DDF236D76" : {
-"name" : "Review verification "
-},
-"465F3053-99D5-464E-B528-A94602EF60C7" : {
-"name" : "Search bar nav "
-},
-"58B35230-4F1B-4DBA-9AB7-A0252ADAFDAE" : {
+"727910D3-75D3-441B-96D7-148840E52CC1" : {
 "name" : "Confirm Returning"
 },
-"C06F5F94-270D-480F-85F5-2FED75A95565" : {
-"name" : "Home "
-},
-"F3EADA0A-4FA5-4169-988F-5682DB977F7A" : {
-"name" : "N"
-},
-"A4C81A8B-FC0B-422A-A8D0-B7B79B405910" : {
-"name" : "Change of wireframe Copy"
-},
-"ABAE65D4-0C8D-43E4-9C1F-CFC6F333425D" : {
-"name" : "Search books "
-},
-"B88CAD51-E086-4339-B09B-79120E567489" : {
-"name" : "Reset password  Copy"
-},
-"0E64209A-D29C-4B5F-BCDD-B15F2C35FE88" : {
-"name" : "Add review"
-},
-"41D9B276-6E0E-4A43-8BC6-FB0CC88FE218" : {
-"name" : "Searching QR"
-},
-"0F8A82CA-B08F-40F0-BE93-E9EE91E7AA52" : {
-"name" : "Search bar "
-},
-"45AE6610-3FAB-4972-BF98-F33616799993" : {
-"name" : "Log out"
-},
-"B0BC0861-E553-4FC8-9392-83834147E764" : {
-"name" : "Log in"
-},
-"E2F2F44B-DAB7-400F-AF4C-C7F5F3371DAD" : {
-"name" : "Ipad Home Search"
-},
-"3E397FB8-5840-4D5D-8F83-47C81CF45509" : {
-"name" : "Returning error"
-},
-"B75AC1EE-9802-48A1-A514-CFF5F7206E3C" : {
-"name" : "Confirm borrow "
-},
-"99C6CE1D-4409-43A5-8131-AB3908E8F363" : {
-"name" : "Searching book QR error"
-},
-"56B96742-AA59-465F-8A79-86D87405A26F" : {
-"name" : "404 error copy"
-},
-"B99225D5-2236-4303-AF6F-D948E001A51F" : {
-"name" : "Change of wireframe Copy 2"
-},
-"D4AA4276-ADDD-4353-900F-D2E97F3EB761" : {
+"2CDC0656-861D-4BC1-A56F-B7BB5FD524BF" : {
 "name" : "Email address taken "
 },
-"43F39F68-B220-407B-B15A-7EFA3141E4BC" : {
-"name" : "Verification code"
+"6608DE90-7E04-40F9-B9F8-F636F87C425C" : {
+"name" : "Home login "
 },
-"12787B53-BA66-4EC2-B319-D479C7CD13B2" : {
+"45DBE65E-9141-4285-AE7F-5275E4F44678" : {
 "name" : "New arrivals"
 },
-"0F79430B-5D90-4000-9088-00F2BA229A80" : {
+"3A6B72F7-984B-41CF-A878-E359AABF864F" : {
+"name" : "Search bar nav "
+},
+"E4DB4125-3AAA-436E-90B1-623FED840630" : {
+"name" : "Home app wrong returning"
+},
+"B8A7FACD-110B-4C88-8093-F6BF6650B646" : {
+"name" : "Login Validation Copy"
+},
+"F6C95B88-582E-4135-B19F-409D2423B213" : {
+"name" : "404 error copy"
+},
+"8BA70FA7-CB62-4ED5-A349-BC4DC3F8A934" : {
+"name" : "No results found"
+},
+"F8A8D2D8-792A-4337-AB16-C4BA8D65AB4C" : {
+"name" : "Sign up"
+},
+"025EC457-F5BE-4336-9755-513FAF0410B9" : {
+"name" : "Book information"
+},
+"44F1237F-21DD-4221-B4D4-62C5BEDBCF28" : {
+"name" : "Home app invalid QR"
+},
+"79180087-C6C6-47A8-B23E-80AA30A2C442" : {
 "name" : "Book information "
 },
-"12F6D733-9444-41AC-AF9B-F5FF50890CD4" : {
-"name" : "Reset password "
+"85D1BAC7-978D-4BBD-84F2-47E7B5E3BDDE" : {
+"name" : "Add review"
 },
-"24C381E3-4A44-45DC-B8F9-8045B5ECAA56" : {
+"2202DD65-AD11-4DBC-A90C-2E9E73435BC7" : {
+"name" : "Verification code Copy"
+},
+"F9F46304-7048-481C-AD8C-2150439DC713" : {
+"name" : "Confirm QR"
+},
+"6C86A73A-E026-48F7-A244-C53B667A428A" : {
+"name" : "Search books "
+},
+"54DE7327-E8B2-40D3-9E8D-0E5BD9BF963A" : {
+"name" : "Log out"
+},
+"BADABAD8-49C3-4C60-94EC-A778D7AA176F" : {
+"name" : "Validation Sign Up Copy"
+},
+"2A9F5E1E-15C7-44EA-8215-1D118D8C10A7" : {
 "name" : "Loading book QR"
 },
-"78131E4E-FACF-44AA-B4F7-8EC1816D5CCC" : {
+"AE08FB44-CBE1-454D-8B5E-9BDDF85FC1F9" : {
+"name" : "Returning error"
+},
+"5E6121EF-BA2B-4B7C-90DF-333203EC5633" : {
+"name" : "N"
+},
+"CCEAFB0B-5FDC-4E92-AB6D-CE42FF45DA91" : {
+"name" : "Reset password "
+},
+"E0DF8ED9-FC22-4940-BAD0-B1F4C20B5D08" : {
+"name" : "Change of wireframe"
+},
+"8B461166-361D-45E6-8B95-59A6E8596FFA" : {
+"name" : "Ipad Home Search"
+},
+"0DC17265-9324-4061-B5A7-AE5BA04A60F1" : {
+"name" : "Borrowing error"
+},
+"A1DC803A-5581-421F-954C-374D03F67D77" : {
+"name" : "No results found in search bar"
+},
+"D1EDD0EB-570F-4427-BE1F-FE7000C44BED" : {
+"name" : "Searching QR"
+},
+"6765B925-2156-4CB9-91ED-C92A82FC1FD0" : {
+"name" : "Loading book QR-Return"
+},
+"992513E8-3AB8-4704-8531-090E63CF5C5A" : {
+"name" : "Search page"
+},
+"1CDCF374-FEFE-49A1-A648-93F96B319236" : {
+"name" : "Searching book QR error"
+},
+"3BB49218-4947-4704-9B91-815A06737ECA" : {
+"name" : "Scan your book QR"
+},
+"8B8F1D33-7DDA-4DE7-BC8E-BC8C31D3268F" : {
+"name" : "Confirm borrow "
+},
+"03378AB3-3634-434A-8815-0297B985AE1E" : {
+"name" : "Home "
+},
+"63D020D4-FBDB-4807-B632-136060083FBF" : {
+"name" : "Change of wireframe Copy"
+},
+"D6DE9ED2-5492-4CE8-9020-A46C7B3476CA" : {
+"name" : "Searching QR Wrong path"
+},
+"83A32F02-AEAF-4A74-9A7B-39F25E383C9F" : {
+"name" : "rETURNING QR Wrong path Copy"
+},
+"A98A43AB-B6CD-4670-A6B6-76C95C927E24" : {
+"name" : "Login Validation"
+},
+"AE90B049-2113-45E0-8A1A-F785B13EAB67" : {
+"name" : "Home app wrong borrowing"
+},
+"DE84B9E5-7ED1-478A-AB82-6D80EB1B97D9" : {
 "name" : "Login Validation Copy 2"
+},
+"12192DA9-0A5B-4A95-8FC0-CD1AD9C56E56" : {
+"name" : "Search bar "
+},
+"57024F57-32E5-4381-948F-00B0F571E760" : {
+"name" : "Add review Copy"
+},
+"F2423A29-A72F-4F2F-9406-A85349BA359D" : {
+"name" : "Change of wireframe Copy 2"
+},
+"CAD56F0C-C389-40A2-AE4F-8E022D61F5B6" : {
+"name" : "Book information  Copy"
+},
+"54129288-0920-4407-B75C-C7CB03A79809" : {
+"name" : "Verification code"
+},
+"4A4D1DDB-75C7-4F61-878C-8C533041BD52" : {
+"name" : "Home app"
+},
+"28D6F0C9-8CD7-4562-BB8E-E647FE4DD486" : {
+"name" : "Verification no results"
+},
+"B4CADE22-54DA-46BE-8DD0-D53DFCF3E041" : {
+"name" : "Log in"
+},
+"746AAB48-B95E-45CE-B9F6-CDCAE1F42EF6" : {
+"name" : "App review page"
+},
+"C5D23B69-5FF7-4796-A19C-5E60CA5914B9" : {
+"name" : "Scan your book QR-Return"
+},
+"630196E9-D3FA-4CBD-B7A9-D5A1A2A17133" : {
+"name" : "Reset password  Copy"
+},
+"347B4206-A4AA-4951-AAF2-C4B1B3A6281D" : {
+"name" : "Review verification "
+},
+"E0067035-A456-4161-A88F-FD844BA10519" : {
+"name" : "Reset password  enter email "
 }
 }
 },
@@ -200,6 +201,9 @@
 "A1FA5091-DBC9-438C-956D-76CDB3CFFC9C" : {
 "name" : "Author"
 },
+"7847142E-B999-480A-872B-C7578616255B" : {
+"name" : "Searcjing bar"
+},
 "0CF63E09-755A-46C6-9081-B2143DC3B3FC" : {
 "name" : "Loading QR"
 },
@@ -209,11 +213,17 @@
 "26670243-461F-4B97-8F7A-1FB116F09C41" : {
 "name" : "App Search bar"
 },
-"92E145ED-B8BD-4F2F-AAC8-AE185C488052" : {
-"name" : "image"
+"4A18A324-8DC3-4ABE-9B43-FABFACD8EFB5" : {
+"name" : "Reset password"
 },
 "6D579EC8-6C97-46B2-985D-019F42BA2712" : {
 "name" : "Check Box"
+},
+"92E145ED-B8BD-4F2F-AAC8-AE185C488052" : {
+"name" : "image"
+},
+"ACE3D41E-E4D1-4F60-A22D-C0FC907BC0BD" : {
+"name" : "App save comment"
 },
 "451E331D-7FA4-4E34-8EA8-7D20C4968214" : {
 "name" : "Save comment"
@@ -257,11 +267,17 @@
 "7FBF292A-D4E0-4CC0-BA4B-7B9C704453E1" : {
 "name" : "Try again"
 },
+"B6951A86-A14F-45BF-82E9-B895C0104BE3" : {
+"name" : "App Search bar"
+},
 "2A24350C-07B5-4E91-9F11-C1A1CE805EFD" : {
 "name" : "Save comment"
 },
 "6A3E0CD1-613F-4104-AE42-7A4913C891F4" : {
 "name" : "Comment field"
+},
+"33995696-1C18-4E16-A220-16E3DBAF39DD" : {
+"name" : "Top bar"
 },
 "F8EC4CC1-6DF4-408C-BE91-3D4E80F56CCF" : {
 "name" : "gO TO HOMEPAGE"
@@ -290,8 +306,8 @@
 "D3ABADEF-C207-4917-8DDA-CBB3019B100B" : {
 "name" : "Loading QR"
 },
-"F73CFE07-39D6-4F9F-9508-07ACF86CC803" : {
-"name" : "App Search bar"
+"4F26AFA1-C9E4-4E9F-A1EF-7B1E62B2D1B5" : {
+"name" : "gO TO HOMEPAGE"
 },
 "1693DA6C-B0A6-415A-974B-4562863A9B44" : {
 "name" : "Rate stars"
@@ -301,6 +317,9 @@
 },
 "B79CDFE0-9628-4244-B343-64D9C0560A87" : {
 "name" : "Bookup icon"
+},
+"F73CFE07-39D6-4F9F-9508-07ACF86CC803" : {
+"name" : "App Search bar"
 },
 "CE2F3BD8-0638-48C0-859C-79572FE8E5EC" : {
 "name" : "Top bar"
@@ -315,6 +334,9 @@
 "name" : "Scan QR"
 },
 "1B0FF801-D67B-4484-9B84-F23144898491" : {
+"name" : "Search and camera"
+},
+"26FD6A19-7625-455B-BC2F-4CF1091A7098" : {
 "name" : "Search and camera"
 },
 "8490AC99-164D-4FE6-9B86-53BF42ABAFC1" : {
@@ -335,6 +357,9 @@
 "EE0BD820-C797-45A6-8365-390241B13D3F" : {
 "name" : "lOGO"
 },
+"69AD7521-F543-408E-A656-4B5782461CAF" : {
+"name" : "Rate stars"
+},
 "6C5D4206-840E-4DA4-8D27-AAA3F9E9BC05" : {
 "name" : "Author"
 },
@@ -346,6 +371,9 @@
 },
 "9B139A79-9168-42A7-8EED-775FDFD72999" : {
 "name" : "App Search bar"
+},
+"F50F2923-BE89-44FF-A88D-87018B9AC558" : {
+"name" : "Save comment"
 },
 "A178EB3D-275B-4911-A5B6-643E6FCCB018" : {
 "name" : "Rate stars"
@@ -398,6 +426,9 @@
 "50DA8283-04C5-423F-B353-3D310ADA1573" : {
 "name" : "Searcjing bar"
 },
+"78737CFE-BD55-4409-830B-8ED214C7E5E3" : {
+"name" : "Loading QR"
+},
 "264E352A-8191-4FA3-B24A-20F23480D07F" : {
 "name" : "Searcjing bar"
 },
@@ -409,6 +440,9 @@
 },
 "7E0B3D30-DFD5-4235-AA95-600B0DBD08C7" : {
 "name" : "Author"
+},
+"8FF375A0-7461-4F22-96F6-0683165C380F" : {
+"name" : "qr"
 },
 "BC0B44B1-711D-449F-99FE-862CD4D8FBE7" : {
 "name" : "Save comment"
@@ -461,8 +495,14 @@
 "7086BA3B-8E6C-4BE4-9CE0-A5E0885F34A1" : {
 "name" : "App Search bar"
 },
+"7A1204B8-4150-4169-81A3-B73F5AC41D82" : {
+"name" : "Top bar"
+},
 "9176A9AE-600C-4D0F-98EB-DBDB82638A5A" : {
 "name" : "Search Bar"
+},
+"F5D1FF30-3EBB-40B3-9F6F-0355E649FD1B" : {
+"name" : "QR Warning "
 },
 "4589C75D-4663-43AA-97FB-367EE0C3E756" : {
 "name" : "Searcjing bar"
@@ -475,5 +515,31 @@
 }
 }
 }
-}
+},
+"version" : 116,
+"fonts" : [
+"Roboto-Italic",
+"Roboto-Medium",
+"Roboto-Bold",
+"Roboto-Light",
+"Roboto-Regular"
+],
+"compatibilityVersion" : 99,
+"app" : "com.bohemiancoding.sketch3",
+"autosaved" : 0,
+"variant" : "NONAPPSTORE",
+"created" : {
+"build" : 72643,
+"appVersion" : "53.2",
+"commit" : "f4e56c65d61efa65dd63fd44515a6e4b855bdd9e",
+"app" : "com.bohemiancoding.sketch3",
+"compatibilityVersion" : 99,
+"version" : 116,
+"variant" : "NONAPPSTORE"
+},
+"saveHistory" : [
+"NONAPPSTORE.72643"
+],
+"appVersion" : "53.2",
+"build" : 72643
 }
