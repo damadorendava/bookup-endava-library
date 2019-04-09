@@ -1,0 +1,510 @@
+{
+"isFlippedHorizontal" : false,
+"style" : {
+"startMarkerType" : 0,
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"endMarkerType" : 0
+},
+"rotation" : 0,
+"frame" : {
+"y" : 0,
+"height" : 0,
+"_class" : "rect",
+"width" : 0,
+"x" : 0,
+"constrainProportions" : false
+},
+"do_objectID" : "8FCF23B3-9E9D-464D-8886-288AD8682B3D",
+"layerListExpandedType" : 0,
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"hasClickThrough" : true,
+"horizontalRulerData" : {
+"base" : 0,
+"_class" : "rulerData",
+"guides" : [
+1466,
+57
+]
+},
+"includeInCloudUpload" : true,
+"verticalRulerData" : {
+"base" : 0,
+"_class" : "rulerData",
+"guides" : [
+
+]
+},
+"isFlippedVertical" : false,
+"nameIsFixed" : true,
+"name" : "Grid System ",
+"isVisible" : true,
+"resizingType" : 0,
+"clippingMaskMode" : 0,
+"hasClippingMask" : false,
+"layers" : [
+{
+"verticalRulerData" : {
+"base" : 0,
+"_class" : "rulerData",
+"guides" : [
+
+]
+},
+"includeInCloudUpload" : true,
+"rotation" : 0,
+"resizesContent" : false,
+"isFlippedVertical" : false,
+"layers" : [
+
+],
+"shouldBreakMaskChain" : true,
+"booleanOperation" : -1,
+"includeBackgroundColorInExport" : true,
+"groupLayout" : {
+"_class" : "MSImmutableFreeformGroupLayout"
+},
+"_class" : "artboard",
+"clippingMaskMode" : 0,
+"hasBackgroundColor" : false,
+"grid" : {
+"thickGridTimes" : 8,
+"_class" : "simpleGrid",
+"isEnabled" : true,
+"gridSize" : 8
+},
+"isFlowHome" : false,
+"presetDictionary" : {
+"width" : 1440,
+"offersLandscapeVariant" : 0,
+"height" : 1024,
+"name" : "Desktop HD",
+"allowResizedMatching" : 0
+},
+"isLocked" : false,
+"backgroundColor" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"nameIsFixed" : true,
+"isFixedToViewport" : false,
+"hasClickThrough" : false,
+"isVisible" : true,
+"hasClippingMask" : false,
+"style" : {
+"startMarkerType" : 0,
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"endMarkerType" : 0
+},
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"name" : "Desktop 1440px",
+"resizingType" : 0,
+"do_objectID" : "6EC3268D-3AA4-40B2-B725-23588A04F4E0",
+"horizontalRulerData" : {
+"base" : 0,
+"_class" : "rulerData",
+"guides" : [
+
+]
+},
+"frame" : {
+"y" : -160,
+"height" : 1200,
+"_class" : "rect",
+"width" : 1440,
+"x" : -199,
+"constrainProportions" : false
+},
+"layout" : {
+"columnWidth" : 60,
+"totalWidth" : 1200,
+"drawHorizontalLines" : false,
+"gutterWidth" : 40,
+"_class" : "layoutGrid",
+"horizontalOffset" : 120,
+"isEnabled" : true,
+"gutterHeight" : 8,
+"drawHorizontal" : true,
+"guttersOutside" : true,
+"drawVertical" : true,
+"numberOfColumns" : 12,
+"rowHeightMultiplication" : 1
+},
+"layerListExpandedType" : 2,
+"isFlippedHorizontal" : false,
+"resizingConstraint" : 63
+},
+{
+"verticalRulerData" : {
+"base" : 0,
+"_class" : "rulerData",
+"guides" : [
+
+]
+},
+"includeInCloudUpload" : true,
+"rotation" : 0,
+"resizesContent" : false,
+"isFlippedVertical" : false,
+"layers" : [
+
+],
+"shouldBreakMaskChain" : true,
+"booleanOperation" : -1,
+"includeBackgroundColorInExport" : true,
+"groupLayout" : {
+"_class" : "MSImmutableFreeformGroupLayout"
+},
+"_class" : "artboard",
+"clippingMaskMode" : 0,
+"hasBackgroundColor" : false,
+"grid" : {
+"thickGridTimes" : 8,
+"_class" : "simpleGrid",
+"isEnabled" : true,
+"gridSize" : 8
+},
+"isFlowHome" : false,
+"presetDictionary" : {
+"width" : 1024,
+"offersLandscapeVariant" : 1,
+"height" : 768,
+"name" : "Tablet",
+"allowResizedMatching" : 0
+},
+"isLocked" : false,
+"backgroundColor" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"nameIsFixed" : true,
+"isFixedToViewport" : false,
+"hasClickThrough" : false,
+"isVisible" : true,
+"hasClippingMask" : false,
+"style" : {
+"startMarkerType" : 0,
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"endMarkerType" : 0
+},
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"name" : "Tablet Landscape 1024PX",
+"resizingType" : 0,
+"do_objectID" : "37AE7605-5FE4-40B9-8C77-3823785E7468",
+"horizontalRulerData" : {
+"base" : 0,
+"_class" : "rulerData",
+"guides" : [
+48,
+976
+]
+},
+"frame" : {
+"y" : -160,
+"height" : 768,
+"_class" : "rect",
+"width" : 1024,
+"x" : 2100,
+"constrainProportions" : false
+},
+"layout" : {
+"columnWidth" : 48,
+"totalWidth" : 960,
+"drawHorizontalLines" : false,
+"gutterWidth" : 32,
+"_class" : "layoutGrid",
+"horizontalOffset" : 32,
+"isEnabled" : true,
+"gutterHeight" : 8,
+"drawHorizontal" : true,
+"guttersOutside" : true,
+"drawVertical" : true,
+"numberOfColumns" : 12,
+"rowHeightMultiplication" : 1
+},
+"layerListExpandedType" : 0,
+"isFlippedHorizontal" : false,
+"resizingConstraint" : 63
+},
+{
+"verticalRulerData" : {
+"base" : 0,
+"_class" : "rulerData",
+"guides" : [
+
+]
+},
+"includeInCloudUpload" : true,
+"rotation" : 0,
+"resizesContent" : false,
+"isFlippedVertical" : false,
+"layers" : [
+
+],
+"shouldBreakMaskChain" : true,
+"booleanOperation" : -1,
+"includeBackgroundColorInExport" : true,
+"groupLayout" : {
+"_class" : "MSImmutableFreeformGroupLayout"
+},
+"_class" : "artboard",
+"clippingMaskMode" : 0,
+"hasBackgroundColor" : false,
+"grid" : {
+"thickGridTimes" : 8,
+"_class" : "simpleGrid",
+"isEnabled" : true,
+"gridSize" : 8
+},
+"isFlowHome" : false,
+"presetDictionary" : {
+"width" : 768,
+"offersLandscapeVariant" : 1,
+"height" : 1024,
+"name" : "Tablet",
+"allowResizedMatching" : 0
+},
+"isLocked" : false,
+"backgroundColor" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"nameIsFixed" : true,
+"isFixedToViewport" : false,
+"hasClickThrough" : false,
+"isVisible" : true,
+"hasClippingMask" : false,
+"style" : {
+"startMarkerType" : 0,
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"endMarkerType" : 0
+},
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+{
+"_class" : "exportFormat",
+"absoluteSize" : 800,
+"fileFormat" : "png",
+"namingScheme" : 0,
+"visibleScaleType" : 1,
+"name" : "",
+"scale" : 0
+}
+]
+},
+"name" : "Tablet Portrait 768PX",
+"resizingType" : 0,
+"do_objectID" : "A88A05E5-3AB4-427D-99E8-AEFC48148D3D",
+"horizontalRulerData" : {
+"base" : 0,
+"_class" : "rulerData",
+"guides" : [
+752,
+16
+]
+},
+"frame" : {
+"y" : -160,
+"height" : 1024,
+"_class" : "rect",
+"width" : 768,
+"x" : 3436,
+"constrainProportions" : false
+},
+"layout" : {
+"columnWidth" : 32,
+"totalWidth" : 768,
+"drawHorizontalLines" : false,
+"gutterWidth" : 32,
+"_class" : "layoutGrid",
+"horizontalOffset" : 0,
+"isEnabled" : true,
+"gutterHeight" : 8,
+"drawHorizontal" : true,
+"guttersOutside" : true,
+"drawVertical" : true,
+"numberOfColumns" : 12,
+"rowHeightMultiplication" : 1
+},
+"layerListExpandedType" : 0,
+"isFlippedHorizontal" : false,
+"resizingConstraint" : 63
+},
+{
+"verticalRulerData" : {
+"base" : 0,
+"_class" : "rulerData",
+"guides" : [
+
+]
+},
+"includeInCloudUpload" : true,
+"rotation" : 0,
+"resizesContent" : false,
+"isFlippedVertical" : false,
+"layers" : [
+
+],
+"shouldBreakMaskChain" : true,
+"booleanOperation" : -1,
+"includeBackgroundColorInExport" : true,
+"groupLayout" : {
+"_class" : "MSImmutableFreeformGroupLayout"
+},
+"_class" : "artboard",
+"clippingMaskMode" : 0,
+"hasBackgroundColor" : false,
+"grid" : {
+"thickGridTimes" : 8,
+"_class" : "simpleGrid",
+"isEnabled" : true,
+"gridSize" : 8
+},
+"isFlowHome" : false,
+"presetDictionary" : {
+"width" : 375,
+"offersLandscapeVariant" : 1,
+"height" : 667,
+"name" : "iPhone 8",
+"allowResizedMatching" : 1
+},
+"isLocked" : false,
+"backgroundColor" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"nameIsFixed" : true,
+"isFixedToViewport" : false,
+"hasClickThrough" : false,
+"isVisible" : true,
+"hasClippingMask" : false,
+"style" : {
+"startMarkerType" : 0,
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"endMarkerType" : 0
+},
+"exportOptions" : {
+"shouldTrim" : false,
+"includedLayerIds" : [
+
+],
+"layerOptions" : 0,
+"_class" : "exportOptions",
+"exportFormats" : [
+
+]
+},
+"name" : "Mobile 375px",
+"resizingType" : 0,
+"do_objectID" : "5304D89D-19D7-4FC9-8C5B-B64CF3709FCF",
+"horizontalRulerData" : {
+"base" : 0,
+"_class" : "rulerData",
+"guides" : [
+28,
+348,
+176,
+200
+]
+},
+"frame" : {
+"y" : -160,
+"height" : 667,
+"_class" : "rect",
+"width" : 375,
+"x" : 4412,
+"constrainProportions" : false
+},
+"layout" : {
+"columnWidth" : 148,
+"totalWidth" : 344,
+"drawHorizontalLines" : false,
+"gutterWidth" : 24,
+"_class" : "layoutGrid",
+"horizontalOffset" : 16,
+"isEnabled" : true,
+"gutterHeight" : 8,
+"drawHorizontal" : true,
+"guttersOutside" : true,
+"drawVertical" : true,
+"numberOfColumns" : 2,
+"rowHeightMultiplication" : 1
+},
+"layerListExpandedType" : 0,
+"isFlippedHorizontal" : false,
+"resizingConstraint" : 63
+}
+],
+"grid" : {
+"thickGridTimes" : 8,
+"_class" : "simpleGrid",
+"isEnabled" : true,
+"gridSize" : 8
+},
+"isLocked" : false,
+"groupLayout" : {
+"_class" : "MSImmutableFreeformGroupLayout"
+},
+"shouldBreakMaskChain" : false,
+"isFixedToViewport" : false,
+"_class" : "page",
+"booleanOperation" : -1,
+"resizingConstraint" : 63
+}

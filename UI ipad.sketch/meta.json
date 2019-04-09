@@ -1,0 +1,201 @@
+{
+"commit" : "f4e56c65d61efa65dd63fd44515a6e4b855bdd9e",
+"build" : 72643,
+"version" : 116,
+"fonts" : [
+"SFProText-Regular",
+"SFProDisplay-Light",
+"SFProDisplay-Regular",
+"Roboto-Medium",
+"SFProText-Semibold",
+"Roboto-Regular"
+],
+"compatibilityVersion" : 99,
+"app" : "com.bohemiancoding.sketch3",
+"autosaved" : 0,
+"variant" : "NONAPPSTORE",
+"created" : {
+"build" : 72643,
+"appVersion" : "53.2",
+"commit" : "f4e56c65d61efa65dd63fd44515a6e4b855bdd9e",
+"app" : "com.bohemiancoding.sketch3",
+"compatibilityVersion" : 99,
+"version" : 116,
+"variant" : "NONAPPSTORE"
+},
+"saveHistory" : [
+"NONAPPSTORE.72643"
+],
+"appVersion" : "53.2",
+"pagesAndArtboards" : {
+"58C9658E-0742-4510-AB06-E8F8104160B4" : {
+"name" : "Design Ipad",
+"artboards" : {
+"FB0A0776-58AA-46F4-8243-5561964FCA22" : {
+"name" : "Book\/Review Copy 3"
+},
+"440B36B5-EC58-42A3-B882-72DDB9C58C19" : {
+"name" : "Home "
+},
+"F46C8AB4-5067-4B6E-8155-362AC71C7547" : {
+"name" : "Review\/scan ID"
+},
+"E0CC9921-AA5D-4DD6-9DFF-AA75474FBC7B" : {
+"name" : "Home\/search\/type"
+},
+"19F6EDFD-CA7C-4B8F-833E-C29326DF1601" : {
+"name" : "Search all results "
+},
+"E81C08D6-BC69-431F-82E2-F0B267458A92" : {
+"name" : "Review\/scan ID Copy"
+},
+"8F5956C8-DE31-45A2-8C92-32588201E10A" : {
+"name" : "Scan Home"
+},
+"5763BAE9-C837-4044-A02F-1F4367807567" : {
+"name" : "Book\/Review"
+},
+"66BCE70F-3092-4D5B-B621-D38D6DC5C7AC" : {
+"name" : "Home \/scroll"
+},
+"A657ACFE-761B-4F80-8776-A807259C3655" : {
+"name" : "Book\/Review\/popUp"
+},
+"6A4656DE-5518-49A4-8BDC-38FD86FC5551" : {
+"name" : "Book\/available"
+},
+"6582345C-ECD8-479E-A25B-DA11078A1084" : {
+"name" : "Viewmore\/newarrivals"
+}
+}
+},
+"ED9DBD6F-FF09-43B3-AA0D-96AE0E7AAFB9" : {
+"name" : "Symbols",
+"artboards" : {
+"0608CB0C-BD51-4B14-8CD3-F653CB070427" : {
+"name" : "button\/icon\/camera"
+},
+"136711AA-2BBC-4B40-B688-CC7B4DAE1200" : {
+"name" : "textfield\/icon"
+},
+"053961E8-0C57-40C8-BDC3-CE210563BF36" : {
+"name" : "System \/ Keyboards \/ iPad \/ x \/ Key - Dark Wide Blue"
+},
+"0FB72CB5-446B-45CA-91E0-A93CC0E943CC" : {
+"name" : "atom\/stars\/tap"
+},
+"780B0031-8FD8-4658-8FB3-4B7EF4232B23" : {
+"name" : "textfield\/icon\/type"
+},
+"27C7A766-5AC3-4C6D-8880-E442086703A7" : {
+"name" : "icon\/20\/erase"
+},
+"2F404A42-10AE-4EC9-9644-A51916A4903D" : {
+"name" : "Icon\/24\/check"
+},
+"52210469-8C51-46B7-B7C3-2B57A5891890" : {
+"name" : "button\/enable\/text\/cancel"
+},
+"32B3797D-609C-41CF-8954-AB0E437C4821" : {
+"name" : "button\/icon\/available"
+},
+"8E1A887B-122B-4DC7-B81B-DAB2FB473E16" : {
+"name" : "Icon\/24\/close\/graylight "
+},
+"FC597FA0-9407-46E3-89F5-7BED56BDDE42" : {
+"name" : "button\/scan"
+},
+"5011C170-0EA9-4399-BEC6-B023085D66B3" : {
+"name" : "Icon\/16\/star "
+},
+"572640B0-932F-4667-B9EB-607D1AE97C4F" : {
+"name" : "atom\/button\/search-camara"
+},
+"5E8CF620-D3C2-4F54-A689-20D5C0B90571" : {
+"name" : "atom\/icon\/borrow"
+},
+"76298597-A664-4708-86B0-A17B41C99B52" : {
+"name" : "atom\/stars\/3color "
+},
+"62820E51-1943-4B31-ADF2-93AF80BF81DA" : {
+"name" : "molecule\/scan"
+},
+"E0810B53-308E-4D35-A64C-27F6B0045AE8" : {
+"name" : "button\/enable\/text\/blue copy"
+},
+"7A18C9C1-AFED-4CDF-926F-29A752B2D2C1" : {
+"name" : "System \/ Keyboards \/ iPhone \/ x \/ Light - Background"
+},
+"47CA9C77-469F-4732-9DEE-1DB1CECEC24F" : {
+"name" : "atom\/stars\/2color "
+},
+"016C6F01-12A3-485D-B1D2-BD2D2884C1B2" : {
+"name" : "Bars \/ Navigation Bar \/ iPad - Regular \/ Light - Default"
+},
+"34E6BC6F-29B0-4755-A31A-1D47DF621AC9" : {
+"name" : "icon\/20\/availabe copy"
+},
+"899C694F-F951-4A6F-B368-75D7B332A0D4" : {
+"name" : "Colours"
+},
+"2F9D4180-630D-46E4-9906-B12ECC800680" : {
+"name" : "button\/hover\/login\/blue"
+},
+"3235A0AA-6688-4ED1-B41D-A34B16683997" : {
+"name" : "atom\/stars\/1color"
+},
+"74A54012-3465-46C2-A5E2-BE00657D2E98" : {
+"name" : "icon\/20\/availabe"
+},
+"A13406D0-E7CE-4B61-B5D5-514C2D502F44" : {
+"name" : "atom\/stars\/color"
+},
+"C11D3DE0-5BDE-4A87-A1A7-C5D3C430FC8C" : {
+"name" : "System \/ Keyboards \/ iPad \/ Light - Alphabetic"
+},
+"D61459F0-B9A7-4FC4-BC6B-FC6BE43A5275" : {
+"name" : "button\/icon\/search"
+},
+"F3E8DA32-9F3E-4A4F-80F1-01009B1B160C" : {
+"name" : "atom\/stars\/3color \/gray"
+},
+"F6787D14-3FA8-40E3-8791-6F34DACF5C53" : {
+"name" : "Icon\/24\/nextL\/graylight  "
+},
+"BD1356FA-119B-47D3-A6E1-D8E3C14E7BA2" : {
+"name" : "button\/enable\/confirm"
+},
+"CA515D7B-99D6-4087-88F1-2F1690655968" : {
+"name" : "atom\/icon\/available"
+},
+"CBB1A76B-AF83-46E9-B88B-979361CCBB7B" : {
+"name" : "Typography IOS"
+},
+"937C1E3B-5F0A-4A85-8208-7F21D9C129D8" : {
+"name" : "tab"
+},
+"F4B4182A-9995-4C65-B3E2-8A1C0CA0CC08" : {
+"name" : "Icon\/16\/star\/color\/gray"
+},
+"BAFE1550-4295-47C0-B19A-B7256266E3EF" : {
+"name" : "Icon\/16\/star\/color"
+},
+"544FCBFC-2B91-4DDB-8870-D72EE540364D" : {
+"name" : "atom\/icon\/noavailable"
+},
+"54AB974C-1E2B-4CB8-B7F8-E5DFC7C5D433" : {
+"name" : "Bars \/ Navigation Bar \/ iPad - Regular \/ Light - Default"
+},
+"9F58F025-861E-49AE-AB2B-BE7A35CCCA5E" : {
+"name" : "button\/search"
+},
+"BEE02ED4-1A67-4193-AF50-BE8962B4552F" : {
+"name" : "button"
+},
+"191F4ED0-1CDB-4BCD-819E-E5C8349F6FF2" : {
+"name" : "molecule\/popUp\/validationcode"
+}
+}
+}
+}
+}

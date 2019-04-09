@@ -1,13 +1,14 @@
 {
 "38e7cec0-4c19-11e9-a0fd-5dd9c7e33d2f" : {
 "scrollOrigin" : "{1081, 426}",
-"zoomValue" : 0.60595381073873245
-},
-"document" : {
-"pageListCollapsed" : 1
+"zoomValue" : 0.085319169123779445
 },
 "E3044EE4-28C9-4152-9FCC-A797E0DE647F" : {
 "scrollOrigin" : "{-16900.53274535813, -89.233879904001753}",
-"zoomValue" : 1.937418733231697
+"zoomValue" : 1.388020551973921
+},
+"document" : {
+"pageListHeight" : 145,
+"pageListCollapsed" : 0
 }
 }
