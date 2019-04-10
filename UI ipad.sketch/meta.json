@@ -1,38 +1,11 @@
 {
 "commit" : "f4e56c65d61efa65dd63fd44515a6e4b855bdd9e",
-"build" : 72643,
-"version" : 116,
-"fonts" : [
-"SFProText-Regular",
-"SFProDisplay-Light",
-"SFProDisplay-Regular",
-"Roboto-Medium",
-"SFProText-Semibold",
-"Roboto-Regular"
-],
-"compatibilityVersion" : 99,
-"app" : "com.bohemiancoding.sketch3",
-"autosaved" : 0,
-"variant" : "NONAPPSTORE",
-"created" : {
-"build" : 72643,
-"appVersion" : "53.2",
-"commit" : "f4e56c65d61efa65dd63fd44515a6e4b855bdd9e",
-"app" : "com.bohemiancoding.sketch3",
-"compatibilityVersion" : 99,
-"version" : 116,
-"variant" : "NONAPPSTORE"
-},
-"saveHistory" : [
-"NONAPPSTORE.72643"
-],
-"appVersion" : "53.2",
 "pagesAndArtboards" : {
 "58C9658E-0742-4510-AB06-E8F8104160B4" : {
 "name" : "Design Ipad",
 "artboards" : {
-"FB0A0776-58AA-46F4-8243-5561964FCA22" : {
-"name" : "Book\/Review Copy 3"
+"36FACDBD-3572-45AA-8821-85E9C15386AD" : {
+"name" : "confirm returning"
 },
 "440B36B5-EC58-42A3-B882-72DDB9C58C19" : {
 "name" : "Home "
@@ -40,14 +13,11 @@
 "F46C8AB4-5067-4B6E-8155-362AC71C7547" : {
 "name" : "Review\/scan ID"
 },
-"E0CC9921-AA5D-4DD6-9DFF-AA75474FBC7B" : {
-"name" : "Home\/search\/type"
-},
 "19F6EDFD-CA7C-4B8F-833E-C29326DF1601" : {
 "name" : "Search all results "
 },
-"E81C08D6-BC69-431F-82E2-F0B267458A92" : {
-"name" : "Review\/scan ID Copy"
+"86929C2A-A834-46F0-98FC-4FEDB85C4979" : {
+"name" : "Review\/scan ID Copy 2"
 },
 "8F5956C8-DE31-45A2-8C92-32588201E10A" : {
 "name" : "Scan Home"
@@ -66,6 +36,9 @@
 },
 "6582345C-ECD8-479E-A25B-DA11078A1084" : {
 "name" : "Viewmore\/newarrivals"
+},
+"CF801D06-78CA-412E-AAE5-F68BF8B13745" : {
+"name" : "confirm borrow"
 }
 }
 },
@@ -84,6 +57,9 @@
 "0FB72CB5-446B-45CA-91E0-A93CC0E943CC" : {
 "name" : "atom\/stars\/tap"
 },
+"5D574C0E-D870-4D58-91A5-8F58F3FC58EF" : {
+"name" : "Icon\/24\/check\/orange"
+},
 "780B0031-8FD8-4658-8FB3-4B7EF4232B23" : {
 "name" : "textfield\/icon\/type"
 },
@@ -91,7 +67,7 @@
 "name" : "icon\/20\/erase"
 },
 "2F404A42-10AE-4EC9-9644-A51916A4903D" : {
-"name" : "Icon\/24\/check"
+"name" : "Icon\/24\/check\/blue"
 },
 "52210469-8C51-46B7-B7C3-2B57A5891890" : {
 "name" : "button\/enable\/text\/cancel"
@@ -123,6 +99,9 @@
 "E0810B53-308E-4D35-A64C-27F6B0045AE8" : {
 "name" : "button\/enable\/text\/blue copy"
 },
+"D4406A3B-40CF-44FC-9D04-088E7BA81998" : {
+"name" : "molecule\/popUp\/confirmborrow"
+},
 "7A18C9C1-AFED-4CDF-926F-29A752B2D2C1" : {
 "name" : "System \/ Keyboards \/ iPhone \/ x \/ Light - Background"
 },
@@ -153,6 +132,9 @@
 "C11D3DE0-5BDE-4A87-A1A7-C5D3C430FC8C" : {
 "name" : "System \/ Keyboards \/ iPad \/ Light - Alphabetic"
 },
+"D4C42D46-278B-4602-8795-0E43B036C293" : {
+"name" : "icon\/20\/search"
+},
 "D61459F0-B9A7-4FC4-BC6B-FC6BE43A5275" : {
 "name" : "button\/icon\/search"
 },
@@ -161,6 +143,9 @@
 },
 "F6787D14-3FA8-40E3-8791-6F34DACF5C53" : {
 "name" : "Icon\/24\/nextL\/graylight  "
+},
+"36F79BC2-C239-4663-8887-B3D527744145" : {
+"name" : "molecule\/popUp\/confirmreturning"
 },
 "BD1356FA-119B-47D3-A6E1-D8E3C14E7BA2" : {
 "name" : "button\/enable\/confirm"
@@ -180,6 +165,9 @@
 "BAFE1550-4295-47C0-B19A-B7256266E3EF" : {
 "name" : "Icon\/16\/star\/color"
 },
+"34F83A7E-4B84-4F00-828B-A6E33D908069" : {
+"name" : "button\/enable\/ok"
+},
 "544FCBFC-2B91-4DDB-8870-D72EE540364D" : {
 "name" : "atom\/icon\/noavailable"
 },
@@ -197,5 +185,33 @@
 }
 }
 }
-}
+},
+"version" : 116,
+"fonts" : [
+"SFProText-Regular",
+"SFProDisplay-Light",
+"SFProDisplay-Regular",
+"Roboto-Medium",
+"Roboto-Bold",
+"SFProText-Semibold",
+"Roboto-Regular"
+],
+"compatibilityVersion" : 99,
+"app" : "com.bohemiancoding.sketch3",
+"autosaved" : 0,
+"variant" : "NONAPPSTORE",
+"created" : {
+"build" : 72643,
+"appVersion" : "53.2",
+"commit" : "f4e56c65d61efa65dd63fd44515a6e4b855bdd9e",
+"app" : "com.bohemiancoding.sketch3",
+"compatibilityVersion" : 99,
+"version" : 116,
+"variant" : "NONAPPSTORE"
+},
+"saveHistory" : [
+"NONAPPSTORE.72643"
+],
+"appVersion" : "53.2",
+"build" : 72643
 }

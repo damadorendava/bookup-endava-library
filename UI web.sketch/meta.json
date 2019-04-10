@@ -1,6 +1,395 @@
 {
 "commit" : "f4e56c65d61efa65dd63fd44515a6e4b855bdd9e",
-"build" : 72643,
+"pagesAndArtboards" : {
+"17E18574-2922-47AD-8B66-56DF4B3B0AC8" : {
+"name" : "StyleGuide",
+"artboards" : {
+"B216E575-DE75-4AE2-9B31-E49FCAC388FE" : {
+"name" : "Desktop"
+},
+"88506E04-EDE9-4FCB-8779-6FC3CE25B18B" : {
+"name" : "Desktop Copy"
+},
+"4E0D4C49-931C-41C6-B052-57CFA42374F3" : {
+"name" : "Desktop Copy 3"
+},
+"927F1E6A-468E-406D-9C8D-C188A3FC047C" : {
+"name" : "Desktop Copy 2"
+}
+}
+},
+"B89EBF63-05D9-451D-BD64-6D1FA3ED6DA1" : {
+"name" : "Symbols",
+"artboards" : {
+"E3021180-A15C-473B-8FD8-CE6965C8FD1C" : {
+"name" : "text field icon"
+},
+"7F32C5AF-B468-441A-ABD7-37CDE7BE695A" : {
+"name" : "atom\/stars\/color"
+},
+"562CEA38-89E5-4CAF-843E-DA8129781D5B" : {
+"name" : "button\/hover\/sigup\/orange "
+},
+"030B7C15-2CA2-4130-A523-44CB4D8186CB" : {
+"name" : "button\/enable\/resetpassword"
+},
+"4AEECED2-0E8F-4014-B119-D17B1D83FDD7" : {
+"name" : "button\/selected\/login\/orange "
+},
+"D2DE57EF-6A34-46F4-A818-F4931D35D2DF" : {
+"name" : "button\/disable\/login "
+},
+"DC236668-DB8F-41BC-9A86-5B449A0BCDF4" : {
+"name" : "molecule\/popUp\/signup\/validation2"
+},
+"1BEB7665-1620-4882-92FF-ED628F37708D" : {
+"name" : "molecule\/header\/home"
+},
+"798B6FCB-0017-4DF1-BBA8-47DE21C0D039" : {
+"name" : "text field\/email\/enable"
+},
+"96442B06-F772-4CA0-A3E5-2721AD31A228" : {
+"name" : "Icon\/24\/arrowleft\/graylight "
+},
+"01C2077C-C569-46B5-8CE1-658741CA7A58" : {
+"name" : "molecule\/reviews\/m"
+},
+"DE30B9E1-EEB7-4099-A94C-0F2C499F21D8" : {
+"name" : "molecule\/popUp\/signup\/validationpw"
+},
+"DA9236FD-E1DA-4386-9504-DCD3D040AFB5" : {
+"name" : "button\/selected\/checkbox "
+},
+"522B2262-1060-41EE-B202-7B7642285A82" : {
+"name" : "molecule\/header\/search\/click"
+},
+"49FC345F-DDE9-48C6-A2A9-BDB133B789B2" : {
+"name" : "button\/selected\/text\/blue "
+},
+"77646D7B-B840-4425-A279-54A127CC2FC8" : {
+"name" : "text field\/password\/validation"
+},
+"2C386D8D-F3BC-45A8-8D49-A3A80C08F32F" : {
+"name" : "icon\/20\/search\/graylight"
+},
+"7951D89A-05D1-4E87-8C83-F1136BEBC428" : {
+"name" : "atom\/stars\/blue\/1"
+},
+"A72003B5-10D1-43AD-ACCA-D170817821A0" : {
+"name" : "v"
+},
+"264C6DE3-6A6C-4B63-8C9F-6AD75DC2906F" : {
+"name" : "Icon\/16\/star\/color\/blue"
+},
+"ADCF6760-2DA2-40D7-A6C2-C456B1C6DCA3" : {
+"name" : "atom\/stars\/blue\/5"
+},
+"0299471A-4C24-4497-B190-76E6A951DE01" : {
+"name" : "molecule\/popUp\/login\/validation"
+},
+"5A3DE1D4-AEF0-4171-8175-EDAE070694B5" : {
+"name" : "text field\/type"
+},
+"E8772B5B-A83A-4E01-BC39-6D707FFE6F29" : {
+"name" : "footer"
+},
+"FC5813BC-2E30-4274-AB0F-7E3C45325C6F" : {
+"name" : "atom\/icon\/borrow"
+},
+"FF09B177-9043-4FE0-85EC-BBD8CCD1F0B9" : {
+"name" : "view more copy 2"
+},
+"73E32747-53B2-4B5D-9F0B-A4B33D5FBCF3" : {
+"name" : "text field \/email\/selected"
+},
+"50E0A8A9-382B-4F17-A38B-DB6450BA6983" : {
+"name" : "atom\/stars\/gray\/3"
+},
+"4C118CCE-A9F3-4B2B-8202-CDB59CA5B1A7" : {
+"name" : "molecule\/reviews\/xs"
+},
+"B2C79E30-FB87-4BCE-9AA7-266E78445DA4" : {
+"name" : "atom\/user"
+},
+"754A4F6C-B2BC-41BD-97D4-BF0DA4ED144E" : {
+"name" : "text field\/confirmpassword\/validation"
+},
+"BD5701A4-0F50-4561-9E3E-3C00406C49E1" : {
+"name" : "button\/enable\/send"
+},
+"45515230-E456-4BD3-852E-B27660747C98" : {
+"name" : "button\/selected\/login\/blue"
+},
+"C179BAF4-9FC5-4B99-B6E9-369E532C04A2" : {
+"name" : "Artboard"
+},
+"151956A7-DC52-4F9C-8838-CC3F1EE9156B" : {
+"name" : "button\/enable\/addreview"
+},
+"730EC920-175C-4F0F-96E6-160643409501" : {
+"name" : "button\/hover\/login\/blue"
+},
+"892C601A-A86F-4F88-9C92-60B4F7D39570" : {
+"name" : "Desktop 1920px"
+},
+"D6D4BF62-5651-47F8-A81D-F61DC7EC9949" : {
+"name" : "Icon\/24\/search\/graylight"
+},
+"A8E5A4F4-A3F0-4BB9-BACB-00C25FA33C05" : {
+"name" : "button\/enable\/text\/blue copy"
+},
+"70CEC20A-05E6-4EB5-926F-5A4143832F01" : {
+"name" : "button\/enable\/signup\/orange "
+},
+"FCE1A37B-B267-43DA-A1FE-CAC23D81B222" : {
+"name" : "molecule\/footer"
+},
+"44F6B6ED-C8B2-4B94-A45E-B1CA9E996D95" : {
+"name" : "Icon\/24\/close\/graylight "
+},
+"ED19E757-FE19-4120-9F0D-7D1F27D83909" : {
+"name" : "button\/enable\/gohomepage"
+},
+"4A4C6A6D-FE0B-4E49-ADF5-05ED8091EBDB" : {
+"name" : "view more"
+},
+"8F11CADF-2EDF-424F-8C31-34CAAA60A842" : {
+"name" : "Icon\/24\/check"
+},
+"86A61B99-6679-4972-8BD6-CA8FBC4A414C" : {
+"name" : "button\/search"
+},
+"CC4287EA-7E3B-4CB2-9FA9-75C72EF01D90" : {
+"name" : "atom\/stars\/blue\/3"
+},
+"E0C58A08-ED14-492C-9DF3-C3E33233D7C8" : {
+"name" : "Buttons"
+},
+"444BB7CD-53A1-49E6-BE4F-9833F395A652" : {
+"name" : "text field"
+},
+"89AE499E-A246-47D8-934F-A577904745E0" : {
+"name" : "molecule\/popUp\/login "
+},
+"10FAB63F-211E-4186-BE14-3377B525FA08" : {
+"name" : "Icon\/16\/star\/color\/gray"
+},
+"AA9A778E-798F-458E-9E44-9CBC92DFAFD9" : {
+"name" : "molecule\/popUp\/signup"
+},
+"7E1DDDBD-300E-4BBC-8629-336500B5DE6E" : {
+"name" : "Icon\/16\/search\/graylight "
+},
+"34FAD419-1E8F-45C8-B16F-DF35609CDDDF" : {
+"name" : "Icon\/24\/arrowright\/graylight "
+},
+"008194BE-CB04-49D7-B813-924D9AE87788" : {
+"name" : "button\/icon\/camera"
+},
+"54ADFE80-5DC0-4584-AD40-24EF786B69A8" : {
+"name" : "molecule\/reviews\/s"
+},
+"1AD5BCB3-3C42-4D8E-99DF-805F4FFD2008" : {
+"name" : "molecule\/popUp\/forgotpassword"
+},
+"AC382B75-5696-456F-8498-9CF0C1DF1241" : {
+"name" : "Icon\/16\/star "
+},
+"235EF04C-31F1-492F-9F10-4B907D34AAB3" : {
+"name" : "Desktop Typo"
+},
+"053AD6EB-11C7-489F-988F-1935FE810985" : {
+"name" : "Icon\/24\/book"
+},
+"1D394488-C645-4762-AA4B-10603E58CD60" : {
+"name" : "atom\/icon\/available"
+},
+"8DC32F95-4599-4047-A873-B57550DEB630" : {
+"name" : "Desktop Typo Copy"
+},
+"24AFECDF-9922-477A-9043-7ACCF227E398" : {
+"name" : "molecule\/popUp\/newpassword"
+},
+"23B2D505-0C0B-4D63-BA84-2B93CD141599" : {
+"name" : "molecule\/popUp\/validationcode"
+},
+"8CB8F3A2-FCCB-474B-B31C-B317B11FAC51" : {
+"name" : "button\/hover\/login\/orange"
+},
+"06E96837-834C-457F-882F-3607590A20DF" : {
+"name" : "text field \/email\/validation"
+},
+"5CADB285-6752-4F40-A40A-782E664E74B3" : {
+"name" : "Artboard Copy"
+},
+"50D7ED3B-7AB3-44BE-82BD-E6F857B5A0F4" : {
+"name" : "button\/hover\/checkbox "
+},
+"99C5CDC0-4CC8-4916-BFD5-2654E04AF7E4" : {
+"name" : "button\/disable\/text\/blue&orange"
+},
+"884A0E4A-8E1C-4F4A-A2CD-12ACEB64F323" : {
+"name" : "Icon\/16\/star "
+},
+"DD367EF0-E8C9-472E-BF99-75F738E26601" : {
+"name" : "button\/enable\/view"
+},
+"1C2D4699-576D-49E3-BF06-914972C4F23F" : {
+"name" : "Icon\/16\/star\/color"
+},
+"B0691EBF-0C83-4596-8C61-D94D52B6D62F" : {
+"name" : "Icon\/24\/star"
+},
+"EB552AFF-9156-4B24-9A26-566F65A54FC9" : {
+"name" : "molecule\/carousel"
+},
+"2A5F449D-86CE-453A-8DA9-38A116463A9F" : {
+"name" : "text field\/password\/enable"
+},
+"20F8C9C3-C2D5-4AA9-B4D8-DEA6099AC623" : {
+"name" : "atom\/stars\/color"
+},
+"346B87F8-EC70-4F2C-8509-1CAF8D1BEA08" : {
+"name" : "button\/enable\/signup"
+},
+"A0CFBEB5-D84E-4516-A4FB-0D6661609DC3" : {
+"name" : "button\/enable\/login\/blue"
+},
+"D3D24494-987B-4DB1-A9B0-B19C324096C6" : {
+"name" : "text field\/confirmpassword\/enable "
+},
+"4A306D83-1749-4985-82BE-2B8A9F0E16FE" : {
+"name" : "Icon\/24\/nextR\/graylight  "
+},
+"8DBB63CA-CDE6-4ADA-999D-387DD016938B" : {
+"name" : "button\/enable\/login\/orange"
+},
+"54C62B75-AD32-4C72-9624-A5DA0C917B48" : {
+"name" : "Icon\/24\/nextL\/graylight  "
+},
+"43F48B5D-B6DD-4236-BF02-AE6D81594AD9" : {
+"name" : "molecule\/header\/search\/typeo"
+},
+"64A74324-CEDE-4F60-B81A-DCD6EEC0D3B4" : {
+"name" : "button\/enable\/text\/blue"
+},
+"182B2219-96D3-40B3-BEE2-2D1935147A3D" : {
+"name" : "text field\/password\/selected"
+},
+"3FCD6921-6A52-4CAC-B0EB-32C39B48C5C8" : {
+"name" : "text field\/confirmpassword\/selected"
+},
+"2B1DC14A-2872-4C1F-BF71-771BE2856B51" : {
+"name" : "atom\/stars"
+},
+"DF4AB121-46D4-463E-AC4F-03B507F19A02" : {
+"name" : "molecule\/popUp\/signup\/validation"
+},
+"2234BC59-4C10-4C03-81F4-7C5E2AB431E6" : {
+"name" : "button\/enable\/checkbox"
+},
+"486460FE-ED13-4412-9426-F3F62089835C" : {
+"name" : "button\/hover\/text\/blue&orange"
+}
+}
+},
+"D7699A0D-654E-4FBB-83DA-BD4C8CA8E26F" : {
+"name" : "Design Web Wireframes",
+"artboards" : {
+"3D96AFB5-FCD2-463C-AB93-E7A187B8AEC3" : {
+"name" : "Desktop 1440\/Login"
+},
+"F18B7288-071A-4BAD-B081-0D767EC4704C" : {
+"name" : "Desktop 1440\/Signup\/validation2"
+},
+"7D573708-D4F4-4E5D-996C-B511B1B9197D" : {
+"name" : "Desktop 1440px\/user"
+},
+"EE5B2CE5-B0CE-4802-A5E4-E7423C524247" : {
+"name" : "Desktop 1440px\/AddReview"
+},
+"50AC0530-86C5-48F8-9D4E-92D677C52A11" : {
+"name" : "Desktop 1440\/home"
+},
+"92C0C8BF-2180-4521-A41A-6B337A8FAFDF" : {
+"name" : "Desktop 1440px754px\/Search"
+},
+"337AECFF-705E-48CA-A0E3-17D8E03AA789" : {
+"name" : "Desktop 1440px\/book"
+},
+"A9069792-A3AD-4193-B050-476C33EB59A9" : {
+"name" : "Desktop 1440px\/searchmore"
+},
+"43CE2530-266D-4253-85A7-548D99C081D2" : {
+"name" : "Desktop 1440\/Signup\/validation"
+},
+"8320AF0D-75E3-480E-8AC3-3108671606A2" : {
+"name" : "Desktop 1440\/Signup\/Validation code"
+},
+"2C2ACBF4-4F56-450D-A016-EA0F079F861B" : {
+"name" : "Desktop 1440px\/user\/hover"
+},
+"F0EC7827-DF2C-4FC4-AED2-FA41D114BDFB" : {
+"name" : "Desktop 1440\/Signup\/validationpw"
+},
+"384F4FB8-344C-4891-85D5-D0952D879656" : {
+"name" : "Desktop 1440\/Signup"
+},
+"1C4E62E7-C331-4504-9AD8-A25A7468060A" : {
+"name" : "Desktop 1440px\/newarrivals\/hover"
+},
+"CFE0BCE2-0C61-4D11-87A0-FC988BE301FD" : {
+"name" : "Desktop 1440px\/newarrivals"
+},
+"DBBFA46D-4E62-4D39-B8BB-E85943C068B5" : {
+"name" : "Desktop 1440\/error404"
+},
+"F55401D4-B6E1-4A64-9850-ACC67CA2CED3" : {
+"name" : "Desktop 1440\/Login\/validation"
+},
+"09FB19E6-63A7-4D25-9BAC-BEAA3A9F673D" : {
+"name" : "Desktop 1440\/resetpassword\/validation"
+},
+"81513358-0818-4F7D-A8FF-3BF7974D78BD" : {
+"name" : "Desktop 1440px\/newarrivals\/type"
+},
+"3D0F28E3-8EAB-4949-BAB8-B63DB6B65E79" : {
+"name" : "Desktop 1440\/forgotpassword"
+},
+"928E5941-AE38-47D0-A7A1-64D709F6558D" : {
+"name" : "Desktop 1440\/resetpassword"
+},
+"025E380B-166F-44C6-AED4-1251C58AC6B9" : {
+"name" : "Desktop 1440\/verification no results"
+}
+}
+},
+"8FCF23B3-9E9D-464D-8886-288AD8682B3D" : {
+"name" : "Grid System ",
+"artboards" : {
+"6EC3268D-3AA4-40B2-B725-23588A04F4E0" : {
+"name" : "Desktop 1440px"
+},
+"A88A05E5-3AB4-427D-99E8-AEFC48148D3D" : {
+"name" : "Tablet Portrait 768PX"
+},
+"37AE7605-5FE4-40B9-8C77-3823785E7468" : {
+"name" : "Tablet Landscape 1024PX"
+},
+"5304D89D-19D7-4FC9-8C5B-B64CF3709FCF" : {
+"name" : "Mobile 375px"
+}
+}
+},
+"9BB2D30B-EC4D-4DBB-A516-A0E812DF4838" : {
+"name" : "Design Mobile",
+"artboards" : {
+"7F8BEC8F-2BA9-489A-AB7C-D48FBDAEF796" : {
+"name" : "Mobile 375px"
+}
+}
+}
+},
 "version" : 116,
 "fonts" : [
 "Roboto-Regular",
@@ -31,325 +420,5 @@
 "NONAPPSTORE.72643"
 ],
 "appVersion" : "53.2",
-"pagesAndArtboards" : {
-"17E18574-2922-47AD-8B66-56DF4B3B0AC8" : {
-"name" : "StyleGuide",
-"artboards" : {
-"B216E575-DE75-4AE2-9B31-E49FCAC388FE" : {
-"name" : "Desktop"
-},
-"88506E04-EDE9-4FCB-8779-6FC3CE25B18B" : {
-"name" : "Desktop Copy"
-},
-"4E0D4C49-931C-41C6-B052-57CFA42374F3" : {
-"name" : "Desktop Copy 3"
-},
-"927F1E6A-468E-406D-9C8D-C188A3FC047C" : {
-"name" : "Desktop Copy 2"
-}
-}
-},
-"B89EBF63-05D9-451D-BD64-6D1FA3ED6DA1" : {
-"name" : "Symbols",
-"artboards" : {
-"444BB7CD-53A1-49E6-BE4F-9833F395A652" : {
-"name" : "text field"
-},
-"562CEA38-89E5-4CAF-843E-DA8129781D5B" : {
-"name" : "button\/hover\/sigup\/orange "
-},
-"24AFECDF-9922-477A-9043-7ACCF227E398" : {
-"name" : "molecule\/popUp\/newpassword"
-},
-"BD5701A4-0F50-4561-9E3E-3C00406C49E1" : {
-"name" : "button\/enable\/send"
-},
-"235EF04C-31F1-492F-9F10-4B907D34AAB3" : {
-"name" : "Desktop Typo"
-},
-"54C62B75-AD32-4C72-9624-A5DA0C917B48" : {
-"name" : "Icon\/24\/nextL\/graylight  "
-},
-"ED19E757-FE19-4120-9F0D-7D1F27D83909" : {
-"name" : "button\/enable\/gohomepage"
-},
-"7E1DDDBD-300E-4BBC-8629-336500B5DE6E" : {
-"name" : "Icon\/16\/search\/graylight "
-},
-"2234BC59-4C10-4C03-81F4-7C5E2AB431E6" : {
-"name" : "button\/enable\/checkbox"
-},
-"5CADB285-6752-4F40-A40A-782E664E74B3" : {
-"name" : "Artboard Copy"
-},
-"06E96837-834C-457F-882F-3607590A20DF" : {
-"name" : "text field \/email\/validation"
-},
-"1D394488-C645-4762-AA4B-10603E58CD60" : {
-"name" : "atom\/icon\/available"
-},
-"8DC32F95-4599-4047-A873-B57550DEB630" : {
-"name" : "Desktop Typo Copy"
-},
-"99C5CDC0-4CC8-4916-BFD5-2654E04AF7E4" : {
-"name" : "button\/disable\/text\/blue&orange"
-},
-"DE30B9E1-EEB7-4099-A94C-0F2C499F21D8" : {
-"name" : "molecule\/popUp\/signup\/validationpw"
-},
-"884A0E4A-8E1C-4F4A-A2CD-12ACEB64F323" : {
-"name" : "Icon\/16\/star "
-},
-"A8E5A4F4-A3F0-4BB9-BACB-00C25FA33C05" : {
-"name" : "button\/enable\/text\/blue copy"
-},
-"DC236668-DB8F-41BC-9A86-5B449A0BCDF4" : {
-"name" : "molecule\/popUp\/signup\/validation2"
-},
-"89AE499E-A246-47D8-934F-A577904745E0" : {
-"name" : "molecule\/popUp\/login "
-},
-"DF4AB121-46D4-463E-AC4F-03B507F19A02" : {
-"name" : "molecule\/popUp\/signup\/validation"
-},
-"2B1DC14A-2872-4C1F-BF71-771BE2856B51" : {
-"name" : "atom\/stars"
-},
-"730EC920-175C-4F0F-96E6-160643409501" : {
-"name" : "button\/hover\/login\/blue"
-},
-"7951D89A-05D1-4E87-8C83-F1136BEBC428" : {
-"name" : "atom\/stars\/color"
-},
-"E0C58A08-ED14-492C-9DF3-C3E33233D7C8" : {
-"name" : "Buttons"
-},
-"264C6DE3-6A6C-4B63-8C9F-6AD75DC2906F" : {
-"name" : "Icon\/16\/star\/color"
-},
-"77646D7B-B840-4425-A279-54A127CC2FC8" : {
-"name" : "text field\/password\/validation"
-},
-"8F11CADF-2EDF-424F-8C31-34CAAA60A842" : {
-"name" : "Icon\/24\/check"
-},
-"2A5F449D-86CE-453A-8DA9-38A116463A9F" : {
-"name" : "text field\/password\/enable"
-},
-"C179BAF4-9FC5-4B99-B6E9-369E532C04A2" : {
-"name" : "Artboard"
-},
-"2C386D8D-F3BC-45A8-8D49-A3A80C08F32F" : {
-"name" : "icon\/20\/search\/graylight"
-},
-"A0CFBEB5-D84E-4516-A4FB-0D6661609DC3" : {
-"name" : "button\/enable\/login\/blue"
-},
-"798B6FCB-0017-4DF1-BBA8-47DE21C0D039" : {
-"name" : "text field\/email\/enable"
-},
-"D3D24494-987B-4DB1-A9B0-B19C324096C6" : {
-"name" : "text field\/confirmpassword\/enable "
-},
-"4A4C6A6D-FE0B-4E49-ADF5-05ED8091EBDB" : {
-"name" : "view more"
-},
-"8DBB63CA-CDE6-4ADA-999D-387DD016938B" : {
-"name" : "button\/enable\/login\/orange"
-},
-"1AD5BCB3-3C42-4D8E-99DF-805F4FFD2008" : {
-"name" : "molecule\/popUp\/forgotpassword"
-},
-"B7498F90-0CAF-4290-94C4-30990DCE9D06" : {
-"name" : "atom\/icon\/available"
-},
-"E3021180-A15C-473B-8FD8-CE6965C8FD1C" : {
-"name" : "text field icon"
-},
-"FC5813BC-2E30-4274-AB0F-7E3C45325C6F" : {
-"name" : "atom\/icon\/borrow"
-},
-"34FAD419-1E8F-45C8-B16F-DF35609CDDDF" : {
-"name" : "Icon\/24\/arrowright\/graylight "
-},
-"1DAA6440-9D9B-462B-B1A1-BEE756C691BF" : {
-"name" : "atom\/icon\/available"
-},
-"030B7C15-2CA2-4130-A523-44CB4D8186CB" : {
-"name" : "button\/enable\/resetpassword"
-},
-"AA9A778E-798F-458E-9E44-9CBC92DFAFD9" : {
-"name" : "molecule\/popUp\/signup"
-},
-"23B2D505-0C0B-4D63-BA84-2B93CD141599" : {
-"name" : "molecule\/popUp\/validationcode"
-},
-"8CB8F3A2-FCCB-474B-B31C-B317B11FAC51" : {
-"name" : "button\/hover\/login\/orange"
-},
-"45515230-E456-4BD3-852E-B27660747C98" : {
-"name" : "button\/selected\/login\/blue"
-},
-"0299471A-4C24-4497-B190-76E6A951DE01" : {
-"name" : "molecule\/popUp\/login\/validation"
-},
-"DA9236FD-E1DA-4386-9504-DCD3D040AFB5" : {
-"name" : "button\/selected\/checkbox "
-},
-"64A74324-CEDE-4F60-B81A-DCD6EEC0D3B4" : {
-"name" : "button\/enable\/text\/blue"
-},
-"96442B06-F772-4CA0-A3E5-2721AD31A228" : {
-"name" : "Icon\/24\/arrowleft\/graylight "
-},
-"FCE1A37B-B267-43DA-A1FE-CAC23D81B222" : {
-"name" : "molecule\/footer"
-},
-"892C601A-A86F-4F88-9C92-60B4F7D39570" : {
-"name" : "Desktop 1920px"
-},
-"4AEECED2-0E8F-4014-B119-D17B1D83FDD7" : {
-"name" : "button\/selected\/login\/orange "
-},
-"44F6B6ED-C8B2-4B94-A45E-B1CA9E996D95" : {
-"name" : "Icon\/24\/close\/graylight "
-},
-"EB552AFF-9156-4B24-9A26-566F65A54FC9" : {
-"name" : "molecule\/carousel"
-},
-"3FCD6921-6A52-4CAC-B0EB-32C39B48C5C8" : {
-"name" : "text field\/confirmpassword\/selected"
-},
-"346B87F8-EC70-4F2C-8509-1CAF8D1BEA08" : {
-"name" : "button\/enable\/signup"
-},
-"B2C79E30-FB87-4BCE-9AA7-266E78445DA4" : {
-"name" : "atom\/user"
-},
-"FF09B177-9043-4FE0-85EC-BBD8CCD1F0B9" : {
-"name" : "view more copy 2"
-},
-"4A306D83-1749-4985-82BE-2B8A9F0E16FE" : {
-"name" : "Icon\/24\/nextR\/graylight  "
-},
-"B0691EBF-0C83-4596-8C61-D94D52B6D62F" : {
-"name" : "Icon\/24\/star"
-},
-"50D7ED3B-7AB3-44BE-82BD-E6F857B5A0F4" : {
-"name" : "button\/hover\/checkbox "
-},
-"70CEC20A-05E6-4EB5-926F-5A4143832F01" : {
-"name" : "button\/enable\/signup\/orange "
-},
-"754A4F6C-B2BC-41BD-97D4-BF0DA4ED144E" : {
-"name" : "text field\/confirmpassword\/validation"
-},
-"73E32747-53B2-4B5D-9F0B-A4B33D5FBCF3" : {
-"name" : "text field \/email\/selected"
-},
-"486460FE-ED13-4412-9426-F3F62089835C" : {
-"name" : "button\/hover\/text\/blue&orange"
-},
-"D2DE57EF-6A34-46F4-A818-F4931D35D2DF" : {
-"name" : "button\/disable\/login "
-},
-"182B2219-96D3-40B3-BEE2-2D1935147A3D" : {
-"name" : "text field\/password\/selected"
-},
-"49FC345F-DDE9-48C6-A2A9-BDB133B789B2" : {
-"name" : "button\/selected\/text\/blue "
-},
-"5A3DE1D4-AEF0-4171-8175-EDAE070694B5" : {
-"name" : "text field\/type"
-},
-"D6D4BF62-5651-47F8-A81D-F61DC7EC9949" : {
-"name" : "Icon\/24\/search\/graylight"
-},
-"DD367EF0-E8C9-472E-BF99-75F738E26601" : {
-"name" : "button\/enable\/view"
-}
-}
-},
-"D7699A0D-654E-4FBB-83DA-BD4C8CA8E26F" : {
-"name" : "Design Web Wireframes",
-"artboards" : {
-"50AC0530-86C5-48F8-9D4E-92D677C52A11" : {
-"name" : "Desktop 1440px754px"
-},
-"3D96AFB5-FCD2-463C-AB93-E7A187B8AEC3" : {
-"name" : "Desktop 1440\/Login"
-},
-"928E5941-AE38-47D0-A7A1-64D709F6558D" : {
-"name" : "Desktop 1440\/resetpassword"
-},
-"92C0C8BF-2180-4521-A41A-6B337A8FAFDF" : {
-"name" : "Desktop 1440px754px\/Search"
-},
-"09FB19E6-63A7-4D25-9BAC-BEAA3A9F673D" : {
-"name" : "Desktop 1440\/resetpassword\/validation"
-},
-"43CE2530-266D-4253-85A7-548D99C081D2" : {
-"name" : "Desktop 1440\/Signup\/validation"
-},
-"2C2ACBF4-4F56-450D-A016-EA0F079F861B" : {
-"name" : "Desktop 1440px\/user\/hover"
-},
-"F55401D4-B6E1-4A64-9850-ACC67CA2CED3" : {
-"name" : "Desktop 1440\/Login\/validation"
-},
-"F18B7288-071A-4BAD-B081-0D767EC4704C" : {
-"name" : "Desktop 1440\/Signup\/validation2"
-},
-"F0EC7827-DF2C-4FC4-AED2-FA41D114BDFB" : {
-"name" : "Desktop 1440\/Signup\/validationpw"
-},
-"16E7874F-308A-43F3-A840-1C6B23FF95F0" : {
-"name" : "Desktop 1440px\/newarrivals"
-},
-"8320AF0D-75E3-480E-8AC3-3108671606A2" : {
-"name" : "Desktop 1440\/Signup\/Validation code"
-},
-"DBBFA46D-4E62-4D39-B8BB-E85943C068B5" : {
-"name" : "Desktop 1440\/error404"
-},
-"18DF360B-1616-49AB-834D-EDD5351DC85B" : {
-"name" : "Desktop 1440px\/Book"
-},
-"384F4FB8-344C-4891-85D5-D0952D879656" : {
-"name" : "Desktop 1440\/Signup"
-},
-"3D0F28E3-8EAB-4949-BAB8-B63DB6B65E79" : {
-"name" : "Desktop 1440\/forgotpassword"
-},
-"7D573708-D4F4-4E5D-996C-B511B1B9197D" : {
-"name" : "Desktop 1440px\/user"
-}
-}
-},
-"8FCF23B3-9E9D-464D-8886-288AD8682B3D" : {
-"name" : "Grid System ",
-"artboards" : {
-"5304D89D-19D7-4FC9-8C5B-B64CF3709FCF" : {
-"name" : "Mobile 375px"
-},
-"A88A05E5-3AB4-427D-99E8-AEFC48148D3D" : {
-"name" : "Tablet Portrait 768PX"
-},
-"37AE7605-5FE4-40B9-8C77-3823785E7468" : {
-"name" : "Tablet Landscape 1024PX"
-},
-"6EC3268D-3AA4-40B2-B725-23588A04F4E0" : {
-"name" : "Desktop 1440px"
-}
-}
-},
-"9BB2D30B-EC4D-4DBB-A516-A0E812DF4838" : {
-"name" : "Design Mobile",
-"artboards" : {
-"7F8BEC8F-2BA9-489A-AB7C-D48FBDAEF796" : {
-"name" : "Mobile 375px"
-}
-}
-}
-}
+"build" : 72643
 }
