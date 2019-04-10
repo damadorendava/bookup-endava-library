@@ -2,10 +2,10 @@
 "SMConfigs2" : "{\"scale\":\"1\",\"unit\":\"px\",\"colorFormat\":\"color-hex\",\"timestamp\":1553613979199}",
 "ED9DBD6F-FF09-43B3-AA0D-96AE0E7AAFB9" : {
 "scrollOrigin" : "{14, -3774}",
-"zoomValue" : 6.4813331271694077
+"zoomValue" : 0.76176932837956346
 },
 "document" : {
-"pageListHeight" : 283,
+"pageListHeight" : 327,
 "pageListCollapsed" : 0
 },
 "A1F367B4-33A4-40DB-A505-268C2C4E7AE0" : {
@@ -14,6 +14,6 @@
 },
 "58C9658E-0742-4510-AB06-E8F8104160B4" : {
 "scrollOrigin" : "{-2958, 471}",
-"zoomValue" : 1.302962213768168
+"zoomValue" : 0.51641720271900604
 }
 }

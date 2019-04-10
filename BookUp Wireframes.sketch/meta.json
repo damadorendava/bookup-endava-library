@@ -1,11 +1,37 @@
 {
 "commit" : "f4e56c65d61efa65dd63fd44515a6e4b855bdd9e",
+"build" : 72643,
+"version" : 116,
+"fonts" : [
+"Roboto-Italic",
+"Roboto-Medium",
+"Roboto-Bold",
+"Roboto-Light",
+"Roboto-Regular"
+],
+"compatibilityVersion" : 99,
+"app" : "com.bohemiancoding.sketch3",
+"autosaved" : 0,
+"variant" : "NONAPPSTORE",
+"created" : {
+"build" : 72643,
+"appVersion" : "53.2",
+"commit" : "f4e56c65d61efa65dd63fd44515a6e4b855bdd9e",
+"app" : "com.bohemiancoding.sketch3",
+"compatibilityVersion" : 99,
+"version" : 116,
+"variant" : "NONAPPSTORE"
+},
+"saveHistory" : [
+"NONAPPSTORE.72643"
+],
+"appVersion" : "53.2",
 "pagesAndArtboards" : {
 "38e7cec0-4c19-11e9-a0fd-5dd9c7e33d2f" : {
 "name" : "Page 1",
 "artboards" : {
-"3BB49218-4947-4704-9B91-815A06737ECA" : {
-"name" : "Scan your book QR"
+"1CDCF374-FEFE-49A1-A648-93F96B319236" : {
+"name" : "Searching book QR error"
 },
 "025EC457-F5BE-4336-9755-513FAF0410B9" : {
 "name" : "Book information"
@@ -13,8 +39,8 @@
 "79180087-C6C6-47A8-B23E-80AA30A2C442" : {
 "name" : "Book information "
 },
-"8BA70FA7-CB62-4ED5-A349-BC4DC3F8A934" : {
-"name" : "No results found"
+"12192DA9-0A5B-4A95-8FC0-CD1AD9C56E56" : {
+"name" : "Search bar "
 },
 "2202DD65-AD11-4DBC-A90C-2E9E73435BC7" : {
 "name" : "Verification code Copy"
@@ -148,11 +174,11 @@
 "85D1BAC7-978D-4BBD-84F2-47E7B5E3BDDE" : {
 "name" : "Add review"
 },
-"1CDCF374-FEFE-49A1-A648-93F96B319236" : {
-"name" : "Searching book QR error"
+"3BB49218-4947-4704-9B91-815A06737ECA" : {
+"name" : "Scan your book QR"
 },
-"12192DA9-0A5B-4A95-8FC0-CD1AD9C56E56" : {
-"name" : "Search bar "
+"8BA70FA7-CB62-4ED5-A349-BC4DC3F8A934" : {
+"name" : "No results found"
 }
 }
 },
@@ -506,31 +532,5 @@
 }
 }
 }
-},
-"version" : 116,
-"fonts" : [
-"Roboto-Italic",
-"Roboto-Medium",
-"Roboto-Bold",
-"Roboto-Light",
-"Roboto-Regular"
-],
-"compatibilityVersion" : 99,
-"app" : "com.bohemiancoding.sketch3",
-"autosaved" : 0,
-"variant" : "NONAPPSTORE",
-"created" : {
-"build" : 72643,
-"appVersion" : "53.2",
-"commit" : "f4e56c65d61efa65dd63fd44515a6e4b855bdd9e",
-"app" : "com.bohemiancoding.sketch3",
-"compatibilityVersion" : 99,
-"version" : 116,
-"variant" : "NONAPPSTORE"
-},
-"saveHistory" : [
-"NONAPPSTORE.72643"
-],
-"appVersion" : "53.2",
-"build" : 72643
+}
 }

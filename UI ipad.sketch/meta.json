@@ -4,20 +4,32 @@
 "58C9658E-0742-4510-AB06-E8F8104160B4" : {
 "name" : "Design Ipad",
 "artboards" : {
+"36FACDBD-3572-45AA-8821-85E9C15386AD" : {
+"name" : "confirm returning"
+},
+"440B36B5-EC58-42A3-B882-72DDB9C58C19" : {
+"name" : "Home "
+},
 "F46C8AB4-5067-4B6E-8155-362AC71C7547" : {
 "name" : "Review\/scan ID"
+},
+"19F6EDFD-CA7C-4B8F-833E-C29326DF1601" : {
+"name" : "Search all results "
 },
 "86929C2A-A834-46F0-98FC-4FEDB85C4979" : {
 "name" : "Review\/scan ID Copy 2"
 },
+"8F5956C8-DE31-45A2-8C92-32588201E10A" : {
+"name" : "Scan Home"
+},
+"5763BAE9-C837-4044-A02F-1F4367807567" : {
+"name" : "Book\/Review"
+},
+"66BCE70F-3092-4D5B-B621-D38D6DC5C7AC" : {
+"name" : "Home \/scroll"
+},
 "A657ACFE-761B-4F80-8776-A807259C3655" : {
 "name" : "Book\/Review\/popUp"
-},
-"E0CC9921-AA5D-4DD6-9DFF-AA75474FBC7B" : {
-"name" : "Home\/search\/type"
-},
-"440B36B5-EC58-42A3-B882-72DDB9C58C19" : {
-"name" : "Home "
 },
 "6A4656DE-5518-49A4-8BDC-38FD86FC5551" : {
 "name" : "Book\/available"
@@ -25,17 +37,8 @@
 "6582345C-ECD8-479E-A25B-DA11078A1084" : {
 "name" : "Viewmore\/newarrivals"
 },
-"5763BAE9-C837-4044-A02F-1F4367807567" : {
-"name" : "Book\/Review"
-},
-"19F6EDFD-CA7C-4B8F-833E-C29326DF1601" : {
-"name" : "Search all results "
-},
-"66BCE70F-3092-4D5B-B621-D38D6DC5C7AC" : {
-"name" : "Home \/scroll"
-},
-"8F5956C8-DE31-45A2-8C92-32588201E10A" : {
-"name" : "Scan Home"
+"CF801D06-78CA-412E-AAE5-F68BF8B13745" : {
+"name" : "confirm borrow"
 }
 }
 },
@@ -96,6 +99,9 @@
 "E0810B53-308E-4D35-A64C-27F6B0045AE8" : {
 "name" : "button\/enable\/text\/blue copy"
 },
+"D4406A3B-40CF-44FC-9D04-088E7BA81998" : {
+"name" : "molecule\/popUp\/confirmborrow"
+},
 "7A18C9C1-AFED-4CDF-926F-29A752B2D2C1" : {
 "name" : "System \/ Keyboards \/ iPhone \/ x \/ Light - Background"
 },
@@ -138,6 +144,9 @@
 "F6787D14-3FA8-40E3-8791-6F34DACF5C53" : {
 "name" : "Icon\/24\/nextL\/graylight  "
 },
+"36F79BC2-C239-4663-8887-B3D527744145" : {
+"name" : "molecule\/popUp\/confirmreturning"
+},
 "BD1356FA-119B-47D3-A6E1-D8E3C14E7BA2" : {
 "name" : "button\/enable\/confirm"
 },
@@ -155,6 +164,9 @@
 },
 "BAFE1550-4295-47C0-B19A-B7256266E3EF" : {
 "name" : "Icon\/16\/star\/color"
+},
+"34F83A7E-4B84-4F00-828B-A6E33D908069" : {
+"name" : "button\/enable\/ok"
 },
 "544FCBFC-2B91-4DDB-8870-D72EE540364D" : {
 "name" : "atom\/icon\/noavailable"
@@ -180,6 +192,7 @@
 "SFProDisplay-Light",
 "SFProDisplay-Regular",
 "Roboto-Medium",
+"Roboto-Bold",
 "SFProText-Semibold",
 "Roboto-Regular"
 ],

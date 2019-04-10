@@ -6594,12 +6594,12 @@
 "canOverride" : true
 },
 {
-"overrideName" : "8C568016-93EF-4728-A1F0-ABDFB4385117_symbolID",
+"overrideName" : "9E7069A9-ADB0-42D7-BBD5-9DB0F7959351_symbolID",
 "_class" : "MSImmutableOverrideProperty",
 "canOverride" : true
 },
 {
-"overrideName" : "9E7069A9-ADB0-42D7-BBD5-9DB0F7959351_symbolID",
+"overrideName" : "8C568016-93EF-4728-A1F0-ABDFB4385117_symbolID",
 "_class" : "MSImmutableOverrideProperty",
 "canOverride" : true
 }
@@ -22392,6 +22392,85 @@
 },
 "_class" : "sharedStyle",
 "name" : "iOs\/headline\/orange\/left "
+},
+{
+"do_objectID" : "21DE0900-AADE-4A2C-B05E-91B15AD82DDA",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Roboto-Medium",
+"size" : 22
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0.64313725490196072,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.70980392156862748,
+"green" : 0.69019607843137254
+},
+"ligature" : 0,
+"paragraphStyle" : {
+"allowsDefaultTighteningForTruncation" : 0,
+"_class" : "paragraphStyle",
+"alignment" : 2
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "iOs\/title2\/gray\/center  "
+},
+{
+"do_objectID" : "A0C2C9B1-8B3A-4E40-A84B-3ED01D9210BC",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Roboto-Medium",
+"size" : 23
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0.64313725490196072,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.70980392156862748,
+"green" : 0.69019607843137254
+},
+"kerning" : -0.1916667,
+"ligature" : 0,
+"paragraphStyle" : {
+"alignment" : 2,
+"minimumLineHeight" : 24,
+"_class" : "paragraphStyle",
+"allowsDefaultTighteningForTruncation" : 0,
+"maximumLineHeight" : 24
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "iOs\/title1\/gray\/center "
 }
 ],
 "_class" : "sharedTextStyleContainer"

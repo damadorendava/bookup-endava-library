@@ -1,23 +1,30 @@
 {
 "isFlippedHorizontal" : false,
 "style" : {
-"startMarkerType" : 0,
 "windingRule" : 1,
 "_class" : "style",
 "miterLimit" : 10,
+"startMarkerType" : 0,
 "endMarkerType" : 0
 },
-"rotation" : 0,
+"horizontalRulerData" : {
+"base" : 0,
+"_class" : "rulerData",
+"guides" : [
+1466,
+57
+]
+},
 "frame" : {
-"y" : 0,
-"height" : 0,
-"_class" : "rect",
-"width" : 0,
 "x" : 0,
-"constrainProportions" : false
+"y" : 0,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 0,
+"width" : 0
 },
 "do_objectID" : "8FCF23B3-9E9D-464D-8886-288AD8682B3D",
-"layerListExpandedType" : 0,
+"hasClickThrough" : true,
 "exportOptions" : {
 "shouldTrim" : false,
 "includedLayerIds" : [
@@ -29,16 +36,9 @@
 
 ]
 },
-"hasClickThrough" : true,
-"horizontalRulerData" : {
-"base" : 0,
-"_class" : "rulerData",
-"guides" : [
-1466,
-57
-]
-},
 "includeInCloudUpload" : true,
+"layerListExpandedType" : 0,
+"rotation" : 0,
 "verticalRulerData" : {
 "base" : 0,
 "_class" : "rulerData",
@@ -47,11 +47,9 @@
 ]
 },
 "isFlippedVertical" : false,
-"nameIsFixed" : true,
+"clippingMaskMode" : 0,
 "name" : "Grid System ",
 "isVisible" : true,
-"resizingType" : 0,
-"clippingMaskMode" : 0,
 "hasClippingMask" : false,
 "layers" : [
 {
@@ -89,8 +87,8 @@
 "width" : 1440,
 "offersLandscapeVariant" : 0,
 "height" : 1024,
-"name" : "Desktop HD",
-"allowResizedMatching" : 0
+"allowResizedMatching" : 0,
+"name" : "Desktop HD"
 },
 "isLocked" : false,
 "backgroundColor" : {
@@ -100,16 +98,16 @@
 "blue" : 1,
 "green" : 1
 },
-"nameIsFixed" : true,
-"isFixedToViewport" : false,
 "hasClickThrough" : false,
+"isFixedToViewport" : false,
+"nameIsFixed" : true,
 "isVisible" : true,
 "hasClippingMask" : false,
 "style" : {
-"startMarkerType" : 0,
 "windingRule" : 1,
 "_class" : "style",
 "miterLimit" : 10,
+"startMarkerType" : 0,
 "endMarkerType" : 0
 },
 "exportOptions" : {
@@ -134,12 +132,12 @@
 ]
 },
 "frame" : {
-"y" : -160,
-"height" : 1200,
-"_class" : "rect",
-"width" : 1440,
 "x" : -199,
-"constrainProportions" : false
+"y" : -160,
+"_class" : "rect",
+"constrainProportions" : false,
+"height" : 1200,
+"width" : 1440
 },
 "layout" : {
 "columnWidth" : 60,
@@ -195,8 +193,8 @@
 "width" : 1024,
 "offersLandscapeVariant" : 1,
 "height" : 768,
-"name" : "Tablet",
-"allowResizedMatching" : 0
+"allowResizedMatching" : 0,
+"name" : "Tablet"
 },
 "isLocked" : false,
 "backgroundColor" : {
@@ -206,16 +204,16 @@
 "blue" : 1,
 "green" : 1
 },
-"nameIsFixed" : true,
-"isFixedToViewport" : false,
 "hasClickThrough" : false,
+"isFixedToViewport" : false,
+"nameIsFixed" : true,
 "isVisible" : true,
 "hasClippingMask" : false,
 "style" : {
-"startMarkerType" : 0,
 "windingRule" : 1,
 "_class" : "style",
 "miterLimit" : 10,
+"startMarkerType" : 0,
 "endMarkerType" : 0
 },
 "exportOptions" : {
@@ -241,12 +239,12 @@
 ]
 },
 "frame" : {
+"x" : 1399,
 "y" : -160,
-"height" : 768,
 "_class" : "rect",
-"width" : 1024,
-"x" : 2100,
-"constrainProportions" : false
+"constrainProportions" : false,
+"height" : 768,
+"width" : 1024
 },
 "layout" : {
 "columnWidth" : 48,
@@ -302,8 +300,8 @@
 "width" : 768,
 "offersLandscapeVariant" : 1,
 "height" : 1024,
-"name" : "Tablet",
-"allowResizedMatching" : 0
+"allowResizedMatching" : 0,
+"name" : "Tablet"
 },
 "isLocked" : false,
 "backgroundColor" : {
@@ -313,16 +311,16 @@
 "blue" : 1,
 "green" : 1
 },
-"nameIsFixed" : true,
-"isFixedToViewport" : false,
 "hasClickThrough" : false,
+"isFixedToViewport" : false,
+"nameIsFixed" : true,
 "isVisible" : true,
 "hasClippingMask" : false,
 "style" : {
-"startMarkerType" : 0,
 "windingRule" : 1,
 "_class" : "style",
 "miterLimit" : 10,
+"startMarkerType" : 0,
 "endMarkerType" : 0
 },
 "exportOptions" : {
@@ -356,12 +354,12 @@
 ]
 },
 "frame" : {
-"y" : -160,
-"height" : 1024,
+"x" : 2595,
+"y" : -159.99999999999989,
 "_class" : "rect",
-"width" : 768,
-"x" : 3436,
-"constrainProportions" : false
+"constrainProportions" : false,
+"height" : 1024,
+"width" : 768
 },
 "layout" : {
 "columnWidth" : 32,
@@ -417,8 +415,8 @@
 "width" : 375,
 "offersLandscapeVariant" : 1,
 "height" : 667,
-"name" : "iPhone 8",
-"allowResizedMatching" : 1
+"allowResizedMatching" : 1,
+"name" : "iPhone 8"
 },
 "isLocked" : false,
 "backgroundColor" : {
@@ -428,16 +426,16 @@
 "blue" : 1,
 "green" : 1
 },
-"nameIsFixed" : true,
-"isFixedToViewport" : false,
 "hasClickThrough" : false,
+"isFixedToViewport" : false,
+"nameIsFixed" : true,
 "isVisible" : true,
 "hasClippingMask" : false,
 "style" : {
-"startMarkerType" : 0,
 "windingRule" : 1,
 "_class" : "style",
 "miterLimit" : 10,
+"startMarkerType" : 0,
 "endMarkerType" : 0
 },
 "exportOptions" : {
@@ -465,12 +463,12 @@
 ]
 },
 "frame" : {
+"x" : 3479,
 "y" : -160,
-"height" : 667,
 "_class" : "rect",
-"width" : 375,
-"x" : 4412,
-"constrainProportions" : false
+"constrainProportions" : false,
+"height" : 667,
+"width" : 375
 },
 "layout" : {
 "columnWidth" : 148,
@@ -498,6 +496,8 @@
 "isEnabled" : true,
 "gridSize" : 8
 },
+"nameIsFixed" : true,
+"resizingType" : 0,
 "isLocked" : false,
 "groupLayout" : {
 "_class" : "MSImmutableFreeformGroupLayout"
