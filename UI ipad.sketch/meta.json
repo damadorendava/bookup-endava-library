@@ -4,41 +4,41 @@
 "58C9658E-0742-4510-AB06-E8F8104160B4" : {
 "name" : "Design Ipad",
 "artboards" : {
-"36FACDBD-3572-45AA-8821-85E9C15386AD" : {
+"550072C8-4881-4C37-BAE2-D90C9F14792B" : {
+"name" : "confirm borrow"
+},
+"678A3CCE-476E-43D1-8883-3E528D68DF57" : {
 "name" : "confirm returning"
 },
-"440B36B5-EC58-42A3-B882-72DDB9C58C19" : {
-"name" : "Home "
-},
-"F46C8AB4-5067-4B6E-8155-362AC71C7547" : {
-"name" : "Review\/scan ID"
-},
-"19F6EDFD-CA7C-4B8F-833E-C29326DF1601" : {
-"name" : "Search all results "
-},
-"86929C2A-A834-46F0-98FC-4FEDB85C4979" : {
-"name" : "Review\/scan ID Copy 2"
-},
-"8F5956C8-DE31-45A2-8C92-32588201E10A" : {
+"CDF7A084-0102-4B4E-A6B6-0C4566D78F2B" : {
 "name" : "Scan Home"
 },
-"5763BAE9-C837-4044-A02F-1F4367807567" : {
-"name" : "Book\/Review"
-},
-"66BCE70F-3092-4D5B-B621-D38D6DC5C7AC" : {
-"name" : "Home \/scroll"
-},
-"A657ACFE-761B-4F80-8776-A807259C3655" : {
-"name" : "Book\/Review\/popUp"
-},
-"6A4656DE-5518-49A4-8BDC-38FD86FC5551" : {
+"F8635292-E1D9-41C7-BAF1-6C0F989CBCE6" : {
 "name" : "Book\/available"
 },
-"6582345C-ECD8-479E-A25B-DA11078A1084" : {
+"F35572DD-54DD-4FCF-9C8D-6B3007AD58E7" : {
+"name" : "Search all results "
+},
+"E9EECA39-0A67-4193-B840-40AD2DA3D8E4" : {
+"name" : "Home \/scroll"
+},
+"42080DD7-F308-4E90-B878-52CA54658003" : {
+"name" : "Book\/Review\/popUp"
+},
+"54C7885B-61B2-41B5-8BD7-BD47D1471997" : {
+"name" : "Review\/scan ID Copy 2"
+},
+"678E1A27-A74C-4053-9F43-2E6EA5CB62CF" : {
+"name" : "Book\/Review"
+},
+"359CD8A2-E916-4423-9526-4F40E7ABD6D4" : {
 "name" : "Viewmore\/newarrivals"
 },
-"CF801D06-78CA-412E-AAE5-F68BF8B13745" : {
-"name" : "confirm borrow"
+"D5832EFF-25FF-484C-8223-38F7B9A9A88D" : {
+"name" : "Home "
+},
+"30571551-D3F4-40C1-84B4-000F903E4080" : {
+"name" : "Review\/scan ID"
 }
 }
 },
@@ -150,14 +150,17 @@
 "BD1356FA-119B-47D3-A6E1-D8E3C14E7BA2" : {
 "name" : "button\/enable\/confirm"
 },
+"000303AA-5913-44D2-AB18-820BAA492820" : {
+"name" : "textfield\/icon\/type"
+},
 "CA515D7B-99D6-4087-88F1-2F1690655968" : {
 "name" : "atom\/icon\/available"
 },
-"CBB1A76B-AF83-46E9-B88B-979361CCBB7B" : {
-"name" : "Typography IOS"
-},
 "937C1E3B-5F0A-4A85-8208-7F21D9C129D8" : {
 "name" : "tab"
+},
+"CBB1A76B-AF83-46E9-B88B-979361CCBB7B" : {
+"name" : "Typography IOS"
 },
 "F4B4182A-9995-4C65-B3E2-8A1C0CA0CC08" : {
 "name" : "Icon\/16\/star\/color\/gray"
