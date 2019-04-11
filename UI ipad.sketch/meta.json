@@ -1,5 +1,33 @@
 {
 "commit" : "f4e56c65d61efa65dd63fd44515a6e4b855bdd9e",
+"build" : 72643,
+"version" : 116,
+"fonts" : [
+"SFProText-Regular",
+"SFProDisplay-Light",
+"SFProDisplay-Regular",
+"Roboto-Medium",
+"Roboto-Bold",
+"SFProText-Semibold",
+"Roboto-Regular"
+],
+"compatibilityVersion" : 99,
+"app" : "com.bohemiancoding.sketch3",
+"autosaved" : 0,
+"variant" : "NONAPPSTORE",
+"created" : {
+"build" : 72643,
+"appVersion" : "53.2",
+"commit" : "f4e56c65d61efa65dd63fd44515a6e4b855bdd9e",
+"app" : "com.bohemiancoding.sketch3",
+"compatibilityVersion" : 99,
+"version" : 116,
+"variant" : "NONAPPSTORE"
+},
+"saveHistory" : [
+"NONAPPSTORE.72643"
+],
+"appVersion" : "53.2",
 "pagesAndArtboards" : {
 "58C9658E-0742-4510-AB06-E8F8104160B4" : {
 "name" : "Design Ipad",
@@ -188,33 +216,5 @@
 }
 }
 }
-},
-"version" : 116,
-"fonts" : [
-"SFProText-Regular",
-"SFProDisplay-Light",
-"SFProDisplay-Regular",
-"Roboto-Medium",
-"Roboto-Bold",
-"SFProText-Semibold",
-"Roboto-Regular"
-],
-"compatibilityVersion" : 99,
-"app" : "com.bohemiancoding.sketch3",
-"autosaved" : 0,
-"variant" : "NONAPPSTORE",
-"created" : {
-"build" : 72643,
-"appVersion" : "53.2",
-"commit" : "f4e56c65d61efa65dd63fd44515a6e4b855bdd9e",
-"app" : "com.bohemiancoding.sketch3",
-"compatibilityVersion" : 99,
-"version" : 116,
-"variant" : "NONAPPSTORE"
-},
-"saveHistory" : [
-"NONAPPSTORE.72643"
-],
-"appVersion" : "53.2",
-"build" : 72643
+}
 }

@@ -29401,7 +29401,7 @@
 "height" : 28,
 "constrainProportions" : false,
 "do_objectID" : "20ED797F-DFEF-45F2-9D60-F4B110029333",
-"x" : 668,
+"x" : 669,
 "width" : 68,
 "y" : 66
 },
@@ -37675,7 +37675,7 @@
 "blue" : 1,
 "green" : 1
 },
-"hasClickThrough" : false,
+"hasClickThrough" : true,
 "isFixedToViewport" : false,
 "nameIsFixed" : true,
 "isVisible" : true,
@@ -62270,7 +62270,7 @@
 "hasCurveTo" : false,
 "curveFrom" : "{0.77580166810952578, 0.65238784065655298}",
 "point" : "{0.77885175086484437, 0.67105506842742235}",
-                            "cornerRadius" : 0,
+                           "cornerRadius" : 0,
 "curveTo" : "{0.77885175086484437, 0.67105506842742235}",
 "hasCurveFrom" : true
 },
