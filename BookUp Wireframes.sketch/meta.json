@@ -1,37 +1,11 @@
 {
-"commit" : "f4e56c65d61efa65dd63fd44515a6e4b855bdd9e",
-"build" : 72643,
-"version" : 116,
-"fonts" : [
-"Roboto-Italic",
-"Roboto-Medium",
-"Roboto-Bold",
-"Roboto-Light",
-"Roboto-Regular"
-],
-"compatibilityVersion" : 99,
-"app" : "com.bohemiancoding.sketch3",
-"autosaved" : 0,
-"variant" : "NONAPPSTORE",
-"created" : {
-"build" : 72643,
-"appVersion" : "53.2",
-"commit" : "f4e56c65d61efa65dd63fd44515a6e4b855bdd9e",
-"app" : "com.bohemiancoding.sketch3",
-"compatibilityVersion" : 99,
-"version" : 116,
-"variant" : "NONAPPSTORE"
-},
-"saveHistory" : [
-"NONAPPSTORE.72643"
-],
-"appVersion" : "53.2",
+"commit" : "399b83655ed261b257875cf8e762efa1a649509e",
 "pagesAndArtboards" : {
 "38e7cec0-4c19-11e9-a0fd-5dd9c7e33d2f" : {
 "name" : "Page 1",
 "artboards" : {
-"1CDCF374-FEFE-49A1-A648-93F96B319236" : {
-"name" : "Searching book QR error"
+"3BB49218-4947-4704-9B91-815A06737ECA" : {
+"name" : "Scan your book QR"
 },
 "025EC457-F5BE-4336-9755-513FAF0410B9" : {
 "name" : "Book information"
@@ -39,14 +13,11 @@
 "79180087-C6C6-47A8-B23E-80AA30A2C442" : {
 "name" : "Book information "
 },
-"12192DA9-0A5B-4A95-8FC0-CD1AD9C56E56" : {
-"name" : "Search bar "
+"8BA70FA7-CB62-4ED5-A349-BC4DC3F8A934" : {
+"name" : "No results found"
 },
 "2202DD65-AD11-4DBC-A90C-2E9E73435BC7" : {
 "name" : "Verification code Copy"
-},
-"3A6B72F7-984B-41CF-A878-E359AABF864F" : {
-"name" : "Search bar nav "
 },
 "746AAB48-B95E-45CE-B9F6-CDCAE1F42EF6" : {
 "name" : "App review page"
@@ -111,6 +82,9 @@
 "CCEAFB0B-5FDC-4E92-AB6D-CE42FF45DA91" : {
 "name" : "Reset password "
 },
+"92D4B3A6-546D-4D13-8B61-5F8C4F601995" : {
+"name" : "Confirm borrow  Copy"
+},
 "992513E8-3AB8-4704-8531-090E63CF5C5A" : {
 "name" : "Search page"
 },
@@ -138,14 +112,8 @@
 "83A32F02-AEAF-4A74-9A7B-39F25E383C9F" : {
 "name" : "rETURNING QR Wrong path Copy"
 },
-"A1DC803A-5581-421F-954C-374D03F67D77" : {
-"name" : "No results found in search bar"
-},
 "4A4D1DDB-75C7-4F61-878C-8C533041BD52" : {
 "name" : "Home app"
-},
-"727910D3-75D3-441B-96D7-148840E52CC1" : {
-"name" : "Confirm Returning"
 },
 "57024F57-32E5-4381-948F-00B0F571E760" : {
 "name" : "Add review Copy"
@@ -156,11 +124,11 @@
 "6765B925-2156-4CB9-91ED-C92A82FC1FD0" : {
 "name" : "Loading book QR-Return"
 },
+"D716668D-DE72-4063-AD05-2317D9DD6DD4" : {
+"name" : "Borrowing error Copy"
+},
 "347B4206-A4AA-4951-AAF2-C4B1B3A6281D" : {
 "name" : "Review verification "
-},
-"AE08FB44-CBE1-454D-8B5E-9BDDF85FC1F9" : {
-"name" : "Returning error"
 },
 "45DBE65E-9141-4285-AE7F-5275E4F44678" : {
 "name" : "New arrivals"
@@ -174,11 +142,11 @@
 "85D1BAC7-978D-4BBD-84F2-47E7B5E3BDDE" : {
 "name" : "Add review"
 },
-"3BB49218-4947-4704-9B91-815A06737ECA" : {
-"name" : "Scan your book QR"
+"1CDCF374-FEFE-49A1-A648-93F96B319236" : {
+"name" : "Searching book QR error"
 },
-"8BA70FA7-CB62-4ED5-A349-BC4DC3F8A934" : {
-"name" : "No results found"
+"12192DA9-0A5B-4A95-8FC0-CD1AD9C56E56" : {
+"name" : "Search bar "
 }
 }
 },
@@ -383,6 +351,9 @@
 "EA9DCC29-4C58-474E-8410-E5890C3D567B" : {
 "name" : "Book Status"
 },
+"87008B2B-4745-4987-869D-0922426CED3E" : {
+"name" : "Searcjing bar"
+},
 "8904C80B-DEF1-4E01-ABBA-8DE6ED01393A" : {
 "name" : "App save comment"
 },
@@ -532,5 +503,31 @@
 }
 }
 }
-}
+},
+"version" : 118,
+"fonts" : [
+"Roboto-Italic",
+"Roboto-Medium",
+"Roboto-Bold",
+"Roboto-Light",
+"Roboto-Regular"
+],
+"compatibilityVersion" : 99,
+"app" : "com.bohemiancoding.sketch3",
+"autosaved" : 0,
+"variant" : "NONAPPSTORE",
+"created" : {
+"build" : 76490,
+"appVersion" : "54.1",
+"commit" : "399b83655ed261b257875cf8e762efa1a649509e",
+"app" : "com.bohemiancoding.sketch3",
+"compatibilityVersion" : 99,
+"version" : 118,
+"variant" : "NONAPPSTORE"
+},
+"saveHistory" : [
+"NONAPPSTORE.76490"
+],
+"appVersion" : "54.1",
+"build" : 76490
 }
