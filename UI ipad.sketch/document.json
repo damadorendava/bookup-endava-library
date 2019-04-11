@@ -6589,12 +6589,12 @@
 "do_objectID" : "676A10CA-E505-488C-926B-FD0265200BBD",
 "overrideProperties" : [
 {
-"overrideName" : "9E7069A9-ADB0-42D7-BBD5-9DB0F7959351_symbolID",
+"overrideName" : "8C568016-93EF-4728-A1F0-ABDFB4385117_symbolID",
 "_class" : "MSImmutableOverrideProperty",
 "canOverride" : true
 },
 {
-"overrideName" : "8C568016-93EF-4728-A1F0-ABDFB4385117_symbolID",
+"overrideName" : "9E7069A9-ADB0-42D7-BBD5-9DB0F7959351_symbolID",
 "_class" : "MSImmutableOverrideProperty",
 "canOverride" : true
 },
@@ -17987,7 +17987,7 @@
 "MSAttributedStringFontAttribute" : {
 "attributes" : {
 "name" : "Roboto-Regular",
-"size" : 12
+"size" : 16
 },
 "_class" : "fontDescriptor"
 },
@@ -17998,13 +17998,13 @@
 "blue" : 0.2156862745098039,
 "green" : 0.19607843137254899
 },
-"kerning" : 0.23142860000000001,
+"kerning" : 0.27000000000000002,
 "ligature" : 0,
 "paragraphStyle" : {
-"minimumLineHeight" : 17,
+"minimumLineHeight" : 18,
 "_class" : "paragraphStyle",
 "allowsDefaultTighteningForTruncation" : 0,
-"maximumLineHeight" : 17
+"maximumLineHeight" : 18
 }
 }
 },
@@ -22471,6 +22471,206 @@
 },
 "_class" : "sharedStyle",
 "name" : "iOs\/title1\/gray\/center "
+},
+{
+"do_objectID" : "6ADC6D2B-AF4B-47D0-8A65-3472BDC8945A",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Roboto-Regular",
+"size" : 16
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0.1372549019607843,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.2156862745098039,
+"green" : 0.19607843137254899
+},
+"kerning" : 0.1142857,
+"ligature" : 0,
+"paragraphStyle" : {
+"minimumLineHeight" : 24,
+"_class" : "paragraphStyle",
+"allowsDefaultTighteningForTruncation" : 0,
+"maximumLineHeight" : 24
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "iOs\/body\/graydark\/left "
+},
+{
+"do_objectID" : "1A1157C5-422B-4F2B-8EFE-AC5F5BA2CDD7",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Roboto-Medium",
+"size" : 17
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0.1372549019607843,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.2156862745098039,
+"green" : 0.19607843137254899
+},
+"kerning" : 0.059999998658895493,
+"ligature" : 0,
+"paragraphStyle" : {
+"minimumLineHeight" : 19,
+"_class" : "paragraphStyle",
+"allowsDefaultTighteningForTruncation" : 0,
+"maximumLineHeight" : 19
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "iOs\/headline\/graydark\/left "
+},
+{
+"do_objectID" : "9F216D7A-70CE-46F2-938A-55A625AE49EC",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Roboto-Medium",
+"size" : 15
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0.64313725490196072,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.70980392156862748,
+"green" : 0.69019607843137254
+},
+"kerning" : -0.05000000074505806,
+"ligature" : 0,
+"paragraphStyle" : {
+"minimumLineHeight" : 16,
+"_class" : "paragraphStyle",
+"allowsDefaultTighteningForTruncation" : 0,
+"maximumLineHeight" : 16
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "iOs\/headline\/graydark\/left  2"
+},
+{
+"do_objectID" : "EF43D339-6B7D-4F53-A381-C4CBC341623B",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Roboto-Regular",
+"size" : 15
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0.64313725490196072,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.70980392156862748,
+"green" : 0.69019607843137254
+},
+"kerning" : -0.05000000074505806,
+"ligature" : 0,
+"paragraphStyle" : {
+"minimumLineHeight" : 16,
+"_class" : "paragraphStyle",
+"allowsDefaultTighteningForTruncation" : 0,
+"maximumLineHeight" : 16
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "iOs\/headline\/graydark\/left  3"
+},
+{
+"do_objectID" : "C38D4919-E825-4C98-8639-B41CFB7D6AD2",
+"value" : {
+"textStyle" : {
+"verticalAlignment" : 0,
+"_class" : "textStyle",
+"encodedAttributes" : {
+"MSAttributedStringFontAttribute" : {
+"attributes" : {
+"name" : "Roboto-Regular",
+"size" : 15
+},
+"_class" : "fontDescriptor"
+},
+"MSAttributedStringColorAttribute" : {
+"red" : 0.1372549019607843,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.2156862745098039,
+"green" : 0.19607843137254899
+},
+"kerning" : -0.05000000074505806,
+"ligature" : 0,
+"paragraphStyle" : {
+"minimumLineHeight" : 16,
+"_class" : "paragraphStyle",
+"allowsDefaultTighteningForTruncation" : 0,
+"maximumLineHeight" : 16
+}
+}
+},
+"windingRule" : 1,
+"_class" : "style",
+"miterLimit" : 10,
+"startMarkerType" : 0,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "iOs\/headline\/graydark\/left  4"
 }
 ],
 "_class" : "sharedTextStyleContainer"
