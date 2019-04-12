@@ -4,6 +4,12 @@
 "58C9658E-0742-4510-AB06-E8F8104160B4" : {
 "name" : "Design Ipad",
 "artboards" : {
+"CE7A358E-0ACE-4914-9B1F-CBDA767C60E3" : {
+"name" : "No results found"
+},
+"E069A1C6-FEE9-4FE3-979F-769BF2CD0991" : {
+"name" : "confirm returning"
+},
 "B53C5050-6F19-4550-99D4-A3F2D3397D32" : {
 "name" : "Home \/scroll"
 },
@@ -28,14 +34,23 @@
 "6A3D8B2B-E655-4B6D-BF1D-A0ADDF35535D" : {
 "name" : "Home "
 },
+"29EEEB98-B8E0-46FA-9736-54E25B1DB389" : {
+"name" : "Returning failed"
+},
 "3F13D247-E541-430D-979D-49BF63BEDB52" : {
 "name" : "Book\/available"
 },
-"E069A1C6-FEE9-4FE3-979F-769BF2CD0991" : {
-"name" : "confirm returning"
+"63F2BD20-E0E5-4A83-B07C-A131DED198CA" : {
+"name" : "Borrowing failed"
+},
+"36506F39-9BB9-4765-9B4A-6B6EFBCBE7BA" : {
+"name" : "Viewmore\/newarrivals Copy"
 },
 "1B3D3818-8C39-4A8C-80D5-79BEEB90DC28" : {
 "name" : "Search all results "
+},
+"B7C61186-93BA-4C65-AB1B-B4D6E5EB87DF" : {
+"name" : "QR invalid"
 },
 "BBD686B0-7209-48E2-B05F-7A2372A00211" : {
 "name" : "confirm borrow"
@@ -48,6 +63,9 @@
 "ED9DBD6F-FF09-43B3-AA0D-96AE0E7AAFB9" : {
 "name" : "Symbols",
 "artboards" : {
+"9BA737CC-E465-4B5C-B113-76071AFEFAD6" : {
+"name" : "molecule\/popUp\/returningerror "
+},
 "32B3797D-609C-41CF-8954-AB0E437C4821" : {
 "name" : "button\/icon\/available"
 },
@@ -66,11 +84,11 @@
 "022E79CB-0E2C-45D0-AD77-7C768089428D" : {
 "name" : "atom\/stars\/color"
 },
+"CDFCA167-3E5F-4A69-BF76-1785ACDB10D1" : {
+"name" : "button\/enable\/text\/tryagain"
+},
 "76298597-A664-4708-86B0-A17B41C99B52" : {
 "name" : "atom\/stars\/3color "
-},
-"2F9D4180-630D-46E4-9906-B12ECC800680" : {
-"name" : "button\/hover\/login\/blue"
 },
 "F3E8DA32-9F3E-4A4F-80F1-01009B1B160C" : {
 "name" : "atom\/stars\/3color \/gray"
@@ -87,14 +105,14 @@
 "572640B0-932F-4667-B9EB-607D1AE97C4F" : {
 "name" : "atom\/button\/search-camara"
 },
-"937C1E3B-5F0A-4A85-8208-7F21D9C129D8" : {
-"name" : "tab"
-},
 "BAFE1550-4295-47C0-B19A-B7256266E3EF" : {
 "name" : "Icon\/16\/star\/color"
 },
 "BD1356FA-119B-47D3-A6E1-D8E3C14E7BA2" : {
 "name" : "button\/enable\/confirm"
+},
+"F4B4182A-9995-4C65-B3E2-8A1C0CA0CC08" : {
+"name" : "Icon\/16\/star\/color\/gray"
 },
 "34F83A7E-4B84-4F00-828B-A6E33D908069" : {
 "name" : "button\/enable\/ok"
@@ -104,6 +122,9 @@
 },
 "088FFA30-F820-4C9A-9E70-34348528FA1C" : {
 "name" : "atom\/stars\/blue\/1"
+},
+"046A469D-25B4-486E-94DA-F970F1A5AB61" : {
+"name" : "Icon\/24\/error\/orange Copy"
 },
 "36F79BC2-C239-4663-8887-B3D527744145" : {
 "name" : "molecule\/popUp\/confirmreturning"
@@ -116,9 +137,6 @@
 },
 "BB7C4332-95F3-40D2-A930-88EC9044213D" : {
 "name" : "textfield\/icon\/type"
-},
-"F4B4182A-9995-4C65-B3E2-8A1C0CA0CC08" : {
-"name" : "Icon\/16\/star\/color\/gray"
 },
 "F6787D14-3FA8-40E3-8791-6F34DACF5C53" : {
 "name" : "Icon\/24\/nextL\/graylight  "
@@ -141,6 +159,9 @@
 "136711AA-2BBC-4B40-B688-CC7B4DAE1200" : {
 "name" : "textfield\/icon"
 },
+"54FFDBDD-C74D-459F-8B57-7EC10A9CA036" : {
+"name" : "molecule\/reviews\/m"
+},
 "899C694F-F951-4A6F-B368-75D7B332A0D4" : {
 "name" : "Colours"
 },
@@ -150,11 +171,17 @@
 "CA515D7B-99D6-4087-88F1-2F1690655968" : {
 "name" : "atom\/icon\/available"
 },
-"54AB974C-1E2B-4CB8-B7F8-E5DFC7C5D433" : {
-"name" : "Bars \/ Navigation Bar \/ iPad - Regular \/ Light - Default"
+"7D5206BF-8031-4423-8A64-D0F6B78A0BD0" : {
+"name" : "molecule\/reviews\/xs"
+},
+"65FD7704-6097-4E86-8E76-6B6FE0E3657E" : {
+"name" : "molecule\/reviews\/s"
 },
 "D61459F0-B9A7-4FC4-BC6B-FC6BE43A5275" : {
 "name" : "button\/icon\/search"
+},
+"809C6BB0-3C56-4912-B637-072114A00448" : {
+"name" : "atom\/stars\/blue\/5"
 },
 "B5876A4A-04B5-4E3A-96D9-B53551997FC8" : {
 "name" : "atom\/icon\/borrow"
@@ -165,11 +192,11 @@
 "FC597FA0-9407-46E3-89F5-7BED56BDDE42" : {
 "name" : "button\/scan"
 },
-"7A18C9C1-AFED-4CDF-926F-29A752B2D2C1" : {
-"name" : "System \/ Keyboards \/ iPhone \/ x \/ Light - Background"
-},
 "27C7A766-5AC3-4C6D-8880-E442086703A7" : {
 "name" : "icon\/20\/erase"
+},
+"AD07987C-CB5F-4E39-8912-78CE575F3A63" : {
+"name" : "molecule\/navegation\/searchfield"
 },
 "5E8CF620-D3C2-4F54-A689-20D5C0B90571" : {
 "name" : "atom\/icon\/borrow"
@@ -177,8 +204,8 @@
 "0608CB0C-BD51-4B14-8CD3-F653CB070427" : {
 "name" : "button\/icon\/camera"
 },
-"C11D3DE0-5BDE-4A87-A1A7-C5D3C430FC8C" : {
-"name" : "System \/ Keyboards \/ iPad \/ Light - Alphabetic"
+"6D42F6F6-01B6-467C-A2EF-51D4F29C0665" : {
+"name" : "Icon\/24\/book"
 },
 "48699BC4-0708-4C74-8F2F-49D98337A4D9" : {
 "name" : "Icon\/16\/star\/color\/gray"
@@ -186,17 +213,14 @@
 "544FCBFC-2B91-4DDB-8870-D72EE540364D" : {
 "name" : "atom\/icon\/noavailable"
 },
+"903C590F-6ECB-43E4-823E-4641CD352B43" : {
+"name" : "molecule\/navegation\/searchfield type"
+},
 "CBB1A76B-AF83-46E9-B88B-979361CCBB7B" : {
 "name" : "Typography IOS"
 },
-"016C6F01-12A3-485D-B1D2-BD2D2884C1B2" : {
-"name" : "Bars \/ Navigation Bar \/ iPad - Regular \/ Light - Default"
-},
 "2F404A42-10AE-4EC9-9644-A51916A4903D" : {
 "name" : "Icon\/24\/check\/blue"
-},
-"053961E8-0C57-40C8-BDC3-CE210563BF36" : {
-"name" : "System \/ Keyboards \/ iPad \/ x \/ Key - Dark Wide Blue"
 },
 "47CA9C77-469F-4732-9DEE-1DB1CECEC24F" : {
 "name" : "atom\/stars\/2color "
@@ -213,6 +237,9 @@
 "E0810B53-308E-4D35-A64C-27F6B0045AE8" : {
 "name" : "button\/enable\/text\/blue copy"
 },
+"7CFA4772-C7EA-413B-BAF5-AF4E63E59F4C" : {
+"name" : "Icon\/24\/error\/blue"
+},
 "74A54012-3465-46C2-A5E2-BE00657D2E98" : {
 "name" : "icon\/20\/availabe"
 },
@@ -221,6 +248,9 @@
 },
 "191F4ED0-1CDB-4BCD-819E-E5C8349F6FF2" : {
 "name" : "molecule\/popUp\/validationcode"
+},
+"82221EA2-81B9-48EE-ACB6-261AD627C8B3" : {
+"name" : "button\/enable\/tryagain"
 },
 "BE5EE6C9-CB0A-4530-ABCB-92F39E600815" : {
 "name" : "atom\/stars\/gray\/3"
@@ -236,19 +266,18 @@
 },
 "D4C42D46-278B-4602-8795-0E43B036C293" : {
 "name" : "icon\/20\/search"
+},
+"E717E1AC-E332-4C4F-B8EB-35FEA7C18EEF" : {
+"name" : "molecule\/popUp\/borrowingerror"
 }
 }
 }
 },
 "version" : 116,
 "fonts" : [
-"SFProText-Regular",
-"SFProDisplay-Light",
-"SFProDisplay-Regular",
+"Roboto-Regular",
 "Roboto-Medium",
-"Roboto-Bold",
-"SFProText-Semibold",
-"Roboto-Regular"
+"SFProText-Semibold"
 ],
 "compatibilityVersion" : 99,
 "app" : "com.bohemiancoding.sketch3",
