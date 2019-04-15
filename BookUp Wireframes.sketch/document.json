@@ -10,10 +10,10 @@
 "colorAssets" : [
 
 ],
-"images" : [
+"colors" : [
 
 ],
-"colors" : [
+"images" : [
 
 ],
 "gradientAssets" : [
@@ -34,6 +34,11 @@
 "_ref_class" : "MSImmutablePage",
 "_class" : "MSJSONFileReference",
 "_ref" : "pages\/38e7cec0-4c19-11e9-a0fd-5dd9c7e33d2f"
+},
+{
+"_ref_class" : "MSImmutablePage",
+"_class" : "MSJSONFileReference",
+"_ref" : "pages\/E9F6FF21-9B1A-47C1-97E6-27F8E9F24A6D"
 },
 {
 "_ref_class" : "MSImmutablePage",

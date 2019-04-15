@@ -1,36 +1,5 @@
 {
-"commit" : "f4e56c65d61efa65dd63fd44515a6e4b855bdd9e",
-"build" : 72643,
-"version" : 116,
-"fonts" : [
-"Roboto-Regular",
-"Helvetica-LightOblique",
-"HelveticaNeue",
-"Helvetica-Bold",
-"Helvetica",
-"Montserrat-Medium",
-"Roboto-Medium",
-"Roboto-Bold",
-"TradeGothicLTStd",
-"Montserrat-Regular"
-],
-"compatibilityVersion" : 99,
-"app" : "com.bohemiancoding.sketch3",
-"autosaved" : 0,
-"variant" : "NONAPPSTORE",
-"created" : {
-"build" : 72643,
-"appVersion" : "53.2",
-"commit" : "f4e56c65d61efa65dd63fd44515a6e4b855bdd9e",
-"app" : "com.bohemiancoding.sketch3",
-"compatibilityVersion" : 99,
-"version" : 116,
-"variant" : "NONAPPSTORE"
-},
-"saveHistory" : [
-"NONAPPSTORE.72643"
-],
-"appVersion" : "53.2",
+"commit" : "399b83655ed261b257875cf8e762efa1a649509e",
 "pagesAndArtboards" : {
 "17E18574-2922-47AD-8B66-56DF4B3B0AC8" : {
 "name" : "StyleGuide",
@@ -398,8 +367,8 @@
 "8FCF23B3-9E9D-464D-8886-288AD8682B3D" : {
 "name" : "Grid System ",
 "artboards" : {
-"5304D89D-19D7-4FC9-8C5B-B64CF3709FCF" : {
-"name" : "Mobile 375px"
+"6EC3268D-3AA4-40B2-B725-23588A04F4E0" : {
+"name" : "Desktop 1440px"
 },
 "A88A05E5-3AB4-427D-99E8-AEFC48148D3D" : {
 "name" : "Tablet Portrait 768PX"
@@ -407,8 +376,8 @@
 "37AE7605-5FE4-40B9-8C77-3823785E7468" : {
 "name" : "Tablet Landscape 1024PX"
 },
-"6EC3268D-3AA4-40B2-B725-23588A04F4E0" : {
-"name" : "Desktop 1440px"
+"5304D89D-19D7-4FC9-8C5B-B64CF3709FCF" : {
+"name" : "Mobile 375px"
 }
 }
 },
@@ -420,5 +389,36 @@
 }
 }
 }
-}
+},
+"version" : 118,
+"fonts" : [
+"Roboto-Regular",
+"Helvetica-LightOblique",
+"HelveticaNeue",
+"Helvetica-Bold",
+"Helvetica",
+"Montserrat-Medium",
+"Roboto-Medium",
+"Roboto-Bold",
+"TradeGothicLTStd",
+"Montserrat-Regular"
+],
+"compatibilityVersion" : 99,
+"app" : "com.bohemiancoding.sketch3",
+"autosaved" : 0,
+"variant" : "NONAPPSTORE",
+"created" : {
+"build" : 76490,
+"appVersion" : "54.1",
+"commit" : "399b83655ed261b257875cf8e762efa1a649509e",
+"app" : "com.bohemiancoding.sketch3",
+"compatibilityVersion" : 99,
+"version" : 118,
+"variant" : "NONAPPSTORE"
+},
+"saveHistory" : [
+"NONAPPSTORE.76490"
+],
+"appVersion" : "54.1",
+"build" : 76490
 }

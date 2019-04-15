@@ -46601,12 +46601,12 @@
 "height" : 1532,
 "constrainProportions" : false,
 "do_objectID" : "70198951-AD72-4817-B3D7-B3895B2CEE48",
-"x" : -4096,
+"x" : -4109,
 "width" : 1440,
 "y" : -2792
 },
 "do_objectID" : "CAD56F0C-C389-40A2-AE4F-8E022D61F5B6",
-"hasClickThrough" : true,
+"hasClickThrough" : false,
 "exportOptions" : {
 "shouldTrim" : false,
 "do_objectID" : "A613175B-2302-4FDA-AE70-0FE431A50733",
@@ -48173,7 +48173,7 @@
 "height" : 205,
 "constrainProportions" : false,
 "do_objectID" : "94AAFE24-843F-47B3-8EA2-152B414CD635",
-"x" : 397,
+"x" : 379,
 "width" : 645,
 "y" : 1114
 },
@@ -74229,7 +74229,7 @@
 "_class" : "overrideValue",
 "value" : "Password"
 },
-          {
+           {
 "do_objectID" : "2F777595-3C25-4DDE-907E-100EC601FDAC",
 "overrideName" : "0E2A866B-F9FC-4BC2-992E-08702C451C0B_stringValue",
 "_class" : "overrideValue",
@@ -111741,7 +111741,7 @@
 "fillType" : 0,
 "noiseIntensity" : 0,
 "patternFillType" : 1,
-                   "noiseIndex" : 0,
+                    "noiseIndex" : 0,
 "isEnabled" : false
 }
 ],
